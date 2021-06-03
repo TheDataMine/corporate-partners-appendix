@@ -1,0 +1,6 @@
+name: crp
+title: Corporate Partners
+version: 1.0.0
+start_page: ROOT:introduction.adoc
+nav:
+- modules/ROOT/nav.adoc
