@@ -2,8 +2,7 @@
   <a href="https://datamine.purdue.edu"><img width="100%" src="./banner.png" alt='Purdue University'></a>
 </p>
 
-[![deployed](https://github.com/TheDataMine/the-examples-book/workflows/deployed/badge.svg)](https://thedatamine.github.io/the-examples-book/)
-
+[![deployed](https://github.com/TheDataMine/corporate-partners-appendix/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/TheDataMine/corporate-partners-appendix/actions/workflows/deploy.yml)
 
 ---
 
