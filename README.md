@@ -18,6 +18,8 @@ This repository contains the content for the Corporate Partners appendix of [The
 
 This book is written using [AsciiDoc](https://asciidoc.org/). AsciiDoc is an open and powerful format for writing notes, text documents, books, etc. It is easy to write technical documentation in AsciiDoc, and quickly convert the text to various mediums like websites, ebooks, pdfs, etc.
 
+Every appendix of the book has a GitHub Action configured to automatically build and deploy the book as the `master` branch is updated. Additionally, the GitHub Action will automatically scrape the newly deployed website, and update the live search index accordingly. There is _no_ additional work that must be done when a change is made to this repository.
+
 ### Versioning
 
 Multiple versions of this appendix can be maintained using branches or tags. Any Antora component -- including the book itself -- can have multiple maintained versions.
