@@ -1,1 +1,5 @@
 * xref:introduction.adoc[Introduction]
+* xref:agile_training.adoc[Agile Training]
+* xref:student_playbook.adoc[Student Playbook]
+* xref:ta_playbook.adoc[TA Playbook]
+* xref:cp_mentor_playbook.adoc[Mentor Playbook]
