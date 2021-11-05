@@ -1,0 +1,52 @@
+= Corporate Partner TA Playbook
+
+== TA Responsibility Overview
+
+TAs hold a large part in the success of a corporate partner team and in a student’s experience within The Data Mine. The TAs primary responibilties include enagging with students and CRP mentors, leading projects, and being a resource for their team. 
+
+== Creating a Welcoming Environment
+
+=== Team Building
+
+During the academic year, it is beneficial to host a handful of team building, social events for teams to become comforatable with each other outside of the academic setting. 
+
+Some ideas for team building events include:
+
+- Team dinners
+- Online games or activities
+- IM sports
+- Club events
+- Board games
+
+=== Meeting Warmups
+
+Prior to the start of team meetings, TAs are encouraged to begin with a warmup activity. These activities are meant to get conversations started, make everyone feel welcomed and heard, and lighten any pressure that the team might be feeling. 
+
+Some ideas for meeting warmups include:
+
+- Kahoot
+- Would you rathers
+- Purdue themed questions
+- Charty party
+- More ideas: https://purdue0-my.sharepoint.com/:w:/g/personal/low11_purdue_edu/EXCp-mcoIhBLnAoyo42DS4UB8oMo7EbYvXGynbLR0G1jDQ?e=0f58W3
+
+== Team Break Down
+
+=== How to Form Sub Teams
+
+== Slack Overview
+
+== Agile as a TA
+
+== Technical Resources
+	
+=== What to do when waiting for data
+
+=== How to teach new technical skills
+
+== Symposium Resources
+
+=== Poster
+
+=== Video
+
