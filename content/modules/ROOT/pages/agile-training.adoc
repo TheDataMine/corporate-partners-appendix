@@ -61,7 +61,9 @@ Sprint planning should take place at the start of every sprint. Realistically, p
 During the sprint planning meeting, an open discussion is held between the corporate partner mentors, TAs, and development team. Each development team member will take ownership of tasks from the product backlog to complete the coming sprint. Each event that is chosen will then be moved to sprint backlog. 
 
 [TIP]
+====
 Pairing members of the development team together to take co-ownership of tasks helps productivity and allows for team mentorships to form.
+====
 
 == Daily Standups
 
@@ -79,7 +81,9 @@ Daily standups keep each team member accountable for their progress and allows f
 It is not feasible to have daily standups in The Data Mine model because teams are constrained by an academic schedule. However, it is possible to hold similar events on a weekly basis. Once a week, teams should start their meetings with a “weekly” standup following the same format of a daily standup. 
 
 [Tip]
+====
 Keep these meetings lighthearted and fun. The more stress placed on team members for these quick check-ins makes standups less valuable. 
+====
 
 == Sprint Reviews
 
@@ -99,7 +103,9 @@ A *sprint retrospective* is the final sprint ceremony within a sprint. This even
 Retrospectives in The Data Mine function as a standard retrospective. This ceremony will happen once a sprint and is a time for reflection and evaluation of the sprint. This event can be held with our without a corporate partner mentor and it is the TA’s responsibility to lead this ceremony. 
 
 [TIP]
+====
 Encourage honesty in the hope of continued improvement.
+====
 
 
 == Sprint Schedule in The Data Mine
@@ -115,4 +121,6 @@ Because The Data Mine Corporate Partners experience is on an academic schedule, 
 *Following Thursday/Friday Lab*: standup, sprint retrospective, and working meeting
 
 [IMPORTANT]
+====
 This schedule can be modified slightly, but it is most important for sprint planning meetings and sprint review meetings to be held with corporate partner mentors.
+====
