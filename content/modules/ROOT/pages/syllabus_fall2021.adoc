@@ -45,14 +45,6 @@ Dr. Mark Daniel Ward, Director, mdw@purdue.edu
 
 |===
 
-=== Email Policy
-* Please use your official @purdue.edu email address to communicate with us. 
-* If you have not received a response within 2 business days, please resend the email. 
-* When emailing us, *please place your Corporate Partner team in the subject line of the email* (e.g., Ford Team – Symposium Poster Question). This will help us respond to your emails quickly.
-* Use this chart to send your questions to the most appropriate email: 
-
-*chart missing here*
-
 
 === Data Scientists 
 
@@ -70,6 +62,15 @@ Our Corporate Partner TAs will serve as peer mentors and team leaders for each o
 === Corporate Partner Mentors
 Your Corporate Partner Mentor(s) are employees of the company you are working with. You will meet once a week with them online (unless the company is in West Lafayette, IN or visiting Purdue for a meeting). Please treat all communication with them in a professional manner – they are like your supervisor during an internship. They also act as a product owner and can help to answer questions or find resources for any product specific questions that you have during the project. 
 
+== Logistics 
+
+=== Email Policy
+* Please use your official @purdue.edu email address to communicate with us. 
+* If you have not received a response within 2 business days, please resend the email. 
+* When emailing us, *please place your Corporate Partner team in the subject line of the email* (e.g., Ford Team – Symposium Poster Question). This will help us respond to your emails quickly.
+* Use this chart to send your questions to the most appropriate email: 
+
+*chart missing here*
 === Project Assignments 
 If no Data Scientist is assigned to your team, you can email datamine@purdue.edu for support and your question will be directed to the team member who can best support your team. 
 
@@ -94,10 +95,11 @@ This meeting will occur *in person* for all teams. This is dedicated work time w
 
 image::MRGNmap.jpg[]
 
-== Course Schedule
-Each Corporate Partner mentor will have their own schedules and due dates, but here is the schedule for ALL Corporate Partner students for the general due dates assignments to be submitted to The Data Mine staff: *Assignment due dates are listed in BOLD. Other dates are important notes.* 
+=== Course Schedule
 
 *table missing here*
+
+xref:schedule_fall2021.adoc[Click here to view the Fall 2021 Course Schedule]
 
 
 == Assignments and Grades
@@ -166,8 +168,8 @@ This course will follow the 90-80-70-60 grading scale for A, B, C, D cut-offs.  
 === Late Policy 
 We do NOT accept late work, unless there are extenuating circumstances.  It is better to submit a partially done report than nothing at all. Partial credit can be earned for work turned in on time. The electronic submission systems also do not allow for late work. We cannot make exceptions for these items once the submission deadline has passed. 
 
-== Course Site
-All course material will be posted to our course page on Brightspace:   https://purdue.brightspace.com/
+=== Course Site
+All submissions will be made through link:https://purdue.brightspace.com/[Brightspace] or link:https://www.gradescope.com/[Gradescope] 
 
 == Course Descriptions
 Students in The Data Mine Corporate Partners Learning Community will work in groups with Corporate Partner mentors on a variety of projects.  They will analyze real data related to questions that the Corporate Partner proposes.  Most projects will last for a full academic year (late August through late April), with multiple reports and presentations given more frequently.  The mentor is expected to meet with the students weekly by Microsoft Teams, or (more rarely) in person. Students are expected to actively participate in these meetings and in all individual and group work.  The goal of the course is to help students build impactful industry related skills in data science, visualization, and data engineering. The Data Mine staff also has data scientists who can assist students with technical questions focused on the skills being built and the research conducted. Students can work on real-world industry facing issues that have a high value add for the corporate partner. 
@@ -199,29 +201,6 @@ If you want to be a *successful* student, we encourage you to:
 •	Slack and Linear account – you will be invited to your team’s channel. 
 •	Corporate partner team readings: Each Corporate Partner team is unique, but your mentor will likely recommend journal articles or websites to familiarize yourself with the project. 
 
-== Online Meeting “Net-etiquette"
-
-Even before the world widely moved online due to COVID-19, The Data Mine Corporate Partners students met with their Corporate Partner Mentors online via Microsoft Teams because most Corporate Partner Mentors do not live or work near Purdue. For example, Viasat is in California; Sandia is in New Mexico; Microsoft is in Washington 
-
-Your weekly 50-minute meeting with your Corporate Partner Mentor meeting will occur online via Zoom (unless your mentor is located on campus – we will notify you if this is the case). 
-
-To create a welcoming online meeting environment, we are proposing the following internet etiquette, or “net-etiquette”. 
-
-•	Call into the meeting at least two minutes early so the meeting can begin promptly. If your meeting is schedule for 3:00 PM, make sure you log in by 2:58 PM. 
-•	Always check the time zone of the meeting to the time zone you are in. Meetings will always be scheduled for Eastern Time, which is the time zone Purdue is in. 
-•	Turn your web camera on. It is very challenging to gauge body language when you cannot see others. For example, you cannot tell if your teammates are nodding in agreement or confused if you cannot see them. 
-•	You should be *actively* attending the meetings: pay attention and stay engaged in the call. Do not be doing other homework or playing on your phone during these calls. 
-•	Find a quiet place to conduct the call. 
-•	Mute yourself unless you are speaking. Even if you think you are in a quiet space, there may be background noise that is disruptive to others. 
-•	Feel welcome to type your comments or questions into the chat if you feel more comfortable. 
-•	If you will be sharing content, make sure it is pulled up on your computer and ready to share. 
-o	Tip: if you’re planning to demo new content it can be helpful to create a recording in advance. Live demos can often run into issues. 
-•	If this is the first time that you will be using the calling software, please make sure to install all required software well before the first meeting. For example, you may need to install Microsoft Teams.
-•	Test your audio connection. The Microsoft Teams app or laptop microphone not working does not excuse you from participating.
-•	You can download the Microsoft Teams app on your mobile phone if needed. 
-•	Do not dominate any discussion. Give other students the opportunity to join in the discussion.
-•	Do not use offensive language. Present ideas appropriately.
-•	Always pay attention when the mentors and other students are speaking.  You should not do email or other tasks during your team meeting.  By focusing on the meeting, you will be more engaged, you will have more fun, and you will be better able to support your teammates and perform your own work as well.  There is plenty of time to be distracted on the internet when you are not in your team meeting.  Give it your best effort and support your team!
 
 == Sponsored Student Class Project Notice 
 
@@ -256,7 +235,8 @@ To become more familiar with Agile methodologies you will complete online traini
 
 The Linear application will also be available to teams for task tracking. The Data Mine staff will provide resources on the use of Linear and how it related to the Agile concepts in the materials above. The tool that the team utilizes for Agile task tracking can be determined on a project-by-project basis between the students and the corporate mentor or TA.  
 
-If you have any questions related to the Agile practices, please contact one of The Data Mine staff members listed at the beginning of the document. 
+xref:agile-training.adoc[Click here to view the Fall 2021 Course Schedule]
+
 
 == Attendance Policy 
 
