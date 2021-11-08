@@ -1,0 +1,56 @@
+= Professional Development
+
+== Resume
+
+The Center for Career Opportunities has a link:https://user-52947541.cld.bz/2020-2021-Purdue-University-Career-Success-Handbook[Career Success Handbook] that is helpful. 
+
+Example resumes are link:https://user-52947541.cld.bz/2020-2021-Purdue-University-Career-Success-Handbook/18/[available here] under the CCO 
+
+=== How to add Corporate Partners to your resume
+
+Here is an example: 
+
+*Undergraduate Data Science Researcher* 
+
+The Data Mine, Purdue University, West Lafayette, IN, August 2021 - April 2022
+
+* Collaborated with [Company Name] on [high level project description]
+* [Technical skills learned and applied on CRP project (high level)]
+* Trained to use R, SQL, and Python in STAT 19000  to …
+
+
+
+== LinkedIn
+
+We encourage you to like the page link:https://www.linkedin.com/company/datamine-purdue[The Data Mine – Purdue University] on LinkedIn. You are also welcome to connect with The Data Mine staff members on LinkedIn. 
+
+=== How to add Corporate Partners to your LinkedIn page
+
+*missing image here*
+
+Click “+” to add an experience. 
+
+*Title:* Undergraduate (or Graduate) Data Science Researcher 
+We recommend all students use this title and not make up other titles. Do not use the word “intern”.
+
+*Employment type:* leave this blank. It is not required. 
+
+*Company:* The Data Mine – Purdue University. 
+If you type that in, it should tag our LinkedIn page. **DO NOT tag the company since you are not employees of the company.**
+
+*Location:* West Lafayette, IN, USA
+
+*Start Date:* August 2021 (unless you have been involved for more than 1 year)
+
+*End Date:* Check “I am currently working in this role”. 
+
+*Description:* This is where you can list your corporate partner’s name, the tools you used, and a brief description of the project. The project description may be easier to write after the Symposium poster because anything that was approved for the final version of your poster by the company is fair to discuss publicly. 
+
+*Media:* You can add a link to The Data Mine website, or you can link to your poster and video after the Symposium in April 2022. 
+
+Click “Save”. 
+
+
+
+== Networking
+

@@ -1,6 +1,7 @@
 * xref:introduction.adoc[Introduction]
 * xref:agile-training.adoc[Agile Training]
 * xref:student_playbook.adoc[Student Playbook]
-** xref:syllabus_fall2021.adoc[Syllabus - Fall 2021 ]
+** xref:syllabus_fall2021.adoc[Syllabus - Fall 2021]
+** xref:professional_development.adoc[Professional Development]
 * xref:ta_playbook.adoc[TA Playbook]
 * xref:cp_mentor_playbook.adoc[Mentor Playbook]
