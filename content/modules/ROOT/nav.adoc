@@ -3,5 +3,6 @@
 * xref:student_playbook.adoc[Student Playbook]
 ** xref:syllabus_fall2021.adoc[Syllabus - Fall 2021]
 ** xref:professional_development.adoc[Professional Development]
+** xref:symposium.adoc[Symposium]
 * xref:ta_playbook.adoc[TA Playbook]
 * xref:cp_mentor_playbook.adoc[Mentor Playbook]
