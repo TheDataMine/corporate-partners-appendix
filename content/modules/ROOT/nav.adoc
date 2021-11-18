@@ -2,8 +2,8 @@
 * xref:agile-training.adoc[Agile Training]
 * xref:student_playbook.adoc[Students]
 ** Fall 2021
-*** xref:syllabus_fall2021.adoc[Syllabus - Fall 2021]
-*** xref:schedule_fall2021.adoc[Course Schedule - Fall 2021]
+*** xref:syllabus_fall2021.adoc[Syllabus]
+*** xref:schedule_fall2021.adoc[Course Schedule]
 *** xref:sprint1_fall2021.adoc[Sprint #1: August 23 - September 5, 2021]
 *** xref:sprint2_fall2021.adoc[Sprint #2: September 6 - September 19, 2021]
 *** xref:sprint3_fall2021.adoc[Sprint #3: September 20 - October 3, 2021]
@@ -13,8 +13,10 @@
 *** xref:sprint7_fall2021.adoc[Sprint #7: November 15 - December 5, 2021]
 *** xref:final_presentation_fall2021.adoc[Final Presentation - Fall 2021]
 ** Spring 2022
+*** xref:syllabus_spring2022.adoc[Syllabus]
+*** xref:schedule_spring2022.adoc[Course Schedule]
+*** xref:symposium.adoc[Symposium]
 ** xref:professional_development.adoc[Professional Development]
-** xref:symposium.adoc[Symposium]
 ** xref:student_code_of_conduct.adoc[Student Code of Conduct]
 * xref:ta_playbook.adoc[TAs]
 * xref:cp_mentor_playbook.adoc[Corporate Partner Mentors]
