@@ -1,4 +1,4 @@
-= Fall 2021 Syllabus 
+= Fall 2021 Syllabus - Corporate Partners
 
 == Course Information 
 
@@ -71,11 +71,69 @@ Your Corporate Partner Mentor(s) are employees of the company you are working wi
 * Use this chart to send your questions to the most appropriate email: 
 
 *chart missing here*
+
+
+
 === Project Assignments 
 If no Data Scientist is assigned to your team, you can email datamine@purdue.edu for support and your question will be directed to the team member who can best support your team. 
 
 
-*table missing here*
+[%header,format=csv]
+|===
+
+Corporate Partner Project,TA,TA Email,Data Scientist
+ATOM,Rosalie Wilfong,rwilfong@purdue.edu,
+Bayer - #2 - GxE,Joshua Knull,jknull@purdue.edu,
+Bayer - 1,Iris Zhang,zhan3206@purdue.edu,
+Beck's Hybrids – PL,Sutapa Banerjee,banerj56@purdue.edu,David Glass
+CAT Digital,Parinith Rajkumar,prajkum@purdue.edu,
+CDC,Joshua Lefton,jlefton@purdue.edu,Kevin Amstutz
+CLA Pricing Optimization (#2),Adrienne Zhang,zhan4000@purdue.edu,Kevin Amstutz
+CLA Recurring Revenue (#1),Esha Junankar,ejunanka@purdue.edu,  
+Corteva,Katie Yi,klyi@purdue.edu,David Glass
+Delta Faucet,Shravan Suravarijala,ssurava@purdue.edu,David Glass
+DORIS,Akshaya Kumar,kumar455@purdue.edu,Kevin Amstutz
+Elanco,Shannon Irwin,irwins@purdue.edu,Kevin Amstutz
+Farfetch,Matt Lanum,mlanum@purdue.edu,  
+Ford,Yuantong (Luke) Li,li3551@purdue.edu,  
+Gro Master,Andrew Lim,lim243@purdue.edu,Kevin Amstutz  
+Halderman,Elijah Colwill,ecolwill@purdue.edu,David Glass
+Helmer Scientific,Shreya Misra,misra12@purdue.edu,David Glass
+IU Health,Raunak Srivastava,srivas72@purdue.edu,  
+Jobvite,Jacob Roach,roach35@purdue.edu,  
+John Deere – Grain Harvesting Optimization,Anirudh Rao,rao107@purdue.edu,David Glass
+John Deere – Remote Machine Diagnostics,Cai Chen,chen3431@purdue.edu,David Glass
+Lockheed Martin,TBD,TBD,
+Merck - Biometrics,Nick Rosenorn,nrosenor@purdue.edu,  
+Merck - NLP,Siddharth Srinivasan,sriniv75@purdue.edu,  
+Merck – RFID,Matt Single,single0@purdue.edu,  
+Military Family Research Institute,Raushan Pandey,pandey72@purdue.edu,Kevin Amstutz
+Microsoft Minecraft,Laura Humphrey,humphrel@purdue.edu,David Glass
+Microsoft Minecraft,Kelly Addison,addison1@purdue.edu,David Glass
+MISO,Shelly Schwartz,schwa159@purdue.edu,David Glass
+Mursix,Ben Johnson,john2701@purdue.edu,  
+Mursix,Rachel Smith,smit2155@purdue.edu,
+PlaneEnglish,Yuantong (Luke) Li,li3551@purdue.edu,David Glass
+Purdue Athletics - Ticketing,Adithya Iyengar,iyengar1@purdue.edu,Kevin Amstutz
+Purdue Athletics – Social Engineering,Gia Peduto,gpeduto@purdue.edu,Kevin Amstutz
+Purdue Co-rec (RecWell),Rishabh Rajesh,rajeshr@purdue.edu,  
+Raytheon - 1,Pierce Warburton,pwarburt@purdue.edu,  
+Raytheon - 2,Abigail Vlies,avlies@purdue.edu,  
+REACH Public Health,Emily Wu  ,wu1451@purdue.edu,
+REACH Public Health,Sahana Swaminathan  ,swamina5@purdue.edu,
+Republic Airways,Rinkesh Patel,pate1604@purdue.edu,  
+Sandia - AESOP,Daniel Lawson,lawson95@purdue.edu,  
+Sandia - Flight,Max Low,low11@purdue.edu,  
+Sandia - Flight,Annie Jancaric,ajancar@purdue.edu,  
+Telemetry Sports,Denton Paul,paul96@purdue.edu,
+Tmap/MakeMyMove,Alexandra Coia,acoia@purdue.edu,  
+UPS,Oishi Ghosh,oghosh@purdue.edu,  
+USAA,Aaditya Bhoota,abhoota@purdue.edu,  
+USDA Forest Service,Patrick Todjalla,ptodjall@purdue.edu,  
+Viasat,Aishwarya Ramasethu,aramaset@purdue.edu,  
+Wabash National,Sonny Pham,pham39@purdue.edu,  
+
+|===
 
 === Office Hours
 
@@ -95,9 +153,7 @@ This meeting will occur *in person* for all teams. This is dedicated work time w
 
 image::MRGNmap.jpg[]
 
-=== Course Schedule
-
-*table missing here*
+=== Course Schedule & Due Dates
 
 xref:schedule_fall2021.adoc[Click here to view the Fall 2021 Course Schedule]
 
@@ -171,7 +227,7 @@ We do NOT accept late work, unless there are extenuating circumstances.  It is b
 === Course Site
 All submissions will be made through link:https://purdue.brightspace.com/[Brightspace] or link:https://www.gradescope.com/[Gradescope] 
 
-== Course Descriptions
+== Course Description
 Students in The Data Mine Corporate Partners Learning Community will work in groups with Corporate Partner mentors on a variety of projects.  They will analyze real data related to questions that the Corporate Partner proposes.  Most projects will last for a full academic year (late August through late April), with multiple reports and presentations given more frequently.  The mentor is expected to meet with the students weekly by Microsoft Teams, or (more rarely) in person. Students are expected to actively participate in these meetings and in all individual and group work.  The goal of the course is to help students build impactful industry related skills in data science, visualization, and data engineering. The Data Mine staff also has data scientists who can assist students with technical questions focused on the skills being built and the research conducted. Students can work on real-world industry facing issues that have a high value add for the corporate partner. 
 
 == How to succeed in this course
@@ -225,7 +281,8 @@ If you’re ever in doubt about what to share it’s often best to not share ini
 
 == Agile
 
-*missing link to Agile training page*
+xref:agile-training.adoc[Click here to view the Agile Training and Resources]
+
 
 The Data Mine will be applying Agile project management to all of our Corporate Partner projects. Nearly all of our Corporate Partners use Agile methods at their workplace. Agile allows complex projects to be broken down into small manageable tasks that can be assigned to individuals or teams. Agile also has built-in processes that help to enable team communication and collaboration. 
 
@@ -235,7 +292,6 @@ To become more familiar with Agile methodologies you will complete online traini
 
 The Linear application will also be available to teams for task tracking. The Data Mine staff will provide resources on the use of Linear and how it related to the Agile concepts in the materials above. The tool that the team utilizes for Agile task tracking can be determined on a project-by-project basis between the students and the corporate mentor or TA.  
 
-xref:agile-training.adoc[Click here to view the Fall 2021 Course Schedule]
 
 
 == Attendance Policy 
