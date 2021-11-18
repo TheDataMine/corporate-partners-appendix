@@ -236,37 +236,6 @@ Sprint #1 will include Agile training and introductory materials. You will turn 
 
 |===
 
-*Syllabus Quiz* .................................................................................................................... 1%
-
-Read the syllabus and take the quick and easy quiz on Brightspace. You may have the syllabus open while you take the quiz.  
-
-*Agile Training* ................................................................................................................... 2%
-
-The Salesforce training and an Agile quiz are required during the first sprint (2 weeks). 
-
-*Agile 2-week Sprints* ....................................................................................................... 60%
-
-Seven 2-week sprints (15 weeks total) each worth 10% of your grade. Lowest sprint grade is dropped. 
-
-Sprint #1 will include Agile training and introductory materials. You will turn in reports at the end of each sprint to summarize your work and check in. Sprint #7 will be three weeks due to Thanksgiving break. 
-
-*Corporate Partners Mentor and TA Evaluation* ........................................................... 15%
-
-First 8-week evaluation (August 23, 2021 – October 17, 2021).......5%
-
-Final Evaluation (cumulative of entire fall 2021 semester)................5%
-
-Team Collaboration...............................................................................5%
-
-*Final Presentation* .............................................................................................................. 22%
-
-Drafts (practice presentation, draft deliverables) ....... 4%
-
-Final Deliverables .......................................................... 10%
-
-Final Presentation ........................................................... 8%
-
-TOTAL......................................................................................................................................100%
 
 
 === Grading Scale
