@@ -16,8 +16,6 @@ STAT 59800 – Data Science in Industry I, CRNs vary
 
 *Course credit hours:* 3 credits
 
-*Course web page:* All information will be posted on Brightspace (https://purdue.brightspace.com/) 
-
 *Prerequisites:*
 
 * *Undergraduate students:* To be enrolled concurrently in STAT 19000, 29000, or 39000 The Data Mine I or III or V (1 credit seminar)
@@ -164,10 +162,20 @@ image::MRGNmap.jpg.webp[Our image, width=792, height=500, loading=lazy, title="M
 
 
 
-
 === Course Schedule & Due Dates
 
 xref:schedule_fall2021.adoc[Click here to view the Fall 2021 Course Schedule]
+
+=== Required Materials
+
+•	A laptop that can be used for working on the project, group meetings, and presentations.
+•	Microsoft Word and PowerPoint (remember that link:https://www.itap.purdue.edu/services/microsoft-office-365.html[Microsoft Office is free for all students])
+•	link:https://purdue.brightspace.com/d2l/login[Brightspace] course page
+•	Access to Scholar and Brown using Purdue Boilerkey 
+•	MS Teams installed 
+•	Slack and Linear account – you will be invited to your team’s channel. 
+•	Corporate partner team readings: Each Corporate Partner team is unique, but your mentor will likely recommend journal articles or websites to familiarize yourself with the project. 
+
 
 
 == Assignments and Grades
@@ -271,6 +279,23 @@ Students in The Data Mine Corporate Partners Learning Community will work in gro
 
 This course permits you, the student to participate in a class project that has been sponsored by a third party other than the University. The University encourages and supports your participation in this practical learning experience. Although your course requirements may include a practical learning project, you are not required to participate in a project that is sponsored by an outside third party. Prior to your participation in a project sponsored by an outside third party, we would like you to carefully consider that your participation (i) may require you to assign your intellectual property (IP) rights to any intellectual property for which a student would retain ownership under the University’s Policy I.A.1 on Intellectual Property and/or (ii) may require you sign a non-disclosure (confidentiality) agreement with the sponsor. If you sign an agreement regarding intellectual property rights or a non-disclosure agreement, you may incur personal liability (with respect to breach of a non- disclosure agreement) or you may lose economic benefits associated with your ownership of intellectual property (with respect to a license or assignment of intellectual property). You are encouraged to retain independent legal counsel for advice on these types of agreements. In addition, if you choose not to sign a non-disclosure or intellectual property rights agreement, you may be reassigned to a different project or you may not be able to participate in The Data Mine Corporate Partners. 
 
+=== Confidentiality of The Data Mine Corporate Partner Projects 
+
+It is important to note that you are working on real-world problems that your Corporate Partner is trying to solve. These projects weren't created as busywork to keep you occupied for 9 months; you have the opportunity to make a real impact with your Corporate Partner. Past work from Data Mine students have been put into production code! 
+
+With that being said, *the work you do and the data you have access to must be kept fully confidential!* Nearly all Corporate Partner students will be required to sign an NDA and/or IP agreement with the company. Even if you do not have to sign an NDA for your project, please keep the project details private. While each NDA will have unique terms, some basics include:
+
+•	Do not move or copy the data from the original storage. Never email data, text it to your teammates, copy it to Slack, or put it in Google drive (or any other cloud storage system). For example, if the data lives on Scholar or Brown, do not move it off Scholar or Brown and _do not move it to a different folder._ 
+•	Do not share any screenshots of the data or any findings (graphs, pictures, etc.) from the project with those who are not on your team. 
+•	You cannot share things you learn from the data with anyone who is not working on the project. This includes your roommate, your parents, and your best friend. 
+•	Do not disclose project specifics to anyone, including:
+o	In an interview for an internship or job
+o	On your LinkedIn profile
+o	Your family/friends/roommate/boyfriend/girlfriend/professor 
+•	Do not discuss the details of projects when you are in a public space. You should find a private place to join the weekly online team meetings. Also, be careful working on the project in a public space when others could walk by and see your screen. 
+•	If you ever have questions about what you *can* talk about, always ask your Corporate Partner Mentor first. 
+If you’re ever in doubt about what to share it’s often best to not share initially and check with your corporate partner. They can help clarify any confusion.’
+
 == How to succeed in this course
 
 If you want to be a *successful* student, we encourage you to:
@@ -288,32 +313,8 @@ If you want to be a *successful* student, we encourage you to:
 •	It is not ok to stop participating if the course content gets difficult.  Even if other students are more experienced, everyone should 1) make an effort to learn and get caught up and 2) find some way to contribute while trying to build up the necessary technical skills.  Your Corporate Partner Mentor and TA can provide suggestions of other resources to help learn content. Again, you have to “speak up” when you need help! 
 •	Deadlines are an unavoidable part of being a professional, and this course is no exception. Course requirements must be completed and submitted on or before the specified due date and delivery time deadline. Late work will not be accepted. Due dates and delivery time deadlines are defined as Eastern Time (as used in West Lafayette, Indiana). 
 
-== Required Materials
 
-•	A laptop that can be used for working on the project, group meetings, and presentations.
-•	Microsoft Word and PowerPoint (remember that link:https://www.itap.purdue.edu/services/microsoft-office-365.html[Microsoft Office is free for all students])
-•	link:https://purdue.brightspace.com/d2l/login[Brightspace] course page
-•	Access to Scholar and Brown using Purdue Boilerkey 
-•	MS Teams installed 
-•	Slack and Linear account – you will be invited to your team’s channel. 
-•	Corporate partner team readings: Each Corporate Partner team is unique, but your mentor will likely recommend journal articles or websites to familiarize yourself with the project. 
 
-== Confidentiality of The Data Mine Corporate Partner Projects 
-
-It is important to note that you are working on real-world problems that your Corporate Partner is trying to solve. These projects weren't created as busywork to keep you occupied for 9 months; you have the opportunity to make a real impact with your Corporate Partner. Past work from Data Mine students have been put into production code! 
-
-With that being said, *the work you do and the data you have access to must be kept fully confidential!* Nearly all Corporate Partner students will be required to sign an NDA and/or IP agreement with the company. Even if you do not have to sign an NDA for your project, please keep the project details private. While each NDA will have unique terms, some basics include:
-
-•	Do not move or copy the data from the original storage. Never email data, text it to your teammates, copy it to Slack, or put it in Google drive (or any other cloud storage system). For example, if the data lives on Scholar or Brown, do not move it off Scholar or Brown and _do not move it to a different folder._ 
-•	Do not share any screenshots of the data or any findings (graphs, pictures, etc.) from the project with those who are not on your team. 
-•	You cannot share things you learn from the data with anyone who is not working on the project. This includes your roommate, your parents, and your best friend. 
-•	Do not disclose project specifics to anyone, including:
-o	In an interview for an internship or job
-o	On your LinkedIn profile
-o	Your family/friends/roommate/boyfriend/girlfriend/professor 
-•	Do not discuss the details of projects when you are in a public space. You should find a private place to join the weekly online team meetings. Also, be careful working on the project in a public space when others could walk by and see your screen. 
-•	If you ever have questions about what you *can* talk about, always ask your Corporate Partner Mentor first. 
-If you’re ever in doubt about what to share it’s often best to not share initially and check with your corporate partner. They can help clarify any confusion.’
 
 == Agile
 
