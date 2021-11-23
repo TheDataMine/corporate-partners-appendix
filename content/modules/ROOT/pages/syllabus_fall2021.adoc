@@ -158,7 +158,7 @@ This meeting will occur *in person* for all teams. This is dedicated work time w
 *image missing here*
 
 
-image::MRGNmap.jpg.webp[Our image, width=792, height=500, loading=lazy, title="Map of campus featuring the Burton D. Morgan Center for Entrepreneurship building (MRGN)"]
+image::MRGNmap.jpg[Our image, width=792, height=500, loading=lazy, title="Map of campus featuring the Burton D. Morgan Center for Entrepreneurship building (MRGN)"]
 
 === Required Materials
 
