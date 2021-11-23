@@ -1,7 +1,7 @@
 * xref:introduction.adoc[Introduction]
 * xref:agile-training.adoc[Agile Training]
 * xref:student_playbook.adoc[Students]
-** Fall 2021
+** xref:introduction_fall2021.adoc[Fall 2021]
 *** xref:syllabus_fall2021.adoc[Syllabus]
 *** xref:schedule_fall2021.adoc[Course Schedule]
 *** xref:annoucements_fall2021.adoc[Announcements]

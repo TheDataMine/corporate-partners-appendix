@@ -1,3 +1,30 @@
 = Corporate Partners
 
-Welcome to the resource book for The Data Mine Corporate Partners. You 
+Welcome to the resource book for The Data Mine Corporate Partners. 
+
+
+Watch this video about The Data Mine that was created by Purdue's Marketing and Communication team. It has over 115,000 views! 
+
+*Missing video link*
+
+++++
+<iframe  class="video" width="560" height="315" src="https://www.youtube.com/embed/R_kqpIMyhR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+++++
+
+This video features our partnership with Beck's Hybrids. 
+
+++++
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dXferJvntko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+++++
+
+We have two videos that feature our partnership with Cummins. 
+
+++++
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LTax4AE9zIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+++++
+
+
+
+++++
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JabJjMzD6D0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+++++
