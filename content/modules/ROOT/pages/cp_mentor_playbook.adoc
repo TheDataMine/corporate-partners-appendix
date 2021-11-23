@@ -1,18 +1,20 @@
 = Corporate Partner Mentor Playbook
 
 == Mentor Responsibility Overview
-Each corporate partner provides at least one mentor on their corporate partner team. The mentor is responsible for guiding the students through the project by providing the data, assigning deliverables and providing feedback. Mentors also help students to develop communication and presentation skills that they will use in their future careers. 
+Each corporate partner provides at least one mentor for their corporate partner team. The mentor is responsible for guiding the students through the project by providing the data, assigning deliverables and providing feedback. Mentors also help students to develop communication and presentation skills that they will use in their future careers. Mentors are responsible for meeting with their team each week during the academic year. These meetings are virtual and are held on the same day and time each week.
 
 == Bringing Industry Culture to The Data Mine
-Corporate partner mentors get to engage with the students on their team on a weekly basis. Mentors demonstrate appropriate business culture behaviors while working on the project, and get to observe the students as they develop and refine their business skills along with their technical skills. Students become aware that their engagement with their mentor should be intentional and will help them develop their networking skills. 
+Corporate partner mentors get to engage with the students on their team on a weekly basis. Mentors demonstrate appropriate business culture behaviors while working on the project, and get to observe the students as they develop and refine their business skills along with their technical skills. Students become aware that their engagement with their mentor should be intentional and will help them develop and refine their networking skills. 
 
 === Engagement Level from Mentors
 Mentors meet with their teams each week for 50 minutes during a virtual meeting. During those meetings, mentors engage with the students by providing feedback on the work from the most recent sprint, and on any deliverables that were due. Mentors also provide advice on how to proceed with specific areas of the project. Access to talented students is an additional advantage for the corporate partners; mentors can develop a pipeline of students for internship and full time job opportunities within the company.
 
 == Mentor Palooza
+Corporate Partners mentors have the opportunity to hear from seasoned mentors in an organized event called Mentor Palooza. This is a geat opportunity to learn best practices from current corporate partners. The Mentor Palooza is typically a virtual panel in which a new mentor can ask quesitons and hear the seasoned mentors speak about their experiences in the Corporate Partners program within in The Data Mine.
 
 == Agile
+The Data Mine encourages the corporate partner teams to utilize Agile methodologies. Most teams use two week sprints to organize the work and to make sure all students have specific tasks to complete. Even if the corporate partner mentor does not typically utilize Agile sprints in their workflows, the method can still be useful for the mentor to keep track of the progress and timelines of the project. 
 
 == Collaboration with TAs
-TAs communicate the most with corporate partner mentors. Mentors know they can provide feedback, make suggestions or changes and assign deliverables through discussions with their TA and know that the TA will relay the information on to the team. This streamlined structure allows the mentor to focus on the project without having to communicate with several members of the team at once. 
+Each team has a high performing student chosen to be the Teaching Assistant (TA). The TA functions as the Project Manager for the team, and will assign tasks, assess competencies and provide leadership. TAs also serve as the primary point of contact with corporate partner mentors. Mentors can provide feedback, make suggestions or changes and assign deliverables through discussions with their TA, with the assurance that the TA will relay the information on to the team. This streamlined structure allows the mentor to focus on the project and on the students, without having to communicate with multiple students at the same time. 
 
