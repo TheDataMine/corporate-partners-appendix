@@ -4,6 +4,7 @@
 ** Fall 2021
 *** xref:syllabus_fall2021.adoc[Syllabus]
 *** xref:schedule_fall2021.adoc[Course Schedule]
+*** xref:annoucements_fall2021.adoc[Announcements]
 *** xref:sprint1_fall2021.adoc[Sprint #1: August 23 - September 5, 2021]
 *** xref:sprint2_fall2021.adoc[Sprint #2: September 6 - September 19, 2021]
 *** xref:sprint3_fall2021.adoc[Sprint #3: September 20 - October 3, 2021]
@@ -15,6 +16,7 @@
 ** Spring 2022
 *** xref:syllabus_spring2022.adoc[Syllabus]
 *** xref:schedule_spring2022.adoc[Course Schedule]
+*** xref:annoucements_spring2022.adoc[Announcements]
 *** xref:symposium.adoc[Symposium]
 ** xref:professional_development.adoc[Professional Development]
 ** xref:student_code_of_conduct.adoc[Student Code of Conduct]

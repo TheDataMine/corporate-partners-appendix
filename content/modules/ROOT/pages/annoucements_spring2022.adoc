@@ -1,0 +1,15 @@
+= Spring 2022 Annoucements 
+
+
+*Check this page frequently for annoucements about the course. Annoucements will also be emailed out to students*
+
+
+== (January 3) Welcome to The Data Mine Corporate Partners!
+
+Hello, and welcome to The Data Mine Corporate Partners! (STAT 190/290/390 The Data Mine & STAT 598 Data Science in Industry).
+
+To get started, please click on "Sprint #1" on the left hand column. It includes the syllabus, where to go for your class time, and your first assignments. 
+
+If you have questions, please email datamine@purdue.edu and include "Corporate Partners question: [your team name]" in the subject line to help you get the fastest response. 
+
+We look forward to working with you this semester! 
