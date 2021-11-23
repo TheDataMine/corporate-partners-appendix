@@ -75,13 +75,29 @@ The final presentation will occur during your last 50-minute team meeting of the
 
 The final presentation is worth 22% of your fall 2021 grade (per the syllabus). The final presentation and deliverable grades will be determined in collaboration with The Data Mine staff and Corporate Partner Mentors. 
 
-*Final Group Presentation......................................................................................22%*
 
-Draft (practice presentation, draft deliverables)................4%
 
-Final Deliverables (slides)................................10%	
+[cols="4,2,1"]
+|===
 
-Final Presentation................................8%	
+2+|*Final Group Presentation*
+>|22%
+
+|Drafts (practice presentation, draft deliverables)
+^| 4%
+|
+
+|Final Deliverables
+^| 10%
+|
+
+|Final Presentation
+^| 8%
+|
+
+
+
+|===
 
 
 
