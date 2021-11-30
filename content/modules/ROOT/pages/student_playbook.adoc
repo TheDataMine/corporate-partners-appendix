@@ -1,32 +1,7 @@
 = Student Playbook
 
-== Student Responsibility Overview
 
-=== Syllabus
+*missing outline of student resources here*
 
-== Technology Overview
 
-=== Slack
-
-=== Teams
-
-== Symposium Resources
-
-=== Poster
-
-=== Video
-
-== Learning Tips
-
-=== Feedback from past Students
-
-== Professional Development
-
-=== Resume
-
-=== Networking
-
-=== Cover Letter
-
-=== LinkedIn
 

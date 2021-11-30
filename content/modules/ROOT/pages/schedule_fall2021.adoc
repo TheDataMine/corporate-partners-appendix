@@ -5,10 +5,10 @@ Each Corporate Partner mentor will have their own schedules and due dates, but h
 Assignment due dates are listed in *BOLD*. Other dates are important notes.
 
 
-[cols="1,1,1,4", cols="^.^,^.^,^.^,<.^"]
+[cols="^.^1,^.^1,^.^1,<.^5"]
 |===
 
-|Week |Sprint |Date |Activity
+|*Week* |*Sprint* |*Date* ^.|*Activity*
 
 |1
 .2+|1
@@ -87,7 +87,7 @@ Sunday, 10/17: End of Sprint #4
 *Sprint #5 Report due on Gradescope by 11:59 PM ET on Sunday, 10/31*
 
 |11
-.2+|5
+.2+|6
 |11/1 – 11/7	
 |Monday, 11/1: Start of Sprint #6
 
@@ -102,7 +102,7 @@ Sunday, 10/17: End of Sprint #4
 *Final presentation draft materials due by 11:59 PM ET on Sunday, 11/14 (your TA will submit the draft)*
 
 |13
-.3+|6
+.3+|7
 |11/15 – 11/21	
 |Monday, 11/15: Start of Sprint #7 (_3 weeks due to Thanksgiving break_)
 
