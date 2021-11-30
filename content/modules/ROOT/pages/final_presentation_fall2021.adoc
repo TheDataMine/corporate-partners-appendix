@@ -15,10 +15,10 @@ The Data Mine Corporate Partners Final Presentations will showcase the hard work
  
 **Research for fall 2021 should NOT stop at this draft. Continue working on your research and you may continue to update the slides up until the day of your presentation **
 
-== When
+=== When
 The final presentation will occur during your last 50-minute team meeting of the semester, during the week of Monday, December 6 – Friday, December 10, 2021. 
 
-== Expectations 
+=== Expectations 
 
 •	**Each student must contribute to the presentation in some capacity. **  
 •	Not every student needs to speak during the presentation, but if you don’t speak during the presentation, consider answering a question during Q&A. 
@@ -30,11 +30,11 @@ The final presentation will occur during your last 50-minute team meeting of the
     - Students 5-10: talk and give the presentation
     - Students 11-14: answer questions after the presentation 
 
-== Design
+=== Design
 
 •	The presentation should look professional. A Purdue template was shared with you via Sharepoint. You are welcome to change the formatting to company branded slides. 
 
-== Content 
+=== Content 
 *Introduction/Background/Motivation (~10%)*
 
 - Include a slide with team profile (picture with name and major of each student)
@@ -64,7 +64,7 @@ The final presentation will occur during your last 50-minute team meeting of the
 - Plan out who will be speaking for each section, how much time each team member will have to speak, and how to transition between speakers smoothly. 
 - Practice! Practice! Practice! This is your final presentation of the semester. Make sure to practice and prepare. 
 
-== Length 
+=== Length 
 
 •	The team meeting is 50 minutes. 
 •	Your presentation should be 30-40 minutes with 10-15 minutes for questions and discussion. 
@@ -126,7 +126,36 @@ Your draft should include all slides that you plan to include. 60%+ of slides sh
 - FINAL version of presentation due by Sunday, December 5, 2021 by 11:59 PM ET
 
 
+xref:schedule_fall2021.adoc[View the fall 2021 course schedule here with all due dates.]
+
 *table missing here*
+
+== Rubric 
+
+[%header,format=csv]
+|===
+Category, Needs Improvement,	Acceptable,	Exceeds Expectation
+Introduction/background/motivation, Team provides very limited detail on their goals or vision for the project., "Team provides some detail about why they are doing the work, but the overall vision is unclear.", Team provides an easy to understand and thorough overview of their project goals and overall vision. 
+
+Fall 2020 Research (what and *how*), "Team provides little detail on the significant milestones and achievements. Overview is limited to high level explanations and significant detail is needed.", "Project milestones and successes are clear, but the detail is limited. Student contributions are covered but more depth may be needed.", "Team provides detailed information on the challenges, successes, and learnings from the first semester. Student contributions to the project are easy to understand."
+
+Spring 2021 Research (what and *how*), "Team does not have a well-defined future vision or steps on how to complete the work.", "Team provides an outline of future work but may not have as much detail as to how they plan to accomplish the milestones.", "Team provides clear outline of future goals and how they relate to both the overall vision and the current semester’s work."
+
+Summary, "The team’s overview was difficult to understand and didn’t show a path forward for the coming semester.", "Team provides an overview of the semester’s work and goals but may leave out a few details. Some of the review may be too technical for most audiences.", "Team provides an easy to understand and concise overview of the semester’s work and the student’s learnings. Topics are easy to understand with any level of technical expertise."
+
+References and Acknowledgements,The team did not list any additional contributions or support for the project. (And it’s known that it was supported by other parties.),The team listed contributors on a “Thank You” slide. ,The team was sure to call out anyone who helped support the team or contribute to the project. 
+
+Figures,Lots of extra visualizations that don’t seem to be related to the subject at all. Doesn’t reference or tie the figures to the narrative of the presentation. ,Visualizations are good but may not always be related directly to the topic. Some are a bit confusing to interpret. ,Visualizations are effective and help to drive the story and user understanding clearly. 
+
+Layout and design,"The presentation is poorly designed and confusing. Topics are hard to follow, and the work doesn’t appear professional. ","The presentation is professionally done and easy to understand. Some slides may need improvement, but the majority are clean and concise. ","Presentation is clean, concise, and effective. It’s easy to read and understand quickly and in a virtual environment. "
+
+Speakers,The students seem unsure of the deliverables and can’t provide additional detail when asked. ,The students know their topics well and can speak to the deliverables. May be a little light on technical detail when applicable. ,The students are well prepared both on the topic and for user questions. They also provide technical detail and background where appropriate. 
+Q&A / Discussion,The team isn’t engaged in questions and doesn’t interact when asked. ,The team is engaged and ready to answer most questions. They may have to follow up on a few of the more technical items. ,The team is engaged and provides clear professional answers to any questions. 
+
+Overall,"The team was unprepared, uninvolved, and disorganized. The presentation was hard to understand and didn’t have a vision for the next steps.",The presentation was clean and easy to understand but had some room for improvement. The team spoke well but had some variation in the strength of the content. ,"The presentation was thorough, professional, and easy to understand. The team did a good job with interactions, and everyone was prepared and involved. "
+
+
+|===
 
 == Questions? 
 
