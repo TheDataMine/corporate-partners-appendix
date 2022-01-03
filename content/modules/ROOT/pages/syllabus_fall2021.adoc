@@ -160,15 +160,6 @@ This meeting will occur *in person* for all teams. This is dedicated work time w
 
 image::MRGNmap.jpg[Our image, width=792, height=500, loading=lazy, title="Map of campus featuring the Burton D. Morgan Center for Entrepreneurship building (MRGN)"]
 
-=== Required Materials
-
-•	A laptop that can be used for working on the project, group meetings, and presentations.
-•	Microsoft Word and PowerPoint (remember that link:https://www.itap.purdue.edu/services/microsoft-office-365.html[Microsoft Office is free for all students])
-•	link:https://purdue.brightspace.com/d2l/login[Brightspace] course page
-•	Access to Scholar and Brown using Purdue Boilerkey 
-•	MS Teams installed 
-•	Slack and Linear account – you will be invited to your team’s channel. 
-•	Corporate partner team readings: Each Corporate Partner team is unique, but your mentor will likely recommend journal articles or websites to familiarize yourself with the project. 
 
 === Course Schedule & Due Dates
 
