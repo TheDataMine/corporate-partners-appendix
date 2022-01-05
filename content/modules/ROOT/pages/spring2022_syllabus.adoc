@@ -79,8 +79,8 @@ Corporate Partner Project,TA,TA Email,Data Scientist
 American First Finance,TBD,TBD, 
 ATOM,Rosalie Wilfong,rwilfong@purdue.edu,
 Bayer - #2 - GxE,Joshua Knull,jknull@purdue.edu,
-Bayer - 1,Iris Zhang,zhan3206@purdue.edu,
-Beck's Hybrids – PL,Sutapa Banerjee,banerj56@purdue.edu,David Glass
+Bayer - #1,Iris Zhang,zhan3206@purdue.edu,
+Beck's Hybrids – PLT,Sutapa Banerjee,banerj56@purdue.edu,David Glass
 CAT Digital,Parinith Rajkumar,prajkum@purdue.edu,
 CDC,Joshua Lefton,jlefton@purdue.edu,Kevin Amstutz
 CLA Pricing Optimization (#2),Adrienne Zhang,zhan4000@purdue.edu,Kevin Amstutz
@@ -115,7 +115,7 @@ Nuvve,TBD,TBD,
 Pebblst,TBD,TBD, 
 PlaneEnglish,Yuantong (Luke) Li,li3551@purdue.edu,David Glass
 Purdue Athletics - Ticketing,Adithya Iyengar,iyengar1@purdue.edu,Kevin Amstutz
-Purdue Athletics – Social Engineering,Gia Peduto,gpeduto@purdue.edu,Kevin Amstutz
+Purdue Athletics – Social Media,Gia Peduto,gpeduto@purdue.edu,Kevin Amstutz
 Purdue Co-rec (RecWell),Rishabh Rajesh,rajeshr@purdue.edu,  
 Raytheon - 1,Pierce Warburton,pwarburt@purdue.edu,  
 Raytheon - 2,Abigail Vlies,avlies@purdue.edu,  
@@ -153,7 +153,7 @@ Who should you email?, Types of Questions/Topics
 datamine@purdue.edu, "General Data Mine/Corporate Partners questions, grades"
 "<<Corporate Partner TAs, Your CRP TA>>", "Weekly tasks, catching up on a missed meeting, general team questions"
 Data Mine Data Scientists,   Technical Project or Topic Questions
-Your CRP Mentor, (Check with your TA first) Project specific questions
+Your CRP Mentor, (Ask your TA the question first before emailing your CRP Mentor) Project specific questions
 
 |===
 
@@ -167,13 +167,11 @@ The Data Mine staff offer office hours by request. Please email the staff to req
 
 *50-minute team meeting*
 
-This meeting will occur synchronously *online* via Zoom unless your Corporate Partner Mentors are located in West Lafayette or visiting campus. Online links are shared via a calendar invite at the beginning of the year. You can join this meeting from anywhere, but please follow the “net-etiquette” guidelines below to find a quiet space. 
+This meeting will occur synchronously *online* via Zoom unless your Corporate Partner Mentors are located in West Lafayette or visiting campus. Online links are shared via a calendar invite at the beginning of the year. You can join this meeting from anywhere, but please follow the xref:student_code_of_conduct.adoc[“net-etiquette” guidelines] to find a quiet space. 
 
 *1 hour 50-minute student labs* 
 
 This meeting will occur *in person* for all teams. This is dedicated work time with your team members to collaborate on your project and to work as a larger group or as sub-teams. The meetings will be held in 3 separate rooms all located in the Burton D. Morgan Center for Entrepreneurship at 1201 W. State St., West Lafayette, IN 47906. MRGN is located on the southwest corner of State Street and Jischke Drive. Your specific classroom is listed on your official course schedule in MyPurdue.  
-
-*image missing here*
 
 
 image::MRGNmap.jpg[Our image, width=792, height=500, loading=lazy, title="Map of campus featuring the Burton D. Morgan Center for Entrepreneurship building (MRGN)"]
@@ -182,7 +180,7 @@ image::MRGNmap.jpg[Our image, width=792, height=500, loading=lazy, title="Map of
 
 === Course Schedule & Due Dates
 
-xref:spring2022_schedule.adoc[Click here to view the Spring 2022 Course Schedule]
+xref:spring2022_schedule.adoc[Click here to view the Spring 2022 Course Schedule page]
 
 === Required Materials
 
@@ -201,11 +199,9 @@ xref:spring2022_schedule.adoc[Click here to view the Spring 2022 Course Schedule
 
 This is a research-type, project-based course, so the majority of your grade for the semester will be determined holistically based on work with Corporate Partners in addition to reports and other assignments per the schedule.  Students will receive their own individual grade, but the success of the group will be a component of that individual grade. 
 
-It is very important to check the Brightspace page frequently! Please review the schedule below and on Brightspace. More details for each assignment will be available on Brightspace. *Due dates are listed above in the xref:spring2022_schedule.adoc[spring 2022 semester schedule]*
+It is very important to check this page frequently! *Due dates are listed in the xref:spring2022_schedule.adoc[spring 2022 Course Schedule page].*
 
-At the beginning of the semester, you will need to complete the following: syllabus quiz, agile training and, agile Quiz. Details are posted on Brightspace. 
 
-During the last week of fall semester in December, there will be a final presentation to showcase the work you have done throughout the semester and what you plan to accomplish in the spring semester. All Corporate Partner students will be required to make a final presentation with their teams and present it to their Corporate Partner leadership team. More details will be forthcoming and posted on Brightspace.  
 
 [cols="4,2,1"]
 |===
@@ -213,23 +209,21 @@ During the last week of fall semester in December, there will be a final present
 2+|*Syllabus Quiz*
 >|1%
 
-3+|Read the syllabus and take the quick and easy quiz on Brightspace. You may have the syllabus open while you take the quiz. 
+3+|Read the syllabus and take the quick and quiz on Brightspace. You may have the syllabus open while you take the quiz. 
 
 
-2+|*Agile Training*
+2+|*Professional Development*
 >|2%
-3+|The Salesforce training and an Agile quiz are required during the first sprint (2 weeks). 
+3+|Select one of the professional development opportunities to complete. 
 
 2+|*Agile 2-week Sprints*
 >|60%
-3+|Seven 2-week sprints (15 weeks total) each worth 10% of your grade. Lowest sprint grade is dropped. 
-
-Sprint #1 will include Agile training and introductory materials. You will turn in reports at the end of each sprint to summarize your work and check in. Sprint #7 will be three weeks due to Thanksgiving break. 
+3+|Seven 2-week sprints each worth 10% of your grade. Your single lowest sprint grade will be dropped dropped. You will turn in reports at the end of each sprint to summarize your work and check in. 
 
 2+|*Corporate Partners Mentor and TA Evaluation*
 >|15%
 
-|First 8-week evaluation (August 23, 2021 – October 17, 2021)
+|Mid-Semester Evaluation (January 10, 2022 – March 6, 2022)
 ^| 5%
 |
 
@@ -238,21 +232,21 @@ Sprint #1 will include Agile training and introductory materials. You will turn 
 |
 
 
-
 2+|*Symposium*
->|22%
+>|17%
 
 |Drafts (practice presentation, draft deliverables)
-^| 4%
+^| 5%
 |
 
-|Final Poster
-^| 10%
+|Final Poster & Presentation at Symposium on April 12, 2022
+^| 12%
 |
 
-|Final Presentation
-^| 8%
-|
+
+2+|*Final Report*
+>|5%
+3+|End of the academic year report to summarize your experience and provide feedback. Submitted on Qualtrics.  
 
 2+|*TOTAL*
 >|*100%*
@@ -292,7 +286,7 @@ Extenuating circumstances do NOT include:
 - Having exams near or on the due date 
 - Working on other course projects on or near the due date
 - Being sick for a few days on or near the due date
-- Traveling
+- Traveling for any reason
 - Forgetting the due date
 - Having technical difficulties (wifi, computer, etc)
 
@@ -303,7 +297,7 @@ It is better to submit a partially done report than nothing at all. Partial cred
 === Course Site
 All course material will be posted in the link:https://the-examples-book.com/crp/introduction[Corporate Partners section of The Examples Book]. 
 
-All assignments will be submitted through link:https://purdue.brightspace.com/[Brightspace] or link:https://www.gradescope.com/[Gradescope] 
+All assignments will be submitted through link:https://purdue.brightspace.com/[Brightspace] or link:https://www.gradescope.com/[Gradescope].
 
 == Course Description
 Students in The Data Mine Corporate Partners Learning Community will work in groups with Corporate Partner Mentors on a variety of projects.  They will analyze real data related to questions that the Corporate Partner proposes.  Most projects will last for a full academic year (late August through late April), with multiple reports and presentations given more frequently.  The mentor is expected to meet with the students weekly by Microsoft Teams, or (more rarely) in person. Students are expected to actively participate in these meetings and in all individual and group work.  The goal of the course is to help students build impactful industry related skills in data science, visualization, and data engineering. The Data Mine staff also has data scientists who can assist students with technical questions focused on the skills being built and the research conducted. Students can work on real-world industry facing issues that have a high value add for the corporate partner. 
@@ -355,14 +349,14 @@ When conflicts or absences can be anticipated, such as for many University-spons
 
 For unanticipated or emergency absences when advance notification to the instructor is not possible, the student should contact the instructor as soon as possible by email or phone. When the student is unable to make direct contact with the instructor and is unable to leave word with the instructor’s department because of circumstances beyond the student’s control, and in cases falling under excused absence regulations, the student or the student’s representative should contact or go to the Office of the Dean of Students website to complete appropriate forms for instructor notification. Under academic regulations, excused absences may be granted for cases of grief/bereavement, military service, jury duty, and parenting leave. For details, see the link:https://catalog.purdue.edu/content.php?catoid=13&navoid=15965#a-attendance[Academic Regulations & Student Conduct section] of the University Catalog website. 
 
-Guidance on class attendance related to COVID-19 are outlined in the link:https://protect.purdue.edu/pledge/[Protect Purdue Pledge for Fall 2021] on the Protect Purdue website.
+Guidance on class attendance related to COVID-19 are outlined in the link:https://protect.purdue.edu/pledge/[Protect Purdue Pledge] on the Protect Purdue website.
 
 
 == Purdue Policies & Resources 
 
 === Academic Guidance in the Event a Student is Quarantined/Isolated 
 
-If you must miss class at any point in time during the semester, please reach out to me via email so that we can communicate about how you can maintain your academic progress. If you find yourself too sick to progress in the course, notify your adviser and notify me via email or Brightspace. We will make arrangements based on your particular situation. Please note that, according to link:https://protect.purdue.edu/updates/purdue-announces-additional-details-for-students-on-normal-operations-for-fall-2021/[Details for Students on Normal Operations for Fall 2021] announced on the Protect Purdue website, “individuals who test positive for COVID-19 are not guaranteed remote access to all course activities, materials, and assignments.”
+If you must miss class at any point in time during the semester, please reach out to us via email so that we can communicate about how you can maintain your academic progress. If you find yourself too sick to progress in the course, notify your adviser and notify us via email. We will make arrangements based on your particular situation. Please note that, according to link:https://protect.purdue.edu/updates/purdue-announces-additional-details-for-students-on-normal-operations-for-fall-2021/[Details for Students on Normal Operations for Fall 2021] announced on the Protect Purdue website, “individuals who test positive for COVID-19 are not guaranteed remote access to all course activities, materials, and assignments.”
 
 === Class Behavior
 

@@ -17,6 +17,7 @@
 *** xref:spring2022_syllabus.adoc[Syllabus]
 *** xref:spring2022_schedule.adoc[Course Schedule]
 *** xref:spring2022_announcements.adoc[Announcements]
+*** xref:spring2022_locations.adoc[Team Meeting Locations]
 *** xref:spring2022_sprint1.adoc[Sprint #1: January 10 - January 23, 2022]
 *** xref:spring2022_sprint2.adoc[Sprint #2: January 24 - February 6, 2022]
 *** xref:spring2022_sprint3.adoc[Sprint #3: February 7 - February  20, 2022]

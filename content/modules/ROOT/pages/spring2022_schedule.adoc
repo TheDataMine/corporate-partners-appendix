@@ -5,13 +5,13 @@ Each Corporate Partner mentor will have their own schedules and due dates, but h
 Assignment due dates are listed in *BOLD*. Other dates are important notes.
 
 
-[cols="^.^1,^.^1,^.^1,<.^5" ]
+[cols="^.^1,^.^1,^.^3,<.^15"]
 |===
 
 |*Week* |*Sprint* |*Date* ^.|*Activity*
 
 |1
-.2+|1
+.2+|xref:spring2022_sprint1.adoc[1]
 |1/10 – 1/16
 |Monday, 1/10: Start of Sprint #1 
 
@@ -19,18 +19,16 @@ Assignment due dates are listed in *BOLD*. Other dates are important notes.
 
 |2
 |1/17 - 1/23
-<.^|Monday, 1/17:  Dr. MLK Day (no CRP meetings/classes)
+<.^|Monday, 1/17:  Dr. MLK Day (No Corporate Partner meetings/No classes)
 
 Sunday, 1/23: End of Sprint #1 
 
-*Corporate Partners Syllabus Quiz due on Brightspace by 11:59 PM ET on Sunday, 9/5*
+*Corporate Partners Syllabus Quiz due on Brightspace by 11:59 PM ET on Sunday, 1/23*
 
-*Agile Training (Salesforce & Agile in TDM Quiz) due on Brightspace by 11:59 PM ET on Sunday, 9/5*
-
-*Sprint #1 Report due on Gradescope by 11:59 PM ET on Sunday, 9/5*
+*Sprint #1 Report due on Gradescope by 11:59 PM ET on Sunday, 1/23*
 
 |3
-.2+|2
+.2+|xref:spring2022_sprint2.adoc[2]
 |1/24 – 1/30
 |Monday, 1/24: Start of Sprint #2 
 
@@ -45,7 +43,7 @@ Sunday, 1/23: End of Sprint #1
 
 
 |5
-.2+^|3
+.2+^|xref:spring2022_sprint3.adoc[3]
 |2/7 – 2/13
 |Monday, 2/7: Start of Sprint #3
 
@@ -59,7 +57,7 @@ Sunday, 1/23: End of Sprint #1
 
 
 |7
-.2+|4
+.2+|xref:spring2022_sprint4.adoc[4]
 |2/21 – 2/27	
 |Monday, 2/21: Start of Sprint #4
 
@@ -72,7 +70,7 @@ Sunday, 1/23: End of Sprint #1
 *Sprint #4 Report due on Gradescope by 11:59 PM ET on Sunday, 3/6*
 
 |9
-.3+|5
+.3+|xref:spring2022_sprint5.adoc[5]
 |3/7 – 3/13
 |Monday, 3/7: Start of Sprint #5
 
@@ -89,7 +87,7 @@ Sunday, 1/23: End of Sprint #1
 *Sprint #5 Report due on Gradescope by 11:59 PM ET on Sunday, 3/27*
 
 |12
-.2+|6
+.2+|xref:spring2022_sprint6.adoc[6]
 |3/28 – 4/3	
 |Monday, 3/28: Start of Sprint #6
 
@@ -101,14 +99,13 @@ Sunday, 1/23: End of Sprint #1
 
 *Sprint #6 Report due on Gradescope by 11:59 PM ET on Sunday, 4/10*
 
-*Final presentation draft materials due by 11:59 PM ET on Sunday, 11/14 (your TA will submit the draft)*
 
 |14
-.2+|7
+.2+|xref:spring2022_sprint7.adoc[7]
 |4/11 – 4/17	
-|Monday, 11/15: Start of Sprint #7
+|Monday, 4/11: Start of Sprint #7
 
-*The Data Mine Corporate Partners Symposium* in-person; attendance required;details TBA
+*Tuesday, 4/12: The Data Mine Corporate Partners Symposium* in-person; attendance required; more details TBA
 
 
 |15
@@ -132,7 +129,7 @@ Sunday, 4/24: End of Sprint #7
 |
 |
 |5/2 – 5/7	
-|Final Exam Week – no meetings in Corporate Partners and nothing is due for this course. There are no final exams in Corporate Partners.
+|Final Exam Week – There are no meetings or final exams in Corporate Partners this week.
 
 |
 |
