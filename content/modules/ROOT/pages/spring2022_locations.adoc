@@ -1,11 +1,18 @@
 = Spring 2022 Team Meeting Locations 
 
+HILL is Hillenbrand Residence Hall located at 1301 Third St., West Lafayette, IN 47906
+
+MRGN is the Burton D. Morgan Center for Entrepreneurship located at 1201 W. State St., West Lafayette, IN 47906. MRGN is located on the southwest corner of State Street and Jischke Drive.
+
+
+image::MRGN_HILL_map.jpg[Our image, width=792, height=500, loading=lazy, title="Map of campus featuring MRGN and HILL."]
+
 [%header,format=csv]
 |===
 
 Corporate Partner,Section,Day,Start Time (ET),End Time (ET),Location
 American First Finance,Lab,Monday,3:30 PM,5:20 PM,MRGN 129
-American First Finance,Lec,Friday,3:30 PM,4:20 PM,SYNCONLINE
+American First Finance,Lec,Friday,3:30 PM,4:20 PM,SYNC ONLINE
 ATOM,Lec,Tuesday,12:30 PM,1:20 PM,SYNC ONLINE
 ATOM,Lab,Thursday,11:30 AM,1:20 PM,MRGN 112
 Bayer #1,Lab,Tuesday,3:30 PM,5:20 PM,MRGN 129
@@ -35,7 +42,7 @@ Farfetch,Lec,Thursday,9:30 AM,10:20 AM,SYNC ONLINE
 Ford,Lab,Tuesday,11:30 AM,1:20 PM,MRGN 212
 Ford,Lec,Thursday,12:30 PM,1:20 PM,SYNC ONLINE
 FSSA,Lab,Monday,9:30 AM,11:20 AM,HILL C102A
-FSSA,Lec,Friday,9:30 AM,10:20 AM,SYNCONLINE
+FSSA,Lec,Friday,9:30 AM,10:20 AM,SYNC ONLINE
 Gro Master,Lab,Monday,9:30 AM,11:20 AM,MRGN 112
 Gro Master,Lec,Friday,9:30 AM,10:20 AM,SYNC ONLINE
 Halderman,Lec,Tuesday,9:30 AM,10:20 AM,SYNC ONLINE
@@ -52,7 +59,7 @@ John Deere 2 - Grain Harvesting,Lab,Tuesday,11:30 AM,1:20 PM,MRGN 129
 John Deere 2 - Grain Harvesting,Lec,Thursday,12:30 PM,1:20 PM,SYNC ONLINE
 Lockheed Martin,Lec,Monday,1:30 PM,2:20 PM,SYNC ONLINE
 Lockheed Martin,Lab,Friday,1:30 PM,3:20 PM,MRGN 212
-Makusafe,Lec,Tuesday,9:30 AM,10:20 AM,SYNCONLINE
+Makusafe,Lec,Tuesday,9:30 AM,10:20 AM,SYNC ONLINE
 Makusafe,Lab,Thursday,9:30 AM,11:20 AM,MRGN 129
 Merck (Biometrics),Lec,Monday,9:30 AM,10:20 AM,SYNC ONLINE
 Merck (Biometrics),Lab,Friday,9:30 AM,11:20 AM,MRGN 129
@@ -69,8 +76,8 @@ MISO,Lab,Friday,3:30 PM,5:20 PM,MRGN 212
 Mursix,Lab,Tuesday,1:30 PM,3:20 PM,MRGN 206
 Mursix,Lec,Thursday,1:30 PM,2:20 PM,SYNC ONLINE
 Nuvve,Lab,Monday,1:30 PM,3:20 PM,MRGN 206
-Nuvve,Lec,Friday,1:30 PM,2:20 PM,SYNCONLINE
-Pebblst,Lec,Tuesday,9:30 AM,10:20 AM,SYNCONLINE
+Nuvve,Lec,Friday,1:30 PM,2:20 PM,SYNC ONLINE
+Pebblst,Lec,Tuesday,9:30 AM,10:20 AM,SYNC ONLINE
 Pebblst,Lab,Thursday,9:30 AM,11:20 AM,HILL C102A
 Plane English,Lab,Tuesday,3:30 PM,5:20 PM,MRGN 206
 Plane English,Lec,Thursday,3:30 PM,4:20 PM,SYNC ONLINE
@@ -87,7 +94,7 @@ Raytheon 2 - Business Intelligence,Lab,Friday,11:30 AM,1:20 PM,MRGN 212
 REACH Public Health,Lec,Tuesday,8:30 AM,9:20 AM,SYNC ONLINE
 REACH Public Health,Lab,Thursday,7:30 AM,9:20 AM,MRGN 129
 Renzoe Box,Lab,Monday,1:30 PM,3:20 PM,MRGN 112
-Renzoe Box,Lec,Friday,1:30 PM,2:20 PM,SYNCONLINE
+Renzoe Box,Lec,Friday,1:30 PM,2:20 PM,SYNC ONLINE
 Republic Airways,Lec,Monday,11:30 AM,12:20 PM,SYNC ONLINE
 Republic Airways,Lab,Friday,10:30 AM,12:20 PM,MRGN 112
 Sandia (AESOP),Lec,Monday,10:30 AM,11:20 AM,SYNC ONLINE
@@ -108,9 +115,9 @@ Viasat,Lec,Monday,1:30 PM,2:20 PM,SYNC ONLINE
 Viasat,Lab,Friday,1:30 PM,3:20 PM,MRGN 129
 Wabash National,Lab,Monday,11:30 AM,1:20 PM,MRGN 212
 Wabash National,Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
-Webee Irrigation (1),Lec,Tuesday,11:30 AM,12:20 PM,SYNCONLINE
+Webee Irrigation (1),Lec,Tuesday,11:30 AM,12:20 PM,SYNC ONLINE
 Webee Irrigation (1),Lab,Thursday,11:30 AM,1:20 PM,HILL C102A
 Webee Manufacturing (2),Lab,Monday,11:30 AM,1:20 PM,HILL C102A
-Webee Manufacturing (2),Lec,Friday,11:30 AM,12:20 PM,SYNCONLINE
+Webee Manufacturing (2),Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
 
 |===
