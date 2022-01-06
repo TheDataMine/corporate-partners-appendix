@@ -43,7 +43,8 @@ We encourage you to like the page link:https://www.linkedin.com/company/datamine
 
 === How to add Corporate Partners to your LinkedIn page
 
-*missing image here*
+
+image::LinkedIn_guidance.jpg[Our image, width=792, height=500, loading=lazy, title="Screenshot of LinkedIn recommendations."]
 
 Click “+” to add an experience. 
 
