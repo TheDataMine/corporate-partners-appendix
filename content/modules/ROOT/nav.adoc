@@ -13,7 +13,7 @@
 *** xref:sprint6_fall2021.adoc[Sprint #6: November 1 - November 14, 2021]
 *** xref:sprint7_fall2021.adoc[Sprint #7: November 15 - December 5, 2021]
 *** xref:final_presentation_fall2021.adoc[Final Presentation - Fall 2021]
-** xref:spring2022_introduction.adoc[Spring 2022]
+** xref:spring2022.adoc[Spring 2022]
 *** xref:spring2022_syllabus.adoc[Syllabus]
 *** xref:spring2022_schedule.adoc[Course Schedule]
 *** xref:spring2022_announcements.adoc[Announcements]
