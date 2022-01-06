@@ -1,11 +1,11 @@
 = Spring 2022 Team Meeting Locations 
 
-HILL is Hillenbrand Residence Hall located at 1301 Third St., West Lafayette, IN 47906
+*HILL* is Hillenbrand Residence Hall located at 1301 Third St., West Lafayette, IN 47906
 
-MRGN is the Burton D. Morgan Center for Entrepreneurship located at 1201 W. State St., West Lafayette, IN 47906. MRGN is located on the southwest corner of State Street and Jischke Drive.
+*MRGN* is the Burton D. Morgan Center for Entrepreneurship located at 1201 W. State St., West Lafayette, IN 47906. MRGN is located on the southwest corner of State Street and Jischke Drive.
 
+Scroll to the bottom of this page to see a campus map with HILL and MRGN. 
 
-image::MRGN_HILL_map.jpg[Our image, width=792, height=500, loading=lazy, title="Map of campus featuring MRGN and HILL."]
 
 [%header,format=csv]
 |===
@@ -121,3 +121,5 @@ Webee Manufacturing (2),Lab,Monday,11:30 AM,1:20 PM,HILL C102A
 Webee Manufacturing (2),Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
 
 |===
+
+image::MRGN_HILL_map.jpg[Our image, width=792, height=500, loading=lazy, title="Map of campus featuring MRGN and HILL."]
