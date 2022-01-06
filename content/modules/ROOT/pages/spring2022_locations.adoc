@@ -51,8 +51,8 @@ Helmer Scientific,Lec,Tuesday,3:30 PM,4:20 PM,SYNC ONLINE
 Helmer Scientific,Lab,Thursday,3:30 PM,5:20 PM,MRGN 206
 IU Health,Lab,Monday,9:30 AM,11:20 AM,MRGN 212
 IU Health,Lec,Friday,9:30 AM,10:20 AM,SYNC ONLINE
-Jobvite,Lab,Monday,8:30 AM,10:20 AM,MRGN 129
-Jobvite,Lec,Friday,9:00 AM,9:50 AM,SYNC ONLINE
+Jobvite,Lec,Tuesday,3:30 PM,4:20 PM,SYNC ONLINE
+Jobvite,Lab,Thursday,3:30 PM,5:20 PM,MRGN 212
 John Deere 1 - Remote Machine Learning,Lab,Monday,11:30 AM,1:20 PM,MRGN 206
 John Deere 1 - Remote Machine Learning,Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
 John Deere 2 - Grain Harvesting,Lab,Tuesday,11:30 AM,1:20 PM,MRGN 129
