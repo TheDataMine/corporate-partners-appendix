@@ -69,6 +69,8 @@ Merck (NLP),Lec,Monday,1:30 PM,2:20 PM,SYNC ONLINE
 Merck (NLP),Lab,Friday,1:30 PM,3:20 PM,MRGN 206
 Merck (RFID),Lec,Tuesday,12:30 PM,1:20 PM,SYNC ONLINE
 Merck (RFID),Lab,Thursday,11:30 AM,1:20 PM,MRGN 206
+Merck (4),Lec,TBD,TBD,TBD,SYNC ONLINE
+Merck (4),Lab,TBD,TBD,TBD,TBD
 Military Family Research Institute,Lec,Tuesday,9:30 AM,10:20 AM,MRGN 112
 Military Family Research Institute,Lab,Thursday,9:30 AM,11:20 AM,MRGN 212
 Minecraft,Lab,Monday,3:30 PM,5:20 PM,MRGN 206
@@ -87,6 +89,8 @@ Purdue Athletics (Social Engagement),Lab,Tuesday,9:30 AM,11:20 AM,MRGN 206
 Purdue Athletics (Social Engagement),Lec,Thursday,9:30 AM,10:20 AM,SYNC ONLINE
 Purdue Athletics (Tickets),Lec,Monday,11:30 AM,12:20 PM,SYNC ONLINE
 Purdue Athletics (Tickets),Lab,Friday,11:30 AM,1:20 PM,MRGN 129
+Purdue Center for Regional Development (PCRD),Lec,TBD,TBD,TBD,SYNC ONLINE
+Purdue Athletics (Tickets),Lab,TBD,TBD,TBD,TBD
 Purdue Co-rec,Lab,Monday,1:30 PM,3:20 PM,MRGN 212
 Purdue Co-rec,Lec,Friday,1:30 PM,2:20 PM,SYNC ONLINE
 Raytheon 1 - Data Driven Mission Readiness,Lec,Monday,9:30 AM,10:20 AM,SYNC ONLINE
