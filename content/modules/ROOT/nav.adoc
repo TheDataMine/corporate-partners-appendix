@@ -1,6 +1,6 @@
 * xref:introduction.adoc[Introduction]
 * xref:agile-training.adoc[Agile Training]
-* xref:student_playbook.adoc[Students]
+* xref:students.adoc[Students]
 ** xref:introduction_fall2021.adoc[Fall 2021]
 *** xref:syllabus_fall2021.adoc[Syllabus]
 *** xref:schedule_fall2021.adoc[Course Schedule]
@@ -48,4 +48,7 @@
 *** xref:rythms_team_reports.adoc[Team Reports]
 *** xref:rythms_timesheet.adoc[Timesheets]
 *** xref:rythms_grading.adoc[Grading]
-* xref:cp_mentor_playbook.adoc[Corporate Partner Mentors]
+* xref:mentors.adoc[Corporate Partner Mentors]
+** xref:mentors_announcements.adoc[Announcements]
+
+
