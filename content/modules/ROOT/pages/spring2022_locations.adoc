@@ -1,4 +1,4 @@
-= Spring 2022 Team Meeting Locations 
+= Spring 2022 Team Meeting Times & Locations 
 
 
 *HILL* is Hillenbrand Residence Hall located at 1301 Third St., West Lafayette, IN 47906
@@ -7,6 +7,7 @@
 
 <<locations-map, Click here to see a campus map with HILL and MRGN. >>
 
+*If you think there is an error in the schedule below, please contact us at datamine@purdue.edu 
 
 [%header,format=csv]
 |===
@@ -68,7 +69,7 @@ Merck (NLP),Lec,Monday,1:30 PM,2:20 PM,SYNC ONLINE
 Merck (NLP),Lab,Friday,1:30 PM,3:20 PM,MRGN 206
 Merck (RFID),Lec,Tuesday,12:30 PM,1:20 PM,SYNC ONLINE
 Merck (RFID),Lab,Thursday,11:30 AM,1:20 PM,MRGN 206
-Military Family Research Institute,Lec,Tuesday,9:30 AM,10:20 AM,SYNC ONLINE
+Military Family Research Institute,Lec,Tuesday,9:30 AM,10:20 AM,MRGN 112
 Military Family Research Institute,Lab,Thursday,9:30 AM,11:20 AM,MRGN 212
 Minecraft,Lab,Monday,3:30 PM,5:20 PM,MRGN 206
 Minecraft,Lec,Friday,3:30 PM,4:20 PM,SYNC ONLINE
