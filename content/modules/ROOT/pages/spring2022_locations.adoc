@@ -1,6 +1,8 @@
 = Spring 2022 Team Meeting Times & Locations 
 
 
+The MS Teams meeting link for your *SYNC ONLINE* class were emailed out in December and again on January 7. If you do not have this meeting link, please email us at datamine@purdue.edu and specify what team you are on.
+
 *HILL* is Hillenbrand Residence Hall located at 1301 Third St., West Lafayette, IN 47906
 
 *MRGN* is the Burton D. Morgan Center for Entrepreneurship located at 1201 W. State St., West Lafayette, IN 47906. MRGN is located on the southwest corner of State Street and Jischke Drive.
@@ -121,10 +123,10 @@ Viasat,Lec,Monday,1:30 PM,2:20 PM,SYNC ONLINE
 Viasat,Lab,Friday,1:30 PM,3:20 PM,MRGN 129
 Wabash National,Lab,Monday,11:30 AM,1:20 PM,MRGN 212
 Wabash National,Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
-Webee Irrigation (1),Lec,Tuesday,11:30 AM,12:20 PM,SYNC ONLINE
-Webee Irrigation (1),Lab,Thursday,11:30 AM,1:20 PM,HILL C102A
-Webee Manufacturing (2),Lab,Monday,11:30 AM,1:20 PM,HILL C102A
-Webee Manufacturing (2),Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
+Webee 1 - Manufacturing,Lec,Tuesday,11:30 AM,12:20 PM,SYNC ONLINE
+Webee 1 - Manufacturing,Lab,Thursday,11:30 AM,1:20 PM,HILL C102A
+Webee 2 - Irrigation,Lab,Monday,11:30 AM,1:20 PM,HILL C102A
+Webee 2 - Irrigation,Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
 
 |===
 
