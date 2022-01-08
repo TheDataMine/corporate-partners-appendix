@@ -1,11 +1,18 @@
-= Welcome to Spring 2022 semester in The Data Mine Corporate Partners!
+= Welcome to The Data Mine Corporate Partners Spring 2022 semester!
 
-*All course information will be posted within this book (The Corporate Partners appendix of The Example Book). All assignment submissions will be via Gradescope or Brightspace. Your grades will be posted in Brightspace.*
+This semester, we have moved our course content to The Corporate Partners appendix of The Example Book (the pages you are reading right now). We have migrated away from hosting our content in Brightspace to make our content publicly accessible as we expand. 
 
-To get started:
+However, we still have a link:https://purdue.brightspace.com/[Brightspace] page for the purposes of grading. All Purdue courses are required to post grades in Brightspace. Students will also continue to use link:https://www.gradescope.com/[Gradescope] as the submission portal for sprint reports. The method of submission will be specified for each assignment under the corresponding sprint page. 
 
-1. Review the spring 2022 syllabus below.
 
-2. Review spring 2022 course schedule.
+To get started this semester:
 
-3. Click on "Sprint #1" to review the content for the first two weeks.
+1. Review the xref:spring2022_syllabus.adoc[spring 2022 syllabus].
+
+2. Review the xref:spring2022_schedule.adoc[spring 2022 course schedule] for due dates and important dates.
+
+3. Confirm your xref:spring2022_locations.adoc[meeting time and location]. This should match the time listed on your official Purdue schedule. The MS Teams meeting link for your SYNC ONLINE class were emailed out in December and again on January 7. If you do not have this meeting link, please email us at datamine@purdue.edu and specify what team you are on. 
+
+4. Click on xref:spring2022_sprint1.adoc[Sprint #1] to review the content for the first two weeks.
+
+We look forward to working with you this semester! 
