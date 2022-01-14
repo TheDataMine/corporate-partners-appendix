@@ -79,7 +79,7 @@ ATOM,Rosalie Wilfong,rwilfong@purdue.edu
 Bayer #1 Yield Prediction,Iris Zhang,zhan3206@purdue.edu
 Bayer #2 Climate,Joshua Knull,jknull@purdue.edu
 Beck's Hybrids,Doug  Abney,abneyd@purdue.edu
-CAT Digital,Parinith  Rajkumar,prajkum@purdue.edu
+CAT Digital,TBD,TBD
 CDC ,Joshua Lefton,jlefton@purdue.edu
 CLA Pricing Optimization (#2),Adrienne  Zhang,zhan4000@purdue.edu
 CLA Recurring Revenue (#1),Esha Junankar,ejunanka@purdue.edu
@@ -92,7 +92,7 @@ Ford,Min (Jasmine) Lu,lu838@purdue.edu
 FSSA,Pallavi Pati,patip@purdue.edu
 Halderman,Elijah Colwill,ecolwill@purdue.edu
 Helmer,Shreya Misra,misra12@purdue.edu
-IU Health,Raunak Srivastava,srivas72@purdue.edu
+IU Health,Bhakti Chavda, bchavda@purdue.edu
 Jobvite,Jacob Roach,roach35@purdue.edu
 John Deere Grain Optimization,Anirudh Rao,rao107@purdue.edu
 John Deere Remote Machine Diag,Cai Chen,chen3431@purdue.edu
@@ -111,7 +111,7 @@ MISO,TBD,TBD
 Mursix,Benjamin Johnson,john2701@purdue.edu
 Mursix,Lohita Srinivasan,srinival@purdue.edu
 Nuvve,Mihika Ghaisas,mghaisas@purdue.edu
-Pebblst,Vikram Natarajan,natarav@purdue.edu
+Pebblst,TBD,TBD
 Plane English,Pramey  Kabra,kabrap@purdue.edu
 Purdue Athletics - Social Media,Gia  Peduto,gpeduto@purdue.edu
 Purdue Athletics - Ticketing,Adithya Iyengar,iyengar1@purdue.edu
