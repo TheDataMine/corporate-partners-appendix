@@ -4,17 +4,17 @@ Along with xref:rythms_team_labs.adoc[Team Labs], TAs are responsible for leadin
 Use these team meetings to complete the following sprint ceremonies:
 
 == Sprint Planning
-Sprint planning should be conducted every two weeks at the start of each sprint. Having the assistance of corporate partner mentors is valuable during sprint planning becuase they can help keep the project moving in the right direction. Proceed by moving through all sub-teams and assigning tasks to each team member to be completed during the sprint. 
+Sprint planning should be conducted every two weeks at the start of each sprint. Having the assistance of corporate partner mentors is valuable during sprint planning because they can help keep the project moving in the right direction. Proceed by moving through all sub-teams and assigning tasks to each team member to be completed during the sprint. 
 
 [TIP]
 ====
-Learn more about sprint planning at xref:agile_training.adoc[Agile Training]]
+Learn more about sprint planning at xref:agile_training.adoc[Agile Training]
 ====
 
 == Sprint Review
-Sprint reviews should be conducted every two week as well. These meetings are times for sub teams to present progress updates to corporate partner mentors as well as recieve feedback on their work. 
+Sprint reviews should be conducted every two week as well. These meetings are times for sub teams to present progress updates to corporate partner mentors as well as receive feedback on their work. 
 
-This meeting allows for consistent, technical presentation practice, giving team members new presentation skills and confidence. Sprint reviews are also open and honest discussions between the team and corporate partner mentors. Using this time effectivley will aid the project immensely.  
+This meeting allows for consistent, technical presentation practice, giving team members new presentation skills and confidence. Sprint reviews are also open and honest discussions between the team and corporate partner mentors. Using this time effectively will aid the project immensely.  
 
 [TIP]
 ====

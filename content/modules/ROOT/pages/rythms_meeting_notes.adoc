@@ -8,7 +8,7 @@ Below is a sample of meeting notes. This sample is brief but outlines what a mee
 
 1. Introduction
 * Welcome conversation
-* Iceabreaker
+* Ice breaker
 2. Sprint Planning 
 * Data Engineering Team
 ** Executable 1
