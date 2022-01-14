@@ -37,4 +37,4 @@ Yes, students and TAs are required to attend lab meetings.
 Use the support of The Data Mine staff to help answer any difficult questions. It is encouraged to schedule meetings with The Data Mine staff, but sometimes, their office doors may open and willing help right away. 
 
 *Will corporate partner mentors be at labs?*
-No, unless there is a special circumstance, corporate partners do not attend lab sessions. 
+No, unless there is a special circumstance, corporate partners do not attend lab sessions.  
