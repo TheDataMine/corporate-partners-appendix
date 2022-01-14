@@ -1,6 +1,12 @@
 = Sprint #1: January 10 - January 23, 2022
 
+
+== Welcome back! 
+
+Make sure to review the xref:spring2022.adoc[introduction information for this semester.] 
+
 _Monday, 1/17:  Dr. MLK Day (no CRP meetings/classes)_
+
 
 == Sprint #1 Report 
 

@@ -123,10 +123,10 @@ Viasat,Lec,Monday,1:30 PM,2:20 PM,SYNC ONLINE
 Viasat,Lab,Friday,1:30 PM,3:20 PM,MRGN 129
 Wabash National,Lab,Monday,11:30 AM,1:20 PM,MRGN 212
 Wabash National,Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
-Webee 1 - Manufacturing,Lec,Tuesday,11:30 AM,12:20 PM,SYNC ONLINE
-Webee 1 - Manufacturing,Lab,Thursday,11:30 AM,1:20 PM,HILL C102A
-Webee 2 - Irrigation,Lab,Monday,11:30 AM,1:20 PM,HILL C102A
-Webee 2 - Irrigation,Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
+Webee - Manufacturing,Lec,Tuesday,11:30 AM,12:20 PM,SYNC ONLINE
+Webee - Manufacturing,Lab,Thursday,11:30 AM,1:20 PM,HILL C102A
+Webee - Irrigation,Lab,Monday,11:30 AM,1:20 PM,HILL C102A
+Webee - Irrigation,Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
 
 |===
 
