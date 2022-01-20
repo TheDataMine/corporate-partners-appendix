@@ -25,8 +25,8 @@ Bayer #2 (GxE),Lec,Tuesday,3:30 PM,4:20 PM,SYNC ONLINE
 Bayer #2 (GxE),Lab,Thursday,3:30 PM,5:20 PM,MRGN 129
 Beck's Hybrids (PLT),Lec,Tuesday,1:30 PM,2:20 PM,SYNC ONLINE
 Beck's Hybrids (PLT),Lab,Thursday,1:30 PM,3:20 PM,MRGN 129
-CAT Digital,Lab,Monday,1:30 PM,3:20 PM,MRGN 129
-CAT Digital,Lec,Friday,1:30 PM,2:20 PM,SYNC ONLINE
+CAT Digital,Lec,Monday,9:30 AM,10:20 AM,SYNC ONLINE
+CAT Digital,Lab,Friday,9:30 AM,11:20 AM, MRGN 112
 CDC Over-the-counter (OTC),Lab,Monday,11:30 AM,1:20 PM,MRGN 129
 CDC Over-the-counter (OTC),Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
 CLA 1,Lec,Tuesday,1:30 PM,2:20 PM,SYNC ONLINE
