@@ -30,13 +30,17 @@ Below is a sample of meeting notes. This sample is brief but outlines what a mee
 
 == FAQs
 *How often should meeting minutes be written?*
+
 Meeting Minutes should be written for every team meeting and lab. 
 
 *How should meeting minutes be distributed?*
-Meeting minutes can be distrubted through slack or email. It is also valuable to save all meeting minutes in a shared document. 
+
+Meeting minutes can be distributed through slack or email. It is also valuable to save all meeting minutes in a shared document. 
 
 *Who will get value out of the meeting minutes?*
-Any team member looking to find a summary of the meeting will find meeting notes valauble. These notes will help refresh memories or keep absent team members up to date. 
+
+Any team member looking to find a summary of the meeting will find meeting notes valuable. These notes will help refresh memories or keep absent team members up to date. 
 
 *How soon after a meeting should TAs send meeting notes?*
-Sending out meeting notes as soon as possible is ideal. However, distributing the notes no longer than a day after the meeting is crucuial.  
+
+Sending out meeting notes as soon as possible is ideal. However, distributing the notes no longer than a day after the meeting is crucial.  
