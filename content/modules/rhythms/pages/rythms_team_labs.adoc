@@ -1,7 +1,9 @@
 = Team Labs
+
 Along with  xref:rythms_team_meetings.adoc[Team Meetings], TAs are responsible for leading weekly lab meetings. These lab sessions are about 2 hours long and is the best time to get work done as a team. This time in lab can be used as best fit, but here are a few suggestions.
 
 == Icebreakers
+
 Because labs are about 2 hours long, there is extra time to build team moral and identity by keeping a loose and casual working environment. TAs can begin labs by chatting with the team to ease any stress of the course. Icebreakers are also a great way to create a relaxed environment and allowing the team to get comfortable with each other. 
 
 [TIP]
@@ -10,11 +12,13 @@ Review team building information at xref:ta_welcoming_env.adoc[Creating a Welcom
 ====
 
 == Working Sessions and Live Coding
+
 The lab session may be the only face to face time that team members get with each other so the majority of the time in lab should be devoted to working sessions where sub-teams can work together. Separating the team in to sub-teams during the lab will make organizing the lab easier as well. 
 
 During the working sessions, TAs are meant to be a resource for the team. TAs should be prepared to problem solve and answer questions from team members. 
 
 == Retrospectives
+
 Labs are also a great time to conduct short sprint retrospectives. Because labs are in person and mentors are not present, team members may feel more comfortable sharing their feedback on the course and project. Devote lab time every two weeks, before starting a new sprint, to having a discussion on:
 
 1. Things that are going well

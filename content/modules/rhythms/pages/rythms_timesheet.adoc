@@ -10,6 +10,7 @@ At the end of every week, TAs should total their hours and submit hours at Purdu
 image::timesheet.png[Sample Time Sheet, width=792, height=500, loading=lazy, title="Sample Time Sheet"]
 
 == FAQ
+
 *When are time sheets due?*
 
 Time sheets are due weekly along with team reports before 8:00am on Mondays. 
