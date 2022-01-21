@@ -1,4 +1,5 @@
 = Team Labs
+
 Along with  xref:rythms_team_meetings.adoc[Team Meetings], TAs are responsible for leading weekly lab meetings. These lab sessions are about 2 hours long and is the best time to get work done as a team. This time in lab can be used as best fit, but here are a few suggestions.
 
 == Icebreakers
