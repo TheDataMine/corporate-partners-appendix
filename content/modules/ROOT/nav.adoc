@@ -31,13 +31,6 @@
 *** xref:spring2022_finalreport.adoc[Final Report: Due May 1, 2022]
 ** xref:ay2022-2023.adoc[AY 2022-2023]
 * xref:ta_playbook.adoc[TAs]
-** TA Trainings
-*** xref:ta_training_module1.adoc[Module 1: Exploring The Data Mine]
-*** xref:ta_training_module2.adoc[Module 2: University Policies]
-*** xref:ta_training_module3.adoc[Module 3: Classroom Policies]
-*** xref:ta_training_module4.adoc[Module 4: Diversity In Data Science]
-*** xref:ta_training_module5.adoc[Module 5: Agile Training]
-*** xref:ta_training_module6.adoc[Module 6: Logistics]
 ** xref:ta_welcoming_env.adoc[Creating a Welcoming Environment]
 ** xref:ta_team_breakdown.adoc[Team Breakdown]
 ** xref:ta_technical_resources.adoc[Technical Resources]
