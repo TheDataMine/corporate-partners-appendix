@@ -10,7 +10,7 @@ Review team building information at xref:ta_welcoming_env.adoc[Creating a Welcom
 ====
 
 == Working Sessions and Live Coding
-The lab session may be the only face to face time that team members get with each other so the majority of the time in lab should be devoted to working sessions where sub-teams can work together. Seperating the team in to sub-teams during the lab will make organizing the lab easier as well. 
+The lab session may be the only face to face time that team members get with each other so the majority of the time in lab should be devoted to working sessions where sub-teams can work together. Separating the team in to sub-teams during the lab will make organizing the lab easier as well. 
 
 During the working sessions, TAs are meant to be a resource for the team. TAs should be prepared to problem solve and answer questions from team members. 
 
@@ -23,18 +23,22 @@ Labs are also a great time to conduct short sprint retrospectives. Because labs 
 
 [TIP]
 ====
-Learn more about sprint retrospective at xref:agile_training.adoc[Agile Training]]
+Learn more about sprint retrospective at xref:agile-training.adoc[Agile Training]]
 ====
 
 == FAQs
 *How long do labs last?*
+
 Labs are 1 hour and 50 minutes long every week (ex. 9:30am to 11:20am). 
 
 *Is attendance at labs required?*
+
 Yes, students and TAs are required to attend lab meetings. 
 
 *What if during a lab session, a TA does not know how to answer a question?*
+
 Use the support of The Data Mine staff to help answer any difficult questions. It is encouraged to schedule meetings with The Data Mine staff, but sometimes, their office doors may open and willing help right away. 
 
 *Will corporate partner mentors be at labs?*
+
 No, unless there is a special circumstance, corporate partners do not attend lab sessions.  

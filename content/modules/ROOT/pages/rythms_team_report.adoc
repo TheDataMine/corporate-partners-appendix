@@ -22,11 +22,14 @@ The questions found on Team Reports are:author:
 
 == FAQs
 *How often do TAs write and submit sprint reports?*
+
 TAs submit team reports every two weeks. TAs will alternate grading xref:rythms_grading.adoc[sprint reports] and writing team reports. 
 
 *Are the team reports required?*
+
 Yes, they are required. These reports are the primary source of updates for The Data Mine staff.
 
 *How long does it take to write a team report on average?*
+
 Team reports are not difficult to write or very time consuming. It will usually take TAs no longer than 30 to 45 minutes to complete their team report.
 
