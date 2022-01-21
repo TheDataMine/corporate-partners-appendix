@@ -1,4 +1,4 @@
-* xref:ta_weekly_rythms.adoc[Weekly Rythms]
+* xref:introduction.adoc[Weekly Rythms]
 ** xref:rythms_team_meetings.adoc[Team Meetings]
 ** xref:rythms_team_labs.adoc[Team Labs]
 ** xref:rythms_meeting_notes.adoc[Meeting Notes]

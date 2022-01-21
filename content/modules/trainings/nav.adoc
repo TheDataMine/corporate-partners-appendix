@@ -1,4 +1,4 @@
-* TA Trainings
+* xref:introduction.adoc[TA Trainings]
 ** xref:ta_training_module1.adoc[Module 1: Exploring The Data Mine]
 ** xref:ta_training_module2.adoc[Module 2: University Policies]
 ** xref:ta_training_module3.adoc[Module 3: Classroom Policies]
