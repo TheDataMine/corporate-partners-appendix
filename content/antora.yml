@@ -5,7 +5,7 @@ display_version: stable
 start_page: ROOT:introduction.adoc
 nav:
 - modules/ROOT/nav.adoc
-- modules/fall_2021/nav.adoc
-- modules/rhythms/nav.adoc
-- modules/trainings/nav.adoc
+- modules/TAs/nav.adoc
+- modules/CP_mentors/nav.adoc
+- modules/students/nav.adoc
 

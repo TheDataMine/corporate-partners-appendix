@@ -1,8 +1,0 @@
-* xref:introduction.adoc[Weekly Rythms]
-** xref:rythms_team_meetings.adoc[Team Meetings]
-** xref:rythms_team_labs.adoc[Team Labs]
-** xref:rythms_meeting_notes.adoc[Meeting Notes]
-** xref:rythms_attendance.adoc[Attendance]
-** xref:rythms_team_report.adoc[Team Reports]
-** xref:rythms_timesheet.adoc[Timesheets]
-** xref:rythms_grading.adoc[Grading]
