@@ -26,7 +26,7 @@ Bayer #2 (GxE),Lab,Thursday,3:30 PM,5:20 PM,MRGN 129
 Beck's Hybrids (PLT),Lec,Tuesday,1:30 PM,2:20 PM,SYNC ONLINE
 Beck's Hybrids (PLT),Lab,Thursday,1:30 PM,3:20 PM,MRGN 129
 CAT Digital,Lec,Monday,9:30 AM,10:20 AM,SYNC ONLINE
-CAT Digital,Lab,Friday,9:30 AM,11:20 AM, MRGN 112
+CAT Digital,Lab,Friday,9:30 AM,11:20 AM, MRGN 121
 CDC Over-the-counter (OTC),Lab,Monday,11:30 AM,1:20 PM,MRGN 129
 CDC Over-the-counter (OTC),Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
 CLA 1,Lec,Tuesday,1:30 PM,2:20 PM,SYNC ONLINE
@@ -85,8 +85,8 @@ Nuvve,Lab,Monday,1:30 PM,3:20 PM,MRGN 206
 Nuvve,Lec,Friday,1:30 PM,2:20 PM,SYNC ONLINE
 Pebblst,Lec,Tuesday,9:30 AM,10:20 AM,SYNC ONLINE
 Pebblst,Lab,Thursday,9:30 AM,11:20 AM,HILL C102A
-Plane English,Lab,Tuesday,3:30 PM,5:20 PM,MRGN 206
-Plane English,Lec,Thursday,3:30 PM,4:20 PM,SYNC ONLINE
+Plane English,Lab,Monday,8:30 AM,10:20 AM,MRGN 112
+Plane English,Lec,Wednesday,8:30 AM,9:20 AM,SYNC ONLINE
 Purdue Athletics (Social Engagement),Lab,Tuesday,9:30 AM,11:20 AM,MRGN 206
 Purdue Athletics (Social Engagement),Lec,Thursday,9:30 AM,10:20 AM,SYNC ONLINE
 Purdue Athletics (Tickets),Lec,Monday,11:30 AM,12:20 PM,SYNC ONLINE
