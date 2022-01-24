@@ -74,11 +74,11 @@ If no Data Scientist is assigned to your team, you can email datamine@purdue.edu
 |===
 
 Corporate Partner Project,TA Name,TA Email
-American First Finance,TBD,TBD
+American First Finance,Donggyu (Sean) Lee,lee3966@purdue.edu
 ATOM,Rosalie Wilfong,rwilfong@purdue.edu
 Bayer #1 Yield Prediction,Iris Zhang,zhan3206@purdue.edu
 Bayer #2 Climate,Joshua Knull,jknull@purdue.edu
-Beck's Hybrids,Doug  Abney,abneyd@purdue.edu
+Beck's Hybrids,Doug Abney,abneyd@purdue.edu
 CAT Digital,TBD,TBD
 CDC ,Joshua Lefton,jlefton@purdue.edu
 CLA Pricing Optimization (#2),Adrienne  Zhang,zhan4000@purdue.edu
@@ -87,7 +87,7 @@ Corteva,Katie  Yi,klyi@purdue.edu
 Delta Faucet,Shravan Suravarjjala,ssurava@purdue.edu
 DORIS,Akshaya Kumar,kumar455@purdue.edu
 Elanco,Shannon Irwin,irwins@purdue.edu
-Farfetch,TBD,TBD
+Farfetch,Rashmi	Ananth, ananthr@purdue.edu
 Ford,Min (Jasmine) Lu,lu838@purdue.edu
 FSSA,Pallavi Pati,patip@purdue.edu
 Halderman,Elijah Colwill,ecolwill@purdue.edu
@@ -111,7 +111,7 @@ MISO,TBD,TBD
 Mursix,Benjamin Johnson,john2701@purdue.edu
 Mursix,Lohita Srinivasan,srinival@purdue.edu
 Nuvve,Mihika Ghaisas,mghaisas@purdue.edu
-Pebblst,TBD,TBD
+Pebblst,Sujal Timilsina,stimils@purdue.edu
 Plane English,Pramey  Kabra,kabrap@purdue.edu
 Purdue Athletics - Social Media,Gia  Peduto,gpeduto@purdue.edu
 Purdue Athletics - Ticketing,Adithya Iyengar,iyengar1@purdue.edu
