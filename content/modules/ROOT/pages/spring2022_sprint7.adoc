@@ -1,6 +1,17 @@
 = Sprint #7: April 11 - April 24, 2022
 
 
+== The Data Mine Symposium
+
+*When:* Tuesday, April 12, 2022 
+
+*What:* Poster session to showcase the research of our students this academic year. 
+
+*Where:* Burton D. Morgan Center for Entrepreneurship, 1201 W. State St, West Lafayette, IN 47906
+
+*Details:* See the xref:symposium.adoc[Symposium page] for more information. 
+
+
 == Sprint Report #7
 
 *When:* Due Sunday, April 24 at 11:59 PM ET. Late work will not be accepted.  

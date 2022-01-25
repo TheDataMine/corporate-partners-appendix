@@ -118,7 +118,7 @@ UPS,Lec,Friday,3:30 PM,4:20 PM,SYNC ONLINE
 USAA,Lec,Tuesday,1:30 PM,2:20 PM,SYNC ONLINE
 USAA,Lab,Thursday,1:30 PM,3:20 PM,MRGN 206
 USDA Forest Service,Lab,Tuesday,1:30 PM,3:20 PM,MRGN 129
-USDA Forest Service,Lec,Thursday,1:30 PM,2:20 PM,SYNC ONLINE
+USDA Forest Service,Lec,Thursday,2:30 PM,3:20 PM,SYNC ONLINE
 Viasat,Lec,Monday,1:30 PM,2:20 PM,SYNC ONLINE
 Viasat,Lab,Friday,1:30 PM,3:20 PM,MRGN 129
 Wabash National,Lab,Monday,11:30 AM,1:20 PM,MRGN 212
