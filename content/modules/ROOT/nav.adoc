@@ -30,7 +30,6 @@
 *** xref:symposium.adoc[Symposium: April 12, 2022]
 *** xref:spring2022_finalreport.adoc[Final Report: Due May 1, 2022]
 ** xref:ay2022-2023.adoc[AY 2022-2023]
-* xref:mentors.adoc[Corporate Partner Mentors]
-** xref:mentors_announcements.adoc[Announcements]
+
 
 
