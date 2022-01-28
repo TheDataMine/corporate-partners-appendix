@@ -1,5 +1,5 @@
 * xref:introduction.adoc[Mentors]
 
-**xref:renewal.adoc[Roadmap to Renewal]
+** xref:renewal.adoc[Roadmap to Renewal]
 ** xref:announcements.adoc[Announcements]
 
