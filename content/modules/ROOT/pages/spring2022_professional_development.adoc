@@ -27,7 +27,7 @@ Pick *one* of the below options to complete.
 ** link:https://www.cco.purdue.edu/Students/AcetheInterview?tab=RefinetheBasics[refining the basics]
 ** link:https://www.cco.purdue.edu/Students/AcetheInterview?tab=DressforSuccess[dress for success]
 ** link:https://www.cco.purdue.edu/Students/AcetheInterview?tab=AskQuestions[ask questions]
-** link:https://www.cco.purdue.edu/Students/AcetheInterview?tab=SendaThankYou[send a thank you]. 
+** link:https://www.cco.purdue.edu/Students/AcetheInterview?tab=SendaThankYou[send a thank you] 
 
 3. Login to link:https://purdue.biginterview.com/[Big Interview] and complete the Interview Stream. _Big Interview allows you to simulate job interviews by responding to pre-recorded interview questions and practicing both verbal and non-verbal communication skills through a webcam. Afterwards, you can send your practice interviews to anyone you'd like to get feedback from!_
 +

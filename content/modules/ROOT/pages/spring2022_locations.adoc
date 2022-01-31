@@ -81,7 +81,7 @@ MISO,Lec,Monday,3:30 PM,4:20 PM,SYNC ONLINE
 MISO,Lab,Friday,3:30 PM,5:20 PM,MRGN 212
 Mursix,Lab,Tuesday,1:30 PM,3:20 PM,MRGN 206
 Mursix,Lec,Thursday,1:30 PM,2:20 PM,SYNC ONLINE
-Nuvve,Lab,Monday,1:30 PM,3:20 PM,MRGN 206
+Nuvve,Lab,Monday,1:30 PM,3:20 PM,MRGN 129
 Nuvve,Lec,Friday,1:30 PM,2:20 PM,SYNC ONLINE
 Pebblst,Lec,Tuesday,9:30 AM,10:20 AM,SYNC ONLINE
 Pebblst,Lab,Thursday,9:30 AM,11:20 AM,HILL C102A

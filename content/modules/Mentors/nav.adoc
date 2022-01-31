@@ -1,5 +1,6 @@
 * xref:introduction.adoc[Mentors]
 
 ** xref:renewal.adoc[Roadmap to Renewal]
+** xref:project_descriptions.adoc[Project Description Guidelines]
 ** xref:announcements.adoc[Announcements]
 

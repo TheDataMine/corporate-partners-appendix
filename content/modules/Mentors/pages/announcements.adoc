@@ -3,6 +3,56 @@
 
 *Announcements will be emailed out to mentors and also logged here.*
 
+== (January 25) Week 3 Updates
+
+We hope you’ve had a great start to the spring 2022 semester in The Data Mine. My goal is to provide regular updates this semester, so here are 5 things to know for at the end of week #3 (middle of sprint #2).
+ 
+1. Symposium Update
++
+--
+The Data Mine Symposium will now be conducted in a *virtual setting only* on Wednesday, April 20, 2022. We have had two successful online symposiums in 2020 and 2021, and we look forward to interacting with you and our students online. The schedule for Wednesday, April 20 is to be determined. We will be cancelling the in-person symposium on April 12. We hope to have an in-person Symposium next year in 2023.
+ 
+The students will create one poster and one video per project to present at the symposium. Their first draft is due March 13. Since these posters and videos will be shared publicly, we will have you and your company legal team review and approve the content before posting. We encourage you to work closely on these presentations. As a reminder, all course content is posted here: https://the-examples-book.com/crp/spring2022
+--
++
+
+2. Fall 2022 – Spring 2023
++
+--
+We are planning for fall 2022 already. The students register for fall courses in March, so we will start working with you to determine projects for next year. Project descriptions should be submitted by March 15. If you signed the 5 year sponsor acknowledgment last year, we will be sending you an addendum to specify year 2 details.
+More details regarding fall 2022 – spring 2023 planning will be coming to you soon.
+--
++
+
+3. Job opening in The Data Mine
++
+--
+We are searching for a Corporate Partners Technical Specialist to join our team. We would greatly appreciate you sharing this link with any interested colleagues: https://careers.purdue.edu/job/West-Lafayette-Corporate-Partners-Technical-Specialist-IN-47906/812893500/
+--
++
+
+4. Guest talk
++
+--
+We welcome you to give a talk this spring in The Data Mine. We frequently host guest speakers (online or in-person) for all students in The Data Mine to attend. Topics range from technical talks to company overviews to career advice. If you are interested, please let us know and we will coordinate a date that works into your schedule.
+--
++
+
+5. Writing in Data-Driven Workplaces Survey
++
+--
+The Purdue English Department is conducting a study on writing in data-driven workplaces.
+
+The survey is intended to collect information on the writing and communication skills most important for students entering data-driven workplaces. The data from this survey will help us better prepare Purdue students for future employment at your workplace. Our goal is to develop materials in Purdue’s Professional Writing courses that can help students improve those skills, along with stand-alone online modules or workshops for Data Mine students. 
+ 
+Here is the link to the survey: https://purdue.ca1.qualtrics.com/jfe/form/SV_9mgipJEWt9h4G9M
+ 
+The survey is anonymous, and all information will be confidential. Your participation is completely voluntary and done without compensation or inducement. The survey should take approximately 15 minutes of your time, and you may stop at any point.
+ 
+This study, “Writing in Data-Driven Workplaces,” has been approved by the Institutional Review Board at Purdue University (IRB-2021-1400). If you have any questions about what is stated above or on any other aspect of this research, please email: Jennifer Bay, jbay@purdue.edu. Our Institutional Research Board (IRB) may also be contacted at (765) 494-5942, or at the Human Research Protection Program, YONG 10th Floor, Rm 1032, 155 Grant Street, West Lafayette, IN 47906-2114.  Thank you for your time and willingness to participate in this survey.
+--
++
+
 
 == (January 7) Updates for Spring 2022
 
