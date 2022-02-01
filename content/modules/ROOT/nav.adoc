@@ -1,6 +1,7 @@
 * xref:introduction.adoc[Introduction]
 * xref:agile-training.adoc[Agile Training]
 * xref:students.adoc[Students]
+** xref:apply.adoc[Apply to The Data Mine]
 ** xref:professional_development.adoc[Professional Development]
 ** xref:student_code_of_conduct.adoc[Student Code of Conduct]
 ** Fall 2021
@@ -29,7 +30,6 @@
 *** xref:spring2022_sprint7.adoc[Sprint #7: April 11 - April 24, 2022]
 *** xref:symposium.adoc[Symposium: April 12, 2022]
 *** xref:spring2022_finalreport.adoc[Final Report: Due May 1, 2022]
-** xref:ay2022-2023.adoc[AY 2022-2023]
 
 
 

@@ -1,5 +1,7 @@
 * xref:introduction.adoc[TAs]
 
+** xref:apply.adoc[Apply to be a TA]
+
 ** xref:introduction_rhythms.adoc[Weekly Rhythms]
 *** xref:rythms_team_meetings.adoc[Team Meetings]
 *** xref:rythms_team_labs.adoc[Team Labs]
