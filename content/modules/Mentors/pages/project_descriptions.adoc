@@ -1,7 +1,7 @@
 = Project Description Guidelines 
 
 == Project Description Template
-Fall 2022 - Spring 2022
+Fall 2022 - Spring 2023
 
 * Use your company branded slides
 * Provide one (1) slide with company background information and up to two (2) slides per project your company is sponsoring
@@ -17,7 +17,7 @@ Project #1: [Title]
 
 __One sentence__ high level project overview
 
-* *Project description:* Please add as many details that you can share publicly. Students will not sign an NDA before seeing these slides
+* *Project description:* Please add as many details that you can share publicly. Students will not sign a NDA before seeing these slides
 * *Keywords:* Examples: supply chain analytics; machine learning; social media analysis; optimization; classification; web scraping
 * *Tools/Skills that will be used/learned:* Examples: Python, R, Azure, AWS, PowerBI, SQL, machine learning, natural language processing
 * *Preferences for student profile:* This section is _optional_ and only recommend if there are specific skills or backgrounds _absolutely_ _necessary_. [.underline]#Most projects will not have this section#. Please keep in mind the students are here to learn and develop their skills. They are eager for these opportunities.
