@@ -28,7 +28,7 @@
 **** xref:warm-up-egg-drop.adoc[Egg Drop]
 **** xref:warm-up-ball-drop.adoc[Ball Drop]
 **** xref:warm-up-bucket-removal.adoc[Bucket Removal]
-**** xref:warm-up-pasta-tower.adoc[Poster Tower]
+**** xref:warm-up-pasta-tower.adoc[Pasta Tower]
 **** xref:warm-up-more-games.adoc[More Games]
 
 ** xref:ta_team_breakdown.adoc[Team Breakdown]
