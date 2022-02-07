@@ -10,6 +10,7 @@
 *** xref:rythms_team_report.adoc[Team Reports]
 *** xref:rythms_timesheet.adoc[Time Sheets]
 *** xref:rythms_grading.adoc[Grading]
+**** xref:rythms_mentor_feedback.adoc[Mentor Feedback]
 
 ** xref:introduction_trainings.adoc[Trainings]
 *** xref:ta_training_module1.adoc[Module 1: Exploring The Data Mine]
