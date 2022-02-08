@@ -12,7 +12,9 @@ Slide about your company
 
 * Include company name, location, and brief description of company. Pictures are encouraged.
 
-=== Slide 2
+=== Slides 2 & 3
+_You may have up to 2 slides per project._
+
 Project #1: [Title]
 
 __One sentence__ high level project overview
@@ -24,7 +26,6 @@ __One sentence__ high level project overview
 * *Citizenship status:* Examples: Open to all students, including international students; US Citizens and Permanent residents preferred; US Citizens required
 * Consider including relevant images or website links
 
-=== Slide 3
-Project #1 [Title] cont.
+=== Slides 4 & 5
 
-* Continuation of project 1. You may have up to 2 slides per project. 
+Same format as slides 2 & 3 if you have additional projects. 
