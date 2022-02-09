@@ -33,9 +33,10 @@ Same format as slides 2 & 3 if you have additional projects.
 == Example Slides
 
 === Sandia Flight
-images::sandia_flight_slide1.jpg
 
-images::sandia_flight_slide2.jpg
+image::sandia_flight_slide1.jpg[Sandia Flight Slide 1, width=792, height=500, loading=lazy]
 
-images::sandia_flight_slide3.jpg
+image::sandia_flight_slide2.jpg[Sandia Flight Slide 2, width=792, height=500, loading=lazy]
+
+image::sandia_flight_slide3.jpg[Sandia Flight Slide 3, width=792, height=500, loading=lazy]
 
