@@ -29,3 +29,13 @@ __One sentence__ high level project overview
 === Slides 4 & 5
 
 Same format as slides 2 & 3 if you have additional projects. 
+
+== Example Slides
+
+=== Sandia Flight
+images::sandia_flight_slide1.jpg
+
+images::sandia_flight_slide2.jpg
+
+images::sandia_flight_slide3.jpg
+
