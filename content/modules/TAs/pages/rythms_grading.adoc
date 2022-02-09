@@ -6,7 +6,7 @@ To access Gradescope, navigate to https://www.purdue.edu/innovativelearning/supp
 
 [IMPORTANT]
 ====
-Watch this video for an example on how to grade a sprint report: https://mediaspace.itap.purdue.edu/media/CRP_TAs_how_to_grade_report_1_in_gradescope_fall_2021_v2/1_wvnlbhdn
+Watch this video for an example on how to grade a sprint report: *video missing - to be added*
 ====
 
 == FAQ

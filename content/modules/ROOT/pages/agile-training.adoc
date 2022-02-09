@@ -25,7 +25,6 @@ Within The Data Mine, two-week sprints are generally most appropriate. Sprints c
 
 
 
-
 == Scrum Team Roles
 
 Considering the personnel and their strengths on every sprint team is crucial for team success. Designated individual roles will help teams stay organized and will establish clear, individual responsibilities. The three roles on a scrum team are product owner, scrum master, and development team. 

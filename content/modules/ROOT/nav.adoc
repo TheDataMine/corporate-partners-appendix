@@ -1,5 +1,4 @@
 * xref:introduction.adoc[Introduction]
-* xref:agile-training.adoc[Agile Training]
 * xref:students.adoc[Students]
 ** xref:apply.adoc[Apply to The Data Mine]
 ** xref:professional_development.adoc[Professional Development]
