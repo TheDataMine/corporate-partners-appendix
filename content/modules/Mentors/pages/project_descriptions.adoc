@@ -32,7 +32,7 @@ Same format as slides 2 & 3 if you have additional projects.
 
 == Example Slides
 
-=== Sandia Flight
+=== Sandia National Laboratories
 
 image::sandia_flight_slide1.jpg[Sandia Flight Slide 1, width=792, height=500, loading=lazy]
 
