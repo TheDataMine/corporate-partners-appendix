@@ -42,7 +42,7 @@ image::sandia_flight_slide3.jpg[Sandia Flight Slide 3, width=792, height=500, lo
 
 === Wabash
 
-image::wabash_slide1.jpeg[Wabash Slide 1, width=792, height=500, loading=lazy]
+image::wabash_slide1.jpeg[Wabash Slide 1, width=792, height=500, loading=lazy, role="related thumb right"]
 
 image::wabash_slide2.jpeg[Wabash Slide 2, width=792, height=500, loading=lazy]
 
