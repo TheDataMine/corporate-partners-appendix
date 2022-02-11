@@ -79,7 +79,7 @@ In specialty Learning Communities, Students may take classes as a cohort, perfor
 
 === Kevin Amstutz
 
-image::KevinAmstutz.jpeg[Kevin Amstutz, width=792, height=500, loading=lazy, title="Kevin Amstutz"]
+image::KevinAmstutz.jpeg[Kevin Amstutz, width=200, height=300, loading=lazy, title="Kevin Amstutz"]
 
 *Title:* Senior Data Scientist and Instruction Specialist 
 *Contact:* kamstut@purdue.edu) 
@@ -88,7 +88,7 @@ In today's data-driven workforce, everyone can benefit from a practical data sci
 
 === Jamie Baker
 
-image::JamieBaker.jpeg[Jamie Baker, width=792, height=500, loading=lazy, title="Jamie Baker"]
+image::JamieBaker.jpeg[Jamie Baker, width=200, height=300, loading=lazy, title="Jamie Baker"]
 
 *Title:* Senior Administrative Assistant 
 *Contact:* jcbaker@purdue.edu
@@ -97,7 +97,7 @@ I am proud to be joining The Data Mine as Senior Administrative Assistant. I hav
 
 === Maggie Betz
 
-image::MaggieBetz.jpeg[Maggie Betz, width=792, height=500, loading=lazy, title="Maggie Betz"]
+image::MaggieBetz.jpeg[Maggie Betz, width=200, height=300, loading=lazy, title="Maggie Betz"]
 
 *Title:* Managing Director of Corporate Partnerships 
 *Contact:* betz@purdue.edu
@@ -107,7 +107,7 @@ I am a Purdue alum who lived in Hillenbrand Hall and participated in the Statist
   
 === Nicole Finley
 
-image::NicoleFinley.jpeg[Nicole Finley, width=792, height=500, loading=lazy, title="Nicole Finley"]
+image::NicoleFinley.jpeg[Nicole Finley, width=200, height=300, loading=lazy, title="Nicole Finley"]
 
 *Title:* Operations Manager 
 *Contact:* kingman@purdue.edu
@@ -116,7 +116,7 @@ I’ve worked at Purdue University since 2015. Before coming on staff with The D
 
 === David Glass
 
-image::DavidGlass.jpeg[David Glass, width=792, height=500, loading=lazy, title="David Glass"]
+image::DavidGlass.jpeg[David Glass, width=200, height=300, loading=lazy, title="David Glass"]
 
 *Title:* Senior Data Scientist; also Director of Research and Education Outreach at the Wabash Heartland Innovation Network 
 *Contact:* dglass@purdue.edu
@@ -125,7 +125,7 @@ I am a Purdue alumni who has had the awesome chance to experience the positive i
 
 === Heather Goodwin
 
-image::HeatherGoodwin.jpeg[Heather Goodwin, width=792, height=500, loading=lazy, title="Heather Goodwin"]
+image::HeatherGoodwin.jpeg[Heather Goodwin, width=200, height=300, loading=lazy, title="Heather Goodwin"]
 
 *Title:* Corporate Partners Senior Manager 
 *Contact:* hgoodwi@purdue.edu
@@ -134,7 +134,7 @@ Joining The Data Mine as a Corporate Partners Senior Manager has been an excitin
 
 === Dave Kotterman
 
-image::DaveKotterman.jpeg[Dave Kotterman, width=792, height=500, loading=lazy, title="Dave Kotterman"]
+image::DaveKotterman.jpeg[Dave Kotterman, width=200, height=300, loading=lazy, title="Dave Kotterman"]
 
 *Title:* Managing Director of The Data Mine 
 *Contact:* dkotter@purdue.edu
@@ -143,7 +143,7 @@ I’ve spent nineteen years in manufacturing engineering making autos, steering 
 
 === Naomi Mersinger
 
-image::NaomiMersinger.jpeg[Dave Kotterman, width=792, height=500, loading=lazy, title="Dave Kotterman"]
+image::NaomiMersinger.jpeg[Dave Kotterman, width=200, height=300, loading=lazy, title="Dave Kotterman"]
 
 *Title:* ASL Interpreter / Strategic Initiatives Coordinator 
 *Contact:* nrm@purdue.edu
@@ -152,7 +152,7 @@ I am new to Data Sciences but I am delighted to be joining The Data Mine. My hop
 
 === Rebecca Sharples
 
-image::RebeccaSharples.jpeg[Rebecca Sharples, width=792, height=500, loading=lazy, title="Rebecca Sharples"]
+image::RebeccaSharples.jpeg[Rebecca Sharples, width=200, height=300, loading=lazy, title="Rebecca Sharples"]
 
 *Title:* Managing Director of Academic Programs and Outreach 
 *Contact:* rebecca@purdue.edu
@@ -161,7 +161,7 @@ After 15 years of working in corporate industry doing IT, IT audit consulting, a
 
 === Mark Daniel Ward
 
-image::mdwprofile.jpeg[Mark Dnaiel Ward, width=792, height=500, loading=lazy, title="Mark Dnaiel Ward"]
+image::mdwprofile.jpeg[Mark Dnaiel Ward, width=200, height=300, loading=lazy, title="Mark Dnaiel Ward"]
 
 
 *Title:* Director 
