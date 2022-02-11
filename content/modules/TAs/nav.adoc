@@ -30,6 +30,7 @@
 **** xref:warm-up-bucket-removal.adoc[Bucket Removal]
 **** xref:warm-up-pasta-tower.adoc[Pasta Tower]
 **** xref:warm-up-more-games.adoc[More Games]
+**** xref:warm-up-feeling-today.adoc[How are you today?]
 
 ** xref:ta_team_breakdown.adoc[Team Breakdown]
 ** xref:ta_technical_resources.adoc[Technical Resources]
