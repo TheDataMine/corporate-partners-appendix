@@ -1,1 +1,10 @@
 = TA Training Module 3: Classroom Policies
+
+In this section we will review the TA policies to follow while acting as a TA and working under The Data Mine model. 
+
+Specifically we will work through xref:introduction_rhythms.adoc[Weekly Rythms] to follow as a TA.
+
+== Weekly Team Reports
+Please refer to xref:rythms_team_report.adoc[Team Reports] for more information. 
+
+* missing *
