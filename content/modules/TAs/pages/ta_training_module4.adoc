@@ -22,7 +22,54 @@
 
 === Data Mine student college of major (Fall 2019)
 
-image::diversity.webp[GitHub Desktop, width=792, height=500, loading=lazy, title="GitHub Desktop screen"]
+[cols="1,1,1"]
+|===
+|College | # | % of Total
+
+|Science
+|315
+|49.30%
+
+|Engineering
+|125
+|19.56%
+
+|Health and Human Sciences
+|50
+|7.82%
+
+|Management
+|47
+|7.36%
+
+|Polytechnic
+|31
+|4.85%
+
+|Liberal Arts
+|30
+|4.69%
+
+|Exploratory Studies
+|17
+|2.66%
+
+|Agriculture
+|13
+|2.03%
+
+|Pharmacy
+|10
+|1.56%
+
+|Temporary
+|1
+|0.16%
+
+|*Total*
+|*639*
+|*100%*
+|===
 
 === Data Science Professional Demographics
 

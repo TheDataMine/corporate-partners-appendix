@@ -1,1 +1,170 @@
 = TA Training Module 1: Exploring The Data Mine
+
+== An Innovative, Immersive Living Learning Community
+
+The sheer number of personal technology devices has led to an explosion in the amount of raw data produced in society. Twenty billion devices are now connected to the internet; it is estimated that by 2030, that number will rise to 1 trillion. All of these devices are constantly producing data.
+
+Data scientists are the critical link that transform this data into information that can be applied to solve real-world problems. The study of this data affects every citizen and is needed in every sector. Data science solutions are applied to everything from preventive maintenance in manufacturing to food science initiatives that address food insecurity.
+
+The Data Mine is a living, learning and research-based community created to introduce students to data science concepts and equip them to create solutions to real-world problems. Members of The Data Mine will be part of a team, living, studying and ultimately, performing data-driven research together. The Data Mine is part of Purdue University’s Integrative Data Science Initiative, which is designed to train students across all majors with the data literacy needed to succeed in a data-driven world.
+
+The Data Mine experience allows students the opportunity to live and learn in a community that revolves around a particular topic or theme. The topics and themes studied within The Data Mine incorporate components relevant to any field of study. Students in each community will live in Hillenbrand Hall, where they will have access to renovated study space, upgraded learning technology and hands-on interaction with faculty within the hall.
+
+The Data Mine is open to students from any major of study. Students will learn some of the skills most sought after by companies and graduate programs. No computational background is required. The key trait for joining The Data Mine is the desire to learn data science in a rigorous, but welcoming environment.
+
+== Living and Learning
+
+The National Science Foundation awarded Purdue University with $1.5 million, to implement the Statistics Living Learning Community (STAT-LLC) from 2014 to 2019 in Hillenbrand Hall.
+
+We have come a long way since our first flyer was posted in 2013, announcing the application process for students for the STAT-LLC.
+
+image::hillenbrand.jpeg[Hillenbrand Hall, width=792, height=500, loading=lazy, title="Hillenbrand Hall"]
+
+Hillenbrand was selected as the University Residence of the Year for 2016-17.
+
+Our students in the STAT-LLC published papers and delivered talks at conferences more than 150 times during the 2014-19 life of our NSF grant.
+
+In 2018-19, we scaled this effort up, by introducing The Data Mine to approximately 100 students on campus. In 2019-20, we scaled it up again, to more than 600 students, and now in 2021-22 we have just under 1000 students.
+
+In many ways, Hillenbrand is one of the best places to live on campus. It features two students organizations: The Phoenix Club and The Data Mine Advisory Board. Hillenbrand has its own dining court. 50 students live on each floor of Hillenbrand's two towers. Each tower has 8 floors, for a total of 800 students. The supportive faculty and staff members who work in Hillenbrand are also crucial to the success of this student-centered initiative.
+
+The Data Mine is structured into 20 learning communities of approximately 25 or 50 students each. The students participate in courses, seminars, research, and professional development experiences, which are offered by departments, research centers, and colleges throughout the university.
+
+In addition, roughly 600 students participate in The Data Mine's Corporate Partners program, which enables the students to work directly with employees of companies or national laboratories on data-driven projects.
+
+== What all students have in common
+- All have the desire to learn data science in a rigorous, but
+welcoming environment.
+- All take a 1-credit hour seminar (STAT 19000) one day a
+week to learn new skills.
+-  A growing number of students are in STAT 29000 and 39000.
+These are students in their second or third year in The Data
+Mine.
+- The Data Mine is open to students from any major of study.
+No computational background is required.
+- Despite their diverse backgrounds, all are welcome and have
+potential to do great things! This diversity is a strength of
+this community.
+- Many may be nervous, and our job is to teach and encourage
+them.
+- There are 800+ students in The Data Mine this year!
+
+== Specialty Learning Communities
+In specialty Learning Communities, Students may take classes as a cohort, perform undergraduate research projects, or work with a corporate partner within some of the following research and academic fields:
+
+• Actuarial Science
+• Agriculture
+• Analyzing Digital Gaming
+• Biology
+• Computational Investigation of Living Systems
+• Corporate Partners
+• Data Visualization
+• Data in the Health and Human Sciences
+• Discoveries in Chemistry
+• Earth & Atmospheric Sciences
+• Krannert
+• Pharmacy and Drug Discovery
+• Physics
+• Statistics
+• Vertically Integrated Projects
+
+
+== Seminar Courses: STAT 190, 290, 390
+• Normally class meets in the Hillenbrand dining hall atrium during a lunch or dinner time.
+• Students work on weekly projects (usually using R, Python, SQL, or UNIX) with approximately 3-5 questions.
+• TAs help students while they work, during online oﬀice hours or through the Piazza online discussion board.
+
+
+== Staff Introductions
+
+=== Kevin Amstutz
+
+image::KevinAmstutz.jpeg[Kevin Amstutz, width=792, height=500, loading=lazy, title="Kevin Amstutz"]
+
+*Title:* Senior Data Scientist and Instruction Specialist 
+*Contact:* kamstut@purdue.edu) 
+
+In today's data-driven workforce, everyone can benefit from a practical data science skill set. I'm excited to make interesting projects that push students to think critically, come up with creative solutions, and learn. I have varied interests including additive manufacturing, higher education, software engineering, and statistics.
+
+=== Jamie Baker
+
+image::JamieBaker.jpeg[Jamie Baker, width=792, height=500, loading=lazy, title="Jamie Baker"]
+
+*Title:* Senior Administrative Assistant 
+*Contact:* jcbaker@purdue.edu
+
+I am proud to be joining The Data Mine as Senior Administrative Assistant. I have been working for Purdue for four years now. Purdue has opened so many doors for me and my family. Raised in West Lafayette and a Purdue alum, I bleed black and gold. I am just as excited to watch The Data Mine and Purdue grow as I am to watch my baby boy grow! Boiler up!
+
+=== Maggie Betz
+
+image::MaggieBetz.jpeg[Maggie Betz, width=792, height=500, loading=lazy, title="Maggie Betz"]
+
+*Title:* Managing Director of Corporate Partnerships 
+*Contact:* betz@purdue.edu
+
+I am a Purdue alum who lived in Hillenbrand Hall and participated in the Statistics Living Learning Community (STAT LLC), which was a precursor to The Data Mine. The STAT LLC was the most influential experience during my time at Purdue. I'm excited to be back at Purdue working on The Data Mine staff as the Managing Director of Corporate Partners. It is so important to give students the opportunity to apply their knowledge to real-life problems and experience corporate culture and practice professional skills.
+
+  
+=== Nicole Finley
+
+image::NicoleFinley.jpeg[Nicole Finley, width=792, height=500, loading=lazy, title="Nicole Finley"]
+
+*Title:* Operations Manager 
+*Contact:* kingman@purdue.edu
+
+I’ve worked at Purdue University since 2015. Before coming on staff with The Data Mine, I worked at Discovery Park and was part of their administrative team. I’m excited to be on The Data Mine staff as an Operations Manager. It will be a welcomed change to make the switch over to the academic side and have direct involvement in a student’s future success and career. Not to mention data science is such an important piece of a student’s education. If I could have a small hand in working with The Data Mine students to help instill an interest in the topic and help them graduate with real world experience, each day will be considered a success!
+
+=== David Glass
+
+image::DavidGlass.jpeg[David Glass, width=792, height=500, loading=lazy, title="David Glass"]
+
+*Title:* Senior Data Scientist; also Director of Research and Education Outreach at the Wabash Heartland Innovation Network 
+*Contact:* dglass@purdue.edu
+
+I am a Purdue alumni who has had the awesome chance to experience the positive impact of data and analytics in my career at both John Deere and Delta Faucet Company. I think that data science will be key in the future to make a change for good in the world and address the many challenges that we face in all aspects of human life. I’m incredibly excited to work with the Data Mine to build academic partnerships and help to teach students about the ever changing world of data science. In every realm from agriculture to video games I believe that data science is a key enabler of positive progress. Boiler up!
+
+=== Heather Goodwin
+
+image::HeatherGoodwin.jpeg[Heather Goodwin, width=792, height=500, loading=lazy, title="Heather Goodwin"]
+
+*Title:* Corporate Partners Senior Manager 
+*Contact:* hgoodwi@purdue.edu
+
+Joining The Data Mine as a Corporate Partners Senior Manager has been an exciting new leap for me. It is inspiring to see so many students from such diverse educational backgrounds working together to learn data science skills. Working with our corporate partners who provide the data science projects for our students to work on is also exciting for me. The collaborative relationship between The Data Mine and all of our corporate partners is a great example of how students at Purdue can gain the real-world experience they need to be successful in their future careers.
+
+=== Dave Kotterman
+
+image::DaveKotterman.jpeg[Dave Kotterman, width=792, height=500, loading=lazy, title="Dave Kotterman"]
+
+*Title:* Managing Director of The Data Mine 
+*Contact:* dkotter@purdue.edu
+
+I’ve spent nineteen years in manufacturing engineering making autos, steering systems, and extruded aluminum products. All along I used data to guide me and manage and direct organizations. I then joined Purdue and helped launch research centers and helped companies connect with rich Boiler engineering talent. Data let me understand progress and effectiveness. As a Purdue alum (BSIE) I’ve used data sets all my life to design experiments, improve processes and aid decision making. Applying data for good, has been and will continue to be a crucial component of daily life. That’s what makes The Data Mine so unique. From their very first day on campus, students have an opportunity to learn how to use impactful, analytical tools that will arm them with methods to thoughtfully navigate complex future situations, regardless of profession. Our Data Mine students are our future engineers, scientists, and policy makers and I’m impassioned to help them succeed now and wherever their future endeavors lead them!
+
+=== Naomi Mersinger
+
+image::NaomiMersinger.jpeg[Dave Kotterman, width=792, height=500, loading=lazy, title="Dave Kotterman"]
+
+*Title:* ASL Interpreter / Strategic Initiatives Coordinator 
+*Contact:* nrm@purdue.edu
+
+I am new to Data Sciences but I am delighted to be joining The Data Mine. My hope as I grow and learn Data Sciences that the diversity within the field grows as well. Fostering a sense of community to ensure that The Data Mine is not only accessible but inclusive to everyone.
+
+=== Rebecca Sharples
+
+image::RebeccaSharples.jpeg[Rebecca Sharples, width=792, height=500, loading=lazy, title="Rebecca Sharples"]
+
+*Title:* Managing Director of Academic Programs and Outreach 
+*Contact:* rebecca@purdue.edu
+
+After 15 years of working in corporate industry doing IT, IT audit consulting, and management of large-scale information systems, I am looking forward to being a part of The Data Mine and helping students acquire the skills that are critical out in the field. I’ve seen firsthand how valuable technical skills can be in any career, and I’m excited to help develop the next generation of our workforce.
+
+=== Mark Daniel Ward
+
+image::mdwprofile.jpeg[Mark Dnaiel Ward, width=792, height=500, loading=lazy, title="Mark Dnaiel Ward"]
+
+
+*Title:* Director 
+*Contact:* mdw@purdue.edu
+
+We are very excited to have hundreds of students living and learning together. Our goal is to foster a welcoming and useful environment, in which students can learn how to use data science tools in their own disciplines. I am especially committed to empowering students from backgrounds that are traditionally underrepresented in the data sciences.
