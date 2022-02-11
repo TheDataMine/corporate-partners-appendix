@@ -1,6 +1,8 @@
 * xref:introduction.adoc[Mentors]
-** xref:partnership.adoc[Roadmap to Partnership]
-** xref:renewal.adoc[Roadmap to Renewal]
+** xref:partner.adoc[Partner With Us]
+** xref:legal.adoc[Legal & Funding]
 ** xref:project_descriptions.adoc[Project Description Guidelines]
+** xref:symposium.adoc[Symposium]
 ** xref:announcements.adoc[Announcements]
 
+s

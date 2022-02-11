@@ -6,6 +6,12 @@ We look forward to meeting you (virtually) during a 25- minute call. You can eas
 
 Before our meeting, please review the introduction videos and content on the Corporate Partners home page (datamine.purdue.edu/corporate)
 
+== 1. Check-in call 
+
+We look forward to checking in with you during a 25-minute call. You can easily schedule here on link:https://calendly.com/datamine[our Calendly page].
+
+
+
 == 2. Project Description 
 
 Define your project and follow our xref:project_descriptions.adoc[project description guidelines].
