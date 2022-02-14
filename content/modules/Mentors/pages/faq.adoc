@@ -3,16 +3,14 @@
 
 *What is the time commitment?*
 
-During the academic year, from late August until the end of April, mentors meet with their students for 50 minutes per week. This meeting is usually online unless the mentor is local or visiting West Lafayette. In the summer, we meet check in every other week for 25 minutes to plan for the academic year. 
+During the academic year, from late August until the end of April, mentors meet with their students for 50 minutes per week. This meeting is usually online unless the mentor is local or visiting West Lafayette. In the summer, we meet to check in every other week for 25 minutes to plan for the academic year. 
 
-*What makes a good Data Mine project?*
+*What are the key elements to a good Data Mine project?*
 
-The best Data Mine projects have these two things:
+The best Data Mine projects have these two elements:
 
-1. A data intensive project 
-2. Committed mentoring 
-
-We seek projects with large data sets (an Excel spreadsheets doesn't count) and at least one employee that can meet and mentor the students weekly. 
+1. *Data intensive project*: We seek projects with large data sets (an Excel spreadsheets doesn't count).
+2. *Committed mentoring*: It is important to have a corporate employee who can meet and mentor the 
 
 *What resources do we get for partnering with The Data Mine?*
 

@@ -3,11 +3,11 @@
 
 == The Data Mine Symposium
 
-*When:* Tuesday, April 12, 2022 
+*When:* Wednesday, April 20, 2022 
 
 *What:* Poster session to showcase the research of our students this academic year. 
 
-*Where:* Burton D. Morgan Center for Entrepreneurship, 1201 W. State St, West Lafayette, IN 47906
+*Where:* Online
 
 *Details:* See the xref:symposium.adoc[Symposium page] for more information. 
 
