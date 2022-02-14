@@ -15,7 +15,7 @@ The posters and videos will be available starting at 8:00 AM ET on Wednesday, Ap
  
 === Q&A and Discussion
 
-From 3:00 - 5:00 PM Eastern time on Tuesday, April 12, 2022, each poster group will have a 
+From 3:00 - 5:00 PM Eastern time on Wednesday, April 20, 2022, each poster group will have a 
 Zoom link so that other students and corporate partner guests can join and ask questions/discuss. For example, there will be a Ford Zoom link, a Viasat Zoom link, etc. 
 
 == Expectations 
@@ -53,22 +53,34 @@ Poster and video *draft* due *Sunday, March 13, 2022*.
 Draft of your poster means more than 75% complete. Draft of your video means slides, script, and initial recording complete. You do not have to add captioning for the draft.
 
 === Examples
-The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer Corporate Partner teams in 2020 & 2021. You are encouraged to watch some of the videos and review the posters from 2020 & 2021.  
+The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer Corporate Partner teams in 2020 & 2021. You are encouraged to watch some of the videos and review the posters from link:https://datamine.purdue.edu/symposium/welcome2020.html[2019-2020] and link:https://datamine.purdue.edu/symposium/welcome.html[2020-2021].  
 
-Posters and videos from academic year 2020 - 2021 are available link:https://datamine.purdue.edu/symposium/welcome.html[here]. 
 
-Posters and videos from academic year 2019 - 2020 are available link:https://datamine.purdue.edu/symposium/welcome2020.html[here].
+[cols="^.^1,^.^1]
+|===
 
-Honorable mentions for best posters: *missing*
+|*Honorable Mentions For Best Posters* |*Honorable Mentions For Best Videos* 
 
-Honorable mentions for best videos: *missing*
+| link:https://datamine.purdue.edu/symposium/merck/2021.html[Merck Biometrics Poster 2020-21]
+
+ link:https://datamine.purdue.edu/symposium/minecraft/2021.html[Minecraft Poster 2020-21]
+
+ link:https://datamine.purdue.edu/symposium/becks/2021.html[Beck's Hybrids Supply Chain Poster 2020-21]
+| link:https://datamine.purdue.edu/symposium/merck/2021.html[Merck Biometrics Video 2020-21]
+
+ link:https://datamine.purdue.edu/symposium/merck/2021.html[Merck RFID Video 2020-21]
+
+
+|===
+
+
+
 
 === Step 1: Create your poster
 
-* You should use a template from your corporate partner if available. Otherwise, two Purdue templates are available *missing* 
+* A SharePoint link will be sent to your team with a Purdue template. Please use this link to create your poster so we can easily access it. Your team is welcome to update the template to match a template from your company. In fact, we encourage you to use the poster theme from your Corporate Partner. 
 * *Your poster should not be text heavy* -- it is not a paper, so complete sentences should be limited. Make sure to include multiple visuals and keep sentences to a minimum. Bullet points are encouraged.  
-* Note: you will not need to print your poster. The Data Mine will handle the printing. 
-of your poster.  
+* Note: you will not need to print your poster. The Data Mine will handle the printing of your poster.  
 * Make sure to include all of these categories:
 
 [cols="3,5"]
@@ -86,8 +98,6 @@ of your poster.
 |*Layout & Design* | • Keep font and colors consistent.
 
 • Make sure it is visually appealing. Zoom out and make the entire poster show on your screen. What do you notice about it? Is it full of text? Too much white space? Not enough images? Flow is confusing?
-
-
  
 |===
 
