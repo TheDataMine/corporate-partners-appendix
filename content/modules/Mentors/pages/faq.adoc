@@ -1,0 +1,23 @@
+= Frequently Asked Questions about Partnership
+
+
+*What is the time commitment?*
+
+During the academic year, from late August until the end of April, mentors meet with their students for 50 minutes per week. This meeting is usually online unless the mentor is local or visiting West Lafayette. 
+
+*What makes a good Data Mine project?*
+
+The best Data Mine projects have these two things:
+
+1. A data intensive project 
+2. Committed mentoring 
+
+We seek projects with large data sets (an Excel spreadsheets doesn't count) and at least one employee that can meet and mentor the students weekly. 
+
+*What resources do we get for mentoring a team?*
+
+* 1 paid team leader (student) per project 
+* Team of undergraduate and graduate students of diverse backgrounds
+* Data Scientist support 
+* Corporate Partner Manager 
+* Connections to campus partners 
