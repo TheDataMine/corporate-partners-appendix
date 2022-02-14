@@ -166,6 +166,8 @@ image::symposium_YT_unlisted.jpg[Our image, width=792, height=500, loading=lazy,
 --
 +
 
+  
+
 === Step 7: Add ADA Closed Captions
 
 * You are required to add closed captioning to your video on YouTube. 
