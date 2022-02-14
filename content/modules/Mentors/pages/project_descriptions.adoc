@@ -50,8 +50,8 @@ image::wabash_slide3.jpeg[Wabash Slide 3, width=792, height=500, loading=lazy]
 
 === DORIS
 
-image::doris_slide1.jpeg[DORIS Slide 1, width=792, height=500, loading=lazy]
+image::doris_slide1.jpg[DORIS Slide 1, width=792, height=500, loading=lazy]
 
-image::doris_slide2.jpeg[DORIS Slide 2, width=792, height=500, loading=lazy]
+image::doris_slide2.jpg[DORIS Slide 2, width=792, height=500, loading=lazy]
 
-image::doris_slide3.jpeg[DORIS Slide 3, width=792, height=500, loading=lazy]
+image::doris_slide3.jpg[DORIS Slide 3, width=792, height=500, loading=lazy]
