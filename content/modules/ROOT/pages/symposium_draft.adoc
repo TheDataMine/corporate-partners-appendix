@@ -18,39 +18,42 @@ The posters and videos will be available starting at 8:00 AM ET on Wednesday, Ap
 From 3:00 - 5:00 PM Eastern time on Wednesday, April 20, 2022, each poster group will have a 
 Zoom link so that other students and corporate partner guests can join and ask questions/discuss. For example, there will be a Ford Zoom link, a Viasat Zoom link, etc. 
 
-== Expectations 
-* Each team will make *one* poster. Subteams should work together to make one poster. 
-* Every student must be contributing to the poster and video content in some way.  
-* We are not requiring all students to talk in the video. It is OK if only a few people do all of the talking in 
-the video. However, all students should be contributing to the poster and video in different roles.  
+=== Dress Code
+Students should dress in business casual attire and have a professional background (or virtual filter) for the online Q&A/discussion portion. Review the xref:student_code_of_conduct.adoc[student code of conduct for online meeting "net-etiquette" and dress code information.] 
+
+
+== Deliverables 
+
+* _[Per Team]_ One 3 x 4 feet *poster* submitted as a PDF. 
+** Subteams should work together to make one poster. 
+** _Work closely with your Corporate Partner Mentor to identify what parts of the project can be publicly shared._
+* _[Per Team]_ One 5-8 minute long *video*   
+** The video doesn’t have to include everything you did all year long, but it should discuss the motivation for the project, any necessary background (keep it brief), and your results. _Think of this as a “movie trailer” or “elevator pitch” for you Q&A and discussion._
+** If you developed something interactive (Shiny app), you should either demonstrate it to the end of your PowerPoint video or create a separate (short) demo video for the app.  
+* _[Individual - all students]_ *Participation* for at least 1 hour (of the 2 hours) at the live discussion and Q&A via Zoom on Wednesday, April 20, 2022 from 3:00 – 5:00 PM ET. The virtual room has to be staffed with team members the whole 2 hours, but you can split up if you would like. Attending both hours if you are available is encouraged. The Symposium was many student’s favorite part of last year.  
+
+=== Expectations
+
+* *All students must contribute to the poster and video, but likely in different roles.*
 * For example, here are some suggested roles students can fill: 
 
 ** One student can take the poster content and translate it to PowerPoint slides. It is recommended that you add more visuals to your slides and please do not make them text heavy.  
 ** One student can write the script for the video. Make sure to practice reading it to ensure it fits within the required time. 
 ** One student can create the recording and voice over 
 ** One student can do any necessary editing and add the closed captions.  
-
-* *TLDR:* You need to make a 5-8 minute video of your research. It’s up to you how you go about this (screen capture, PowerPoint voiceover, your choice!). It doesn’t have to include everything you did all year long, but it should discuss the motivation for the project, any necessary background (keep it brief), and your results. *Think of this as a “movie trailer” or “elevator pitch” for you Q&A and discussion.*
-
-== Deliverables 
-* One 3 x 4 feet *poster* submitted as a PDF per team. Subteams should work together to make one poster. 
-* One 5-8 minute long *video* (per project which means groups that have multiple posters but only one project will have one video. For example, one CRP team might have three subteams working on the same project so they will have one video. Please email Maggie if you need to clarify for your group).  
-** If you developed something interactive (Shiny app), you should either demonstrate it to the end of your PowerPoint video or create a separate (short) demo video for the app.  
-* [All students] *Participation* for at least 1 hour (of the 2 hours) at the live discussion and Q&A via Zoom on Wednesday, April 20, 2022 from 3:00 – 5:00 PM ET. The virtual room has to be staffed with team members the whole 2 hours, but you can split up if you would like. Attending both hours if you are available is encouraged. The Symposium was many student’s favorite part of last year.  
+* *Work closely with your Corporate Partner Mentor to identify what parts of the project can be publicly shared*. The Data Mine will send all posters to review the company's legal team before posting for the Symposium. 
 
 === Due Dates
 
 [IMPORTANT]
 ====
-*DUE DATES*
-
-Poster and video *draft* due *Sunday, March 13, 2022*. 
+*Drafts* of the poster and video due *Sunday, March 13, 2022*. 
 
 *Final versions* of the poster and video due *Sunday, April 3, 2022*.
 
 ====
 
-Draft of your poster means more than 75% complete. Draft of your video means slides, script, and initial recording complete. You do not have to add captioning for the draft.
+A draft of your poster means it should be 75% complete. Any sections without content/visuals should at least contain a note of what will be added. A draft of your video means slides, script, and initial recording complete. You do not have to add captioning for the draft.
 
 === Examples
 The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer Corporate Partner teams in 2020 & 2021. You are encouraged to watch some of the videos and review the posters from link:https://datamine.purdue.edu/symposium/welcome2020.html[2019-2020] and link:https://datamine.purdue.edu/symposium/welcome.html[2020-2021].  
@@ -72,8 +75,6 @@ The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer
 
 
 |===
-
-
 
 
 === Step 1: Create your poster
@@ -151,7 +152,6 @@ demo) or stitch them together in an editor.
 
 === Step 6: Upload your video 
 
-*missing* is this for draft or final version only???????????
 
 1.  Go to youtube.com and click on the *Camera > Upload Video*. You have to be signed into your account.
 +
