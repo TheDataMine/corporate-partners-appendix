@@ -47,3 +47,11 @@ image::wabash_slide1.jpeg[Wabash Slide 1, width=792, height=500, loading=lazy]
 image::wabash_slide2.jpeg[Wabash Slide 2, width=792, height=500, loading=lazy]
 
 image::wabash_slide3.jpeg[Wabash Slide 3, width=792, height=500, loading=lazy]
+
+=== DORIS
+
+image::doris_slide1.jpeg[DORIS Slide 1, width=792, height=500, loading=lazy]
+
+image::doris_slide2.jpeg[DORIS Slide 2, width=792, height=500, loading=lazy]
+
+image::doris_slide3.jpeg[DORIS Slide 3, width=792, height=500, loading=lazy]
