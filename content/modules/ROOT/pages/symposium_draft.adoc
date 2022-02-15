@@ -55,10 +55,12 @@ Wednesday April 20, 2022 from 3:00-5:00PM (EST) there is a zoom link for each of
 
 ====
 
-A draft of your poster means it should be 75% complete. Any sections without content/visuals should at least contain a note of what will be added. A draft of your video means slides, script, and initial recording complete. You do not have to add captioning for the draft.
+A submitted poster draft should be at least 75% complete. Any sections without content/visuals should contain notes of what will be added. 
+
+A submitted video draft includes slides, script, and a completed initial recording. Captioning is not required for the draft.
 
 === Examples
-The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer Corporate Partner teams in 2020 & 2021. You are encouraged to watch some of the videos and review the posters from link:https://datamine.purdue.edu/symposium/welcome2020.html[2019-2020] and link:https://datamine.purdue.edu/symposium/welcome.html[2020-2021].  
+The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer Corporate Partner teams in 2020 & 2021.  It would be helpful to watch some of the videos and review the posters from link:https://datamine.purdue.edu/symposium/welcome2020.html[2019-2020] and link:https://datamine.purdue.edu/symposium/welcome.html[2020-2021].  
 
 
 [cols="^.^1,^.^1]
@@ -81,7 +83,7 @@ The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer
 
 === Step 1: Create your poster
 
-* A SharePoint link will be sent to your team with a Purdue template. Please use this link to create your poster so we can easily access it. Your team is welcome to update the template to match a template from your company. In fact, we encourage you to use the poster theme from your Corporate Partner. 
+* A SharePoint link will be sent to your team with a Purdue template. Use this link to create your poster so we can easily access it. Your team is welcome to update the template to match a template from your company. In fact, we encourage you to use the poster theme from your Corporate Partner. 
 * *Your poster should not be text heavy* -- it is not a paper, so complete sentences should be limited. Make sure to include multiple visuals and keep sentences to a minimum. Bullet points are encouraged.  
 * Note: you will not need to print your poster. The Data Mine will handle the printing of your poster.  
 * Make sure to include all of these categories:
@@ -100,7 +102,7 @@ The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer
 |*Figures* | • Make sure to include relevant visuals
 |*Layout & Design* | • Keep font and colors consistent.
 
-• Make sure it is visually appealing. Zoom out and make the entire poster show on your screen. What do you notice about it? Is it full of text? Too much white space? Not enough images? Flow is confusing?
+• Make sure it is visually appealing. Zoom out and make the entire poster shows on your screen. What do you notice about it? Is it full of text? Too much white space? Not enough images? Flow is confusing?
  
 |===
 
@@ -175,8 +177,8 @@ image::symposium_YT_unlisted.jpg[Our image, width=792, height=500, loading=lazy,
 * You are required to add closed captioning to your video on YouTube. 
 * CC’s should be added to the draft and final video
 * YouTube will automatically generate Closed Captions which makes this step easy. However, you MUST edit them for punctuation, capitalization, and any spelling or interpretation errors. 
-* This link is a great resource with tutorials on how to add and edit automatic captions on YouTube. 
-* Below is an example of the auto captions that were generated for my test video. Click _Edit_ to add punctuation and make changes.  
+* This link:https://www.washington.edu/accessibility/videos/youtube/[link] is a great resource with tutorials on how to add and edit automatic captions on YouTube. 
+* Below is an example of the auto captions that were generated for a test video. Click _Edit_ to add punctuation and make changes.  
 
 image::symposium_CC.jpg[Our image, width=792, height=500, loading=lazy, title="Screenshot of editing auto captions in YouTube."]
 
