@@ -9,8 +9,8 @@ During the academic year, from late August until the end of April, mentors meet 
 
 The best Data Mine projects have these two elements:
 
-1. *Data intensive project*: We seek projects with large data sets (an Excel spreadsheets doesn't count).
-2. *Committed mentoring*: It is important to have a corporate employee who can meet and mentor the 
+1. *Data intensive project*: We seek projects with large data sets (an Excel spreadsheet doesn't count).
+2. *Committed mentoring*: It is important to have a corporate employee who can meet and mentor the students.
 
 *What resources do we get for partnering with The Data Mine?*
 

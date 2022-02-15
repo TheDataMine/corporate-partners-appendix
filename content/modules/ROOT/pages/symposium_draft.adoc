@@ -1,6 +1,6 @@
 = The Data Mine Corporate Partners Symposium 
 
-The Data Mine Corporate Partners Symposium is held annually in April to showcase the hard work of our students working on research projects in industry. Student teams create a poster and video to be shared at the symposium. 
+The Data Mine Corporate Partners Symposium is held annually in April. Our student teams work hard through the year on research projects in industry.  The symposium is an opportunity to have the student teams to showcase their work by creating a poster, and video on their respective projects.
 
 Posters and videos from academic year 2020 - 2021 are available link:https://datamine.purdue.edu/symposium/welcome.html[here]. 
 
@@ -11,7 +11,8 @@ Posters and videos from academic year 2019 - 2020 are available link:https://dat
 == Symposium: Wednesday, April 20, 2022
 
 === Poster and Video Viewing
-The posters and videos will be available starting at 8:00 AM ET on Wednesday, April 20, 2022 for you and guests to view. The 2022 website is not posted yet. You are welcome to invite your friends and family. This event is open to the public.  
+The posters and videos will be available starting at 8:00 AM (EST) on Wednesday April 20th, 2022 (the 2022 website link has not yet been posted).  The event is open to the public, all of The Data Mine’s Corporate Partners, students and their family and friends are welcome to attend.  
+
  
 === Q&A and Discussion
 
@@ -26,16 +27,17 @@ Students should dress in business casual attire and have a professional backgrou
 
 * _[Per Team]_ One 3 x 4 feet *poster* submitted as a PDF. 
 ** Subteams should work together to make one poster. 
-** _Work closely with your Corporate Partner Mentor to identify what parts of the project can be publicly shared._
+** _It is imperative that you work closely with your Corporate Partner Mentor to identify what parts of the project can be publicly shared._
 * _[Per Team]_ One 5-8 minute long *video*   
-** The video doesn’t have to include everything you did all year long, but it should discuss the motivation for the project, any necessary background (keep it brief), and your results. _Think of this as a “movie trailer” or “elevator pitch” for you Q&A and discussion._
+** The video doesn’t have to include everything you did all year long, but it should discuss the motivation for the project, any necessary background (keep it brief), and your results. _Think of this as a “movie trailer” or “elevator pitch” for your Q&A and discussion._
 ** If you developed something interactive (Shiny app), you should either demonstrate it to the end of your PowerPoint video or create a separate (short) demo video for the app.  
-* _[Individual - all students]_ *Participation* for at least 1 hour (of the 2 hours) at the live discussion and Q&A via Zoom on Wednesday, April 20, 2022 from 3:00 – 5:00 PM ET. The virtual room has to be staffed with team members the whole 2 hours, but you can split up if you would like. Attending both hours if you are available is encouraged. The Symposium was many student’s favorite part of last year.  
+* _[Individual - all students]_ *Participation* 
+Wednesday April 20, 2022 from 3:00-5:00PM (EST) there is a zoom link for each of the projects for a live discussion/Q&A session. Each student is required to be present for at least 1 hour (out of the 2 hour period). The virtual room must be staffed with team members for the entirety of the 2 hours. How your team divides that time is up to you. The Data Mine encourages attending both hours if possible. The Symposium was many student’s favorite part of last year.  
 
 === Expectations
 
 * *All students must contribute to the poster and video, but likely in different roles.*
-* For example, here are some suggested roles students can fill: 
+* Here are some examples of different roles the students can fill(as well as added suggestions): 
 
 ** One student can take the poster content and translate it to PowerPoint slides. It is recommended that you add more visuals to your slides and please do not make them text heavy.  
 ** One student can write the script for the video. Make sure to practice reading it to ensure it fits within the required time. 
