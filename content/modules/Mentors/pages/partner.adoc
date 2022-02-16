@@ -2,27 +2,29 @@
 
 == 1. Let's discuss - schedule a call
 
-Whether this is your first introduction to The Data Mine or you've partnered with us for multiple years, we look forward to discussing with you during a 25-minute call. You can easily schedule on link:https://calendly.com/datamine[our Calendly page] or email us at datamine@purdue.edu
+Whether this is your first introduction to The Data Mine or you are a dear friend. We look forward to talking in more detail with you during a 25-minute call. 
+
+You are welcome to schedule a call with us on link:https://calendly.com/datamine[our Calendly page] or email us at datamine@purdue.edu
 
 
 == 2. Project Description 
 
-Define your project and follow our xref:project_descriptions.adoc[project description guidelines].
+You can find the  xref:project_descriptions.adoc[project description guidelines], to help you define your customized project. 
 
 == 3. Legal & Funding
 
-Our industry partners sign this Sponsor Acknowledgment link:https://datamine.purdue.edu/corporate/docs/sponsoracknowledgment.docx[(click here to download)]. Most partners require students and staff to sign a NDA. Students can also sign an IP agreement. Funding levels are listed in the  Sponsor Acknowledgment. 
+Our industry partners sign this Sponsor Acknowledgment link:https://datamine.purdue.edu/corporate/docs/sponsoracknowledgment.docx[(click here to download)]. Most of our partners require students and staff to sign a NDA. As an additional option students can be requred to sign an IP agreement. Funding levels are listed in the  Sponsor Acknowledgment. 
 
 xref:legal.adoc[Click here] to view more details regarding legal and funding. 
 
 
 == 4. Planning & Project Charter
 
-We look forward to meeting with you every other week for 25 minutes during the summer to plan the specifics of your project(s). 
+We are excited to meet with you every other week for 25 minutes during the summer to plan the specifics of your project(s). 
 
 == 5. Student Alignment 
 
-Once we have your project description from step #2, students will start selecting projects in late March through August. 
+The project selection process for the students begins late March and goes until August. Once we have your project description(from step#2) we will be able to share it with the students. 
 
 == 6. Academic Year 
 
@@ -38,7 +40,9 @@ Projects continue through the spring semester and culminate at our Corporate Par
 
 == 7. Renewal
 
-We look forward to building a lasting relationship with your company and hope to partner for many years! The renewal process for the next academic year (August - May) starts in January, but we are happy to discuss additional projects any time of the year. 
+The renewal process for the next academic year (August - May) starts in January, but please note that we are delighted to discuss additional projects at any time. 
+
+We look forward to building a lasting relationship with your company, developing a deep connection over the many years of partnering together. 
 
 == Questions? 
 
