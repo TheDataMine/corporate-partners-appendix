@@ -7,7 +7,7 @@ Whether this is your first introduction to The Data Mine or you've partnered wit
 
 == 2. Project Description 
 
-Define your project and follow our xref:project_descriptions.adoc[project description guidelines].
+Define your project and follow our xref:project_descriptions.adoc[project description guidelines]
 
 == 3. Legal & Funding
 
