@@ -116,7 +116,7 @@ Sunday, 1/23: End of Sprint #1
 
 |15
 |4/18 – 4/24
-<.^|[.underline]**Wednesday, 4/20: The Data Mine Corporate Partners Symposium** fully virtual; attendance required; more details TBA
+<.^|[.underline]**Wednesday, 4/20: The Data Mine Corporate Partners Symposium** fully virtual; attendance required; xref:symposium.adoc[Details here.]
 
 Sunday, 4/24: End of Sprint #7
 
