@@ -232,14 +232,14 @@ It is very important to check this page frequently! *Due dates are listed in the
 |
 
 
-2+|*Symposium*
+2+|xref:symposium.adoc[*Symposium*]
 >|17%
 
 |Drafts (poster, video script)
 ^| 5%
 |
 
-|Final Poster, Final Video & Presentation at Symposium on April 12, 2022
+|Final Poster, Final Video & Presentation at Symposium on April 20, 2022
 ^| 12%
 |
 
