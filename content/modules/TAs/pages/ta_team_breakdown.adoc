@@ -23,3 +23,4 @@ Each sub-team will ultimately be dependent on team size and makeup so creating t
 [TIP]
 ====
 Do regular check-ins with your team to be confident that everyone on the team enjoys the work they are doing on their sub-team, and it is okay for team-members to move around between sub-teams if preferences do change.
+====
