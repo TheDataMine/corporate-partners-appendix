@@ -91,7 +91,7 @@
 === How Diversity Makes Us Smarter
 
 - Decades of research by organizational scientists, psychologists, sociologists, economists and demographers show that socially diverse groups (that is, those with a diversity of race, ethnicity, gender and sexual orientation) are more innovative than homogeneous groups.
-- It seems obvious that a group of people with diverse individual expertise would be better than a homogeneous group at solving complex, nonroutine problems. It is less obvious that social diversity should work in the same way—yet the science shows that it does.
+- It seems obvious that a group of people with diverse individual expertise would be better than a homogeneous group at solving complex, non-routine problems. It is less obvious that social diversity should work in the same way—yet the science shows that it does.
 - This is not only because people with different backgrounds bring new information. Simply interacting with individuals who are different forces group members to prepare better, to anticipate alternative viewpoints and to expect that reaching consensus will take effort.
 - Phillips, K.W. (2014, October 1). How Diversity Makes Us Smarter: Being around people who are different from us makes us more creative, more diligent and harder-working. https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/ 
 
@@ -197,9 +197,9 @@ Let’s be thoughtful!
 
 === The Data Mine is a home for everyone 
 - People of all genders and sexualities.
-- People of all races and ethnicities.
+- People of all races and ethnicity.
 - People from throughout the country and around the world.
-- People who might have accommodations for accessbility.
+- People who might have accommodations for accessibility.
 - People from all colleges and major programs.
 - People of all ages and student classifications. 
 - People with different academic and professional goals.
