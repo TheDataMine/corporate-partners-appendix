@@ -1,6 +1,6 @@
 = Mentor & TA Feedback 
 
-Mentor and TA feedback is provided twice a semester: after 8 weeks and at the end of the semester. 
+Mentor and TA feedback is provided twice a semester: after 8 weeks and at the end of the semester. TAs and Mentors should collaborate on the feedback for each student on the team. We recommend the TA and Mentor schedule a meeting to discuss and put the feedback into Gradescope. Only the TA has access to Gradescope, but they should share their screen on the call with the Mentor.
 
 *Spring 2022 Dates*
 
@@ -12,29 +12,32 @@ Mentor and TA feedback is provided twice a semester: after 8 weeks and at the en
 == Rubric 
 
 
-[cols="^.^1,^.^2,^.^2,^.^2"]
+[cols="^.^1,^.^2,^.^2,^.^2,^.^2"]
 |===
 
-|*Category* |*Needs Improvement* |*Acceptable* |*Exceeds Expectations*
+|*Category* |*Far Below Expectations* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
 
 |*Attendance* 
-|The student missed a few meetings without communicating with the TA or mentor.
-|The student missed couple of meetings with delayed notification to the TA or mentor.
-|The student attended all meetings. A timely notification was provided when unable to attend scheduled meetings.
+|The student missed missed 1/2 or more of meetings (missed ~2 meetings per 2-week sprint) with or without communicating with the TA or mentor. 
+|The student missed missed 1/4 or more of meetings (missed ~1 meeting per 2-week sprint) with or without communicating with the TA or mentor. 
+|The student missed 1-2 meetings, but communicated to the TA or mentor.
+|The student attended all meetings or only had excused absences. A timely notification was provided when unable to attend scheduled meetings.
 
-|*Participation & Engagement* 
+|*Participation & Engagement*
 |The student did not engage with team members, the TA, or the mentor.
-|The student contributed the required tasks for each sprint.
-|The student was insightful and consistent in their contribution to the team.
+|The student only engaged when called on during meetings. Communication was limited unless staff/TA/mentor reached out. 
+|The student actively participated during meetings and labs. Their camera was on during online meetings and they contributed to each meeting. 
+|The student was insightful and consistent in their contribution to the team. The student always came prepared and made an effort to collaborate with others. 
 
 
 |*Deliverables* 
-|The student did not communicate with team members about delays in completing tasks.
-|The student completed assigned tasks.
-|The student completed assigned tasks. In addition, the student worked on other tasks in the backlog and assisted other team members.
+|The student did not take on any tasks and/or did not complete tasks. 
+|The student had delays in completing tasks or did not complete some tasks. They often did not communicate with team members about delays.
+|The student completed assigned tasks on time as expected.
+|The student completed assigned tasks on time and exceed expectation on quality of work. The student worked on other tasks in the backlog and/or assisted other team members.
 
 |*Overall Feedback & Comments* 
-3+| Please provide feedback and comments specific to this student. While the rubric above helps guide the grading, students value the opportunity to receive constructive feedback. *Do not skip this section.* See the section below for advice on how to write constructive feedback.
+4+| _**Do not skip this section.**_ Please provide feedback and comments *specific* to this student. While the rubric above helps guide the grading, students value the opportunity to receive constructive feedback.  See the section below for advice on how to write constructive feedback.
 
 
 |===
@@ -45,8 +48,9 @@ Mentor and TA feedback is provided twice a semester: after 8 weeks and at the en
 === Tips 
 
 * Use examples and observations in your feedback. Do not make assumptions. 
-* Focus your feedback on areas the student can control and improve on (as opposed to identifying problems out of the student's control)
-* Share recommendations and solutions for the problem you identify
+* Focus your feedback on areas the student can control and improve on (as opposed to identifying problems out of the student's control).
+* Share recommendations and solutions for the problem you identify.
+* Watch this 5-minute TED talk titled link:https://www.ted.com/talks/leeann_renninger_the_secret_to_giving_great_feedback?language=en["The secret to giving great feedback"]
 
 === Examples of Bad Constructive Feedback
 
