@@ -34,7 +34,7 @@ Mentor and TA feedback is provided twice a semester: after 8 weeks and at the en
 |The student completed assigned tasks. In addition, the student worked on other tasks in the backlog and assisted other team members.
 
 |*Overall Feedback & Comments* 
-3+| Please provide feedback and comments specific to this student. While the rubric above helps guide the grading, students value the opportunity to receive constructive feedback. Do not skip this section. See the section below for advice on how to write constructive feedback.
+3+| Please provide feedback and comments specific to this student. While the rubric above helps guide the grading, students value the opportunity to receive constructive feedback. *Do not skip this section.* See the section below for advice on how to write constructive feedback.
 
 
 |===
