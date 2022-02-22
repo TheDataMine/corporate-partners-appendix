@@ -18,20 +18,20 @@ Mentor and TA feedback is provided twice a semester: after 8 weeks and at the en
 |*Category* |*Needs Improvement* |*Acceptable* |*Exceeds Expectations*
 
 |*Attendance* 
-|The student missed few meetings without communicating to the TA or mentor.
-|The student missed couple meetings with delayed notification to the TA or mentor.
-|The student attended all meetings. Timely notification was provided when unable to attend scheduled meetings.
+|The student missed a few meetings without communicating with the TA or mentor.
+|The student missed couple of meetings with delayed notification to the TA or mentor.
+|The student attended all meetings. A timely notification was provided when unable to attend scheduled meetings.
 
 |*Participation & Engagement* 
 |The student did not engage with team members, the TA, or the mentor.
 |The student contributed the required tasks for each sprint.
-|The student was insightful and consistent in contribution to the team.
+|The student was insightful and consistent in their contribution to the team.
 
 
 |*Deliverables* 
-|The student did not communicate with team members about delays on completion of tasks.
+|The student did not communicate with team members about delays in completing tasks.
 |The student completed what was assigned.
-|The student completed what was assigned. In addition, the student also worked ahead to other tasks in backlog.
+|The student completed what was assigned. In addition, the student also worked ahead to other tasks in backlog and assisted other team members.
 
 |*Overall Feedback & Comments* 
 3+| Please provide feedback and comments specific to this student. While the rubric above helps guide the grading, students value the opportunity to receive constructive feedback. Do not skip this section. See the section below for advice on how to write constructive feedback.
