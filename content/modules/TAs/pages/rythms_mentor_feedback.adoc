@@ -1,6 +1,6 @@
 = Mentor & TA Feedback 
 
-Mentor and TA feedback is provided twice a semester: after 8 weeks and at the end of the semester. 
+Mentor and TA feedback is provided twice a semester: after 8 weeks and at the end of the semester. TAs and Mentors should collaborate on the feedback for each student on the team. We recommend the TA and Mentor schedule a meeting to discuss and put the feedback into Gradescope. Only the TA has access to Gradescope, but they should share their screen on the call with the Mentor.
 
 *Spring 2022 Dates*
 
