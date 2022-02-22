@@ -1,6 +1,8 @@
 == Mentor Responsibility Overview
 Each corporate partner provides at least one mentor on their corporate partner team. The mentor is responsible for guiding the students through the project by providing the data, assigning deliverables and providing feedback. Mentors also help students to develop communication and presentation skills that they will use in their future careers. 
 
+Although a corporate partner can have more than one mentor, we suggest there be a primary mentor for consistency.
+
 == Bringing Industry Culture to The Data Mine
 Corporate partner mentors get to engage with the students on their team on a weekly basis. Mentors demonstrate appropriate business culture behaviors while working on the project, and get to observe the students as they develop and refine their business skills along with their technical skills. Students become aware that their engagement with their mentor should be intentional and will help them develop their networking skills. 
 
@@ -11,6 +13,16 @@ Mentors meet with their teams each week for 50 minutes during an online meeting.
 
 
 == Agile
+* Two week sprints.
+* Example Two Week Sprint
+** Week 1 
+*** Lec: Sprint Planning with corporate 
+*** Lab: Standup and working meeting
+partner mentor(s)
+** Week 2 
+*** Lec: Sprint Review with corporate partner mentor
+*** Lab: Standup, sprint retrospective, and working meeting
+
 
 
 == Collaboration with TAs
