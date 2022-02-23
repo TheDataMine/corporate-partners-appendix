@@ -15,7 +15,7 @@ Mentor and TA feedback is provided twice a semester: after 8 weeks and at the en
 [cols="^.^1,^.^2,^.^2,^.^2,^.^2"]
 |===
 
-|*Category* |*Far Below Expectations* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
+|*Category* |*Needs Significant Improvement* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
 
 |*Attendance* 
 |The student missed missed 1/2 or more of meetings (missed ~2 meetings per 2-week sprint) with or without communicating with the TA or mentor. 
