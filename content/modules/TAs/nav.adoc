@@ -3,6 +3,7 @@
 ** xref:apply.adoc[Apply to be a TA]
 
 ** xref:introduction_rhythms.adoc[Weekly Rhythms]
+<<<<<<< HEAD
 *** xref:rythms_team_meetings.adoc[Team Meetings]
 *** xref:rythms_team_labs.adoc[Team Labs]
 *** xref:rythms_meeting_notes.adoc[Meeting Notes]
@@ -11,6 +12,15 @@
 *** xref:rythms_timesheet.adoc[Time Sheets]
 *** xref:rythms_grading.adoc[Grading]
 **** xref:rythms_mentor_feedback.adoc[Mentor Feedback]
+=======
+*** xref:rhythms_team_meetings.adoc[Team Meetings]
+*** xref:rhythms_team_labs.adoc[Team Labs]
+*** xref:rhythms_meeting_notes.adoc[Meeting Notes]
+*** xref:rhythms_attendance.adoc[Attendance]
+*** xref:rhythms_team_report.adoc[Team Reports]
+*** xref:rhythms_timesheet.adoc[Time Sheets]
+*** xref:rhythms_grading.adoc[Grading]
+>>>>>>> 17ed8abcea467a8d73b784096ab46cfddc047d1a
 
 ** xref:introduction_trainings.adoc[Trainings]
 *** xref:ta_training_module1.adoc[Module 1: Exploring The Data Mine]
@@ -19,6 +29,8 @@
 *** xref:ta_training_module4.adoc[Module 4: Diversity In Data Science]
 *** xref:ta_training_module5.adoc[Module 5: Agile Training]
 *** xref:ta_training_module6.adoc[Module 6: Logistics]
+
+** Symposium
 
 ** The Data Mine Environment
 *** xref:ta_welcoming_env.adoc[Creating a Welcoming Environment]
@@ -32,6 +44,3 @@
 **** xref:warm-up-pasta-tower.adoc[Pasta Tower]
 **** xref:warm-up-more-games.adoc[More Games]
 **** xref:warm-up-feeling-today.adoc[How are you today?]
-
-** xref:ta_team_breakdown.adoc[Team Breakdown]
-** xref:ta_technical_resources.adoc[Technical Resources]
