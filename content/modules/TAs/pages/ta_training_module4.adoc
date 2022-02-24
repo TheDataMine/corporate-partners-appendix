@@ -2,7 +2,7 @@
 
 == What is the current status of diversity in data science?
 
-*Purdue Ungraduate Demographics (Fall 2019)*
+*Purdue Undergraduate Demographics (Fall 2019)*
 
 - *Gender*:  Male 57%, Female 43%
 
