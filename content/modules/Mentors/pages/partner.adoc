@@ -13,7 +13,7 @@ You can find the  xref:project_descriptions.adoc[project description guidelines]
 
 == 3. Legal & Funding
 
-Our industry partners sign this Sponsor Acknowledgment link:https://datamine.purdue.edu/corporate/sponsoracknowledgment.docx[(click here to download)]. Most of our partners require students and staff to sign a NDA. As an additional option students can be requred to sign an IP agreement. Funding levels are listed in the Sponsor Acknowledgment.  Partners who already signed a Sponsor Acknowledgment within the last 5 years can simplify things by just signing a new Addendum link:https://datamine.purdue.edu/corporate/addendum.docx[(click here to download)]
+Our industry partners sign this Sponsor Acknowledgment link:https://datamine.purdue.edu/corporate/sponsoracknowledgment.docx[(click here to download)]. Most of our partners require students and staff to sign a NDA. As an additional option students can be required to sign an IP agreement. Funding levels are listed in the Sponsor Acknowledgment.  Partners who already signed a Sponsor Acknowledgment within the last 5 years can simplify things by just signing a new Addendum link:https://datamine.purdue.edu/corporate/addendum.docx[(click here to download)]
 
 xref:legal.adoc[Click here] to view more details regarding legal and funding. 
 
