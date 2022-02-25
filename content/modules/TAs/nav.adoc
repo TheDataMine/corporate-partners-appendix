@@ -12,6 +12,10 @@
 *** xref:rhythms_timesheet.adoc[Time Sheets]
 *** xref:rhythms_grading.adoc[Grading]
 
+** Semesterly Rhythms
+*** xref:sem_rhythms_check_in.adoc[Semester Check Ins] 
+*** xref:sem_rhythms_eval.adoc[Mid Semester Evaluations] 
+
 ** xref:introduction_trainings.adoc[Trainings]
 *** xref:ta_training_module1.adoc[Module 1: Exploring The Data Mine]
 *** xref:ta_training_module2.adoc[Module 2: University Policies]
