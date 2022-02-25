@@ -27,7 +27,7 @@
 *** xref:spring2022_sprint5.adoc[Sprint #5: March 7 - March 27, 2022]
 *** xref:spring2022_sprint6.adoc[Sprint #6: March 28 - April 10, 2022]
 *** xref:spring2022_sprint7.adoc[Sprint #7: April 11 - April 24, 2022]
-*** xref:symposium.adoc[Symposium: April 12, 2022]
+*** xref:symposium.adoc[Symposium: April 20, 2022]
 *** xref:spring2022_finalreport.adoc[Final Report: Due May 1, 2022]
 
 

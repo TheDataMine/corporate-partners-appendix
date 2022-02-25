@@ -3,6 +3,7 @@
 ** xref:apply.adoc[Apply to be a TA]
 
 ** xref:introduction_rhythms.adoc[Weekly Rhythms]
+*** xref:rhythms_mentor_feedback.adoc[Mentor Feedback]
 *** xref:rhythms_team_meetings.adoc[Team Meetings]
 *** xref:rhythms_team_labs.adoc[Team Labs]
 *** xref:rhythms_meeting_notes.adoc[Meeting Notes]

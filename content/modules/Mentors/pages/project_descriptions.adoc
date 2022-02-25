@@ -12,7 +12,9 @@ Slide about your company
 
 * Include company name, location, and brief description of company. Pictures are encouraged.
 
-=== Slide 2
+=== Slides 2 & 3
+_You may have up to 2 slides per project._
+
 Project #1: [Title]
 
 __One sentence__ high level project overview
@@ -24,7 +26,32 @@ __One sentence__ high level project overview
 * *Citizenship status:* Examples: Open to all students, including international students; US Citizens and Permanent residents preferred; US Citizens required
 * Consider including relevant images or website links
 
-=== Slide 3
-Project #1 [Title] cont.
+=== Slides 4 & 5
 
-* Continuation of project 1. You may have up to 2 slides per project. 
+Same format as slides 2 & 3 if you have additional projects. 
+
+== Example Slides
+
+=== Sandia National Laboratories
+
+image::sandia_flight_slide1.jpg[Sandia Flight Slide 1, width=792, height=500, loading=lazy]
+
+image::sandia_flight_slide2.jpg[Sandia Flight Slide 2, width=792, height=500, loading=lazy]
+
+image::sandia_flight_slide3.jpg[Sandia Flight Slide 3, width=792, height=500, loading=lazy]
+
+=== Wabash
+
+image::wabash_slide1.jpeg[Wabash Slide 1, width=792, height=500, loading=lazy]
+
+image::wabash_slide2.jpeg[Wabash Slide 2, width=792, height=500, loading=lazy]
+
+image::wabash_slide3.jpeg[Wabash Slide 3, width=792, height=500, loading=lazy]
+
+=== DORIS
+
+image::doris_slide1.jpg[DORIS Slide 1, width=792, height=500, loading=lazy]
+
+image::doris_slide2.jpg[DORIS Slide 2, width=792, height=500, loading=lazy]
+
+image::doris_slide3.jpg[DORIS Slide 3, width=792, height=500, loading=lazy]

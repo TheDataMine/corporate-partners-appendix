@@ -31,7 +31,7 @@ CDC Over-the-counter (OTC),Lab,Monday,11:30 AM,1:20 PM,MRGN 129
 CDC Over-the-counter (OTC),Lec,Friday,11:30 AM,12:20 PM,SYNC ONLINE
 CLA 1,Lec,Tuesday,1:30 PM,2:20 PM,SYNC ONLINE
 CLA 1,Lab,Thursday,1:30 PM,3:20 PM,MRGN 212
-CLA 2,Lab,Tuesday,1:30 PM,3:20 PM,MRGN 212
+CLA 2,Lab,Tuesday,1:30 PM,3:20 PM,HILL C102A
 CLA 2,Lec,Thursday,1:30 PM,2:20 PM,SYNC ONLINE
 Corteva,Lab,Tuesday,9:30 AM,11:20 AM,MRGN 212
 Corteva,Lec,Thursday,9:30 AM,10:20 AM,SYNC ONLINE
