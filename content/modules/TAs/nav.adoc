@@ -21,6 +21,7 @@
 *** xref:ta_training_module6.adoc[Module 6: Logistics]
 
 ** Symposium
+*** xref:symposium_zoom_setup.adoc[Zoom Set Up]
 
 ** The Data Mine Environment
 *** xref:ta_welcoming_env.adoc[Creating a Welcoming Environment]
