@@ -1,0 +1,41 @@
+= Mentoring Best Practice Guidance
+[Add text blob here]
+
+== Commitment
+* One hour per week meeting
+* Responsive to questions
+* Consistent throughout the year
+
+== Preparation
+* Technical and subject matter detail support (or connections to resources within crp)
+* Project syllabus outlining fall and spring semester
+** Content overview
+*** Literature, video, examples
+** Mentor(s) role
+** Goals, milestones, brief timeline
+** Subgroups/sub-teams
+** Computing resources/environment
+** Guest from within corporate organization
+
+== Support
+* Colleagues within corporate partners
+* The Data Mine
+
+== Approachability
+* Office hours
+* Attend labs
+* Slack/other project communication platform 
+
+== Adaptability
+* Different skill levels
+* Challenge the students but understand that this is a learning environment for students
+
+== Engaging
+* Student focus
+** Student life
+*** Course schedule
+*** Exams, Breaks
+** Aware of student's development
+*** Technical/Non-technical
+**** Technical students can lead the more advance tasks
+**** Non-technical can tackle the low-hanging fruits
