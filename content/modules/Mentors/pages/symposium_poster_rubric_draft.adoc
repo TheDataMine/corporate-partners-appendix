@@ -1,1 +1,54 @@
 == Rubric
+[cols="^.^1,^.^2,^.^2,^.^2,^.^2"]
+|===
+
+|*Category* |*Needs Significant Improvement* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
+
+|*Introduction/background/motivation* 
+|No introduction.
+|Team provides very limited detail on their goals or vision for the project.
+|Team provides some detail about why they are doing the work, but the overall vision is unclear.
+|Team provides an easy to understand and thorough overview of their project goals and overall vision.
+
+|*Research Methodology*
+|
+|
+|
+| 
+
+
+|*Conclusions* 
+|
+|
+|
+|
+
+|*Future goals* 
+|
+|
+|
+|
+
+|*Reference and acknowledgments* 
+|No reference.
+|The team did not list any additional contributions or support for the project. (And it’s known that it was supported by other parties.)
+|The team listed contributors on a “Thank You” slide.
+|The team was sure to call out anyone who helped support the team or contribute to the project.
+
+|*Figures* 
+|No visualizations.
+|Lots of extra visualizations that don’t seem to be related to the subject at all. Doesn’t reference or tie the figures to the narrative of the presentation.
+|Visualizations are good but may not always be related directly to the topic. Some are a bit confusing to interpret.
+|Visualizations are effective and help to drive the story and user understanding clearly.
+
+|*Layout and design* 
+|The presentation does not have a format.
+|The presentation is poorly designed and confusing. Topics are hard to follow, and the work doesn’t appear professional.
+|The presentation is professionally done and easy to understand. Some slides may need improvement, but the majority are clean and concise.
+|Presentation is clean, concise, and effective. It’s easy to read and understand quickly and in a virtual environment.
+
+|*Overall Feedback & Comments* 
+4+|
+
+
+|===
