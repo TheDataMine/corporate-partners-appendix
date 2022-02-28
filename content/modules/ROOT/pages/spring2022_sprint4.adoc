@@ -2,7 +2,7 @@
 
 [TIP]
 ====
-Your team should start working on the Symposium Poster and Video drafts. The drafts are due Sunday, March 13, 2022. See the xref:symposium.adoc[Symposium page] for more information. 
+Your team should start working on the Symposium Poster and Video drafts. *The drafts are due Sunday, March 13, 2022*. See the xref:symposium.adoc[Symposium page] for more information. 
 ====
 
 == Sprint Report #4
