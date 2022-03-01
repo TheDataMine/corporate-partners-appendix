@@ -1,5 +1,5 @@
 == Rubric
-[cols="^.^1,^.^2,^.^2,^.^2,^.^2"]
+[cols="h,^.^2,^.^2,^.^2,^.^2"]
 |===
 
 |*Category* |*Needs Significant Improvement* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
