@@ -13,8 +13,7 @@
 
 |*Research Methodology*
 |The team did not provide details about the research process, tools used, or results.	
-|The methodology and results are unclear. 
-|The team didn’t explain how tools were used.	
+|The methodology and results are unclear. The team didn’t explain how tools were used.	
 |The team briefly mentions tools and resources used in the project. Details may be unclear.	
 |Team provides clear details on the methodology, tools and resources used in the project.
 
