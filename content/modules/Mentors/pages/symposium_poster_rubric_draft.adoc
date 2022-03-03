@@ -63,3 +63,4 @@
 |===
 
 === Video
+Video slides should be mostly bullet points and figures. Students should be speaking about the details of the project, not just read from the slides.
