@@ -1,6 +1,7 @@
-= Frequently Asked Questions about Partnership
+= Frequently Asked Questions About Partnership
+This section answers some frequently asked questions. Please email datamine@purdue.edu for any other questions.
 
-
+// == content
 == What is the time commitment?
 
 During the academic year, from late August until the end of April, mentors meet with their students for 50 minutes per week. This meeting is usually online unless the mentor is local or visiting West Lafayette. In the summer, we meet to check in every other week for 25 minutes to plan for the academic year. 
