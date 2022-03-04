@@ -6,54 +6,50 @@
 |*Category* |*Needs Significant Improvement* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
 
 |*Introduction/ background/ motivation* 
-|The team did not provide any details on the project, overall goal, and vision.
-|Team provides very limited detail on their goals or vision for the project.
-|Team provides some detail about why they are doing the work, but the overall vision is unclear.
-|Team provides an easy to understand and thorough overview of their project goals and overall vision.
+|The team did not provide details about the project, the overall goal, and the vision.	
+|The team provides minimal detail on their goals or visions for the project.	
+|The team provides details about why they are doing the work but lacks details about the overall vision.|The team provides an easy-to-understand and thorough overview of their project goals and overall vision. 
 
 |*Research Methodology*
 |The team did not provide details about the research process, tools used, or results.	
-|The methodology and results are unclear. The team didn’t explain how tools were used.	
-|The team briefly mentions tools and resources used in the project. Details may be unclear.	
-|Team provides clear details on the methodology, tools and resources used in the project.
+|The methodology and results are unclear. The team didn’t explain how the tools were used.	
+|The team briefly mentions the tools and resources used in the project. Details may be unclear.	
+|The team provides precise details on the methodology, tools, and resources used in the project.
 
 |*Conclusions* 
-|The team did not provide any details on overall outcome or findings of the project.	
-|The team provides unclear summary of the projects outcome.	
-|The team provides clear summary of the project outcome.	
-|The team provides detailed summary the project result and thoroughly explained the processes.
+|The team did not provide any details on the overall outcome or findings of the project.	
+|The team’s overview was difficult to understand and didn’t show a path forward for the coming semester. 	
+|The team provides an overview of the semester’s work and goals but may leave some details. Some of the reviews may be too technical for most audiences. 	
+|The team provides an easy-to-understand and concise overview of the semester’s work and the student’s learnings. Topics are easy to understand with any level of technical expertise.
 
 |*Future goals* 
-|The team did not provide any insight on potential advancement to the project.	
-|The team’s overview was difficult to understand and didn’t show a path forward. 	
-|Team provides an overview of the work and goals but may leave out a few details. Some of the review may be too technical for most audiences. 	
-|Team provides an easy to understand and concise overview of the work and the student’s learnings. Topics are easy to understand with any level of technical expertise.
+|The team did not provide any insight on potential advancements to the project.	
+|The team does not have a well-defined future vision or steps to complete the work. 	
+|The team provides an outline of future work but may not have as much detail as how they plan to accomplish the milestones. 	
+|The team provides a clear outline of future goals and how they relate to the overall vision and the current semester’s work. 
 
 |*Reference and acknowledgments* 
-|Acknowledgement section is missing.	
-|The team did not list any additional contributions or support for the project. (And it’s known that it was supported by other parties.)
-
-|The team listed contributors on an “Acknowledgement” section. 	
+|The acknowledgment section is missing.	
+|The team did not list any additional contributions or support for the project. (And it’s known that other parties supported them.)	
+|The team listed contributors in an “Acknowledgement” section. 	
 |The team was sure to call out anyone who helped support the team or contribute to the project. 
 
-
 |*Figures* 
-|No visualizations.
-|Lots of extra visualizations that don’t seem to be related to the subject at all. Doesn’t reference or tie the figures to the narrative of the presentation.
-|Visualizations are good but may not always be related directly to the topic. Some are a bit confusing to interpret.
-|Visualizations are effective and help to drive the story and user understanding clearly.
+|Little visualizations to convey content shared.	
+|Many visualizations don’t seem to be related to the subject at all. 	
+|Visualizations are good but may not always be related directly to the topic. Some are a bit confusing to interpret. 	
+|Visualizations are compelling and help to drive the story and user understanding. 
 
 |*Layout and design* 
-|The presentation does not have a format.
-|The presentation is poorly designed and confusing. Topics are hard to follow, and the work doesn’t appear professional.
-|The presentation is professionally done and easy to understand. Some slides may need improvement, but the majority are clean and concise.
-|Presentation is clean, concise, and effective. It’s easy to read and understand quickly and in a virtual environment.
+|The presentation lacks a layout and design that attracts the audience. 	
+|The presentation is poorly designed, confusing, and distracting. Topics are hard to follow, and the work doesn’t appear professional. 	
+|The presentation is professionally done and easy to understand. Flow and color selections need improvements. 	
+|The presentation is concise and compelling. It’s easy to read and understand quickly. 
 
 |*Speakers (For Video Grade)*
-|The information presented was hard to follow. 
-|The students didn’t provide concrete details. 	
-|The students provided brief details to presentation slides, but details were unclear.	
-|The students know their topics well and spoke clearly on the details. May be a little light on technical detail when applicable. 	
+|The information presented was hard to follow. The students didn’t provide concrete details. 	
+|The students provided brief details to the presentation slides, but the details were unclear.	
+|The students knew their topics well and spoke clearly on the details. It may be a little light on technical detail when applicable. 	
 |The students provided technical detail and background where appropriate. 
 
 |*Overall Feedback & Comments* 
