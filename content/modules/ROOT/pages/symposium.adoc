@@ -2,7 +2,7 @@
 
 The Data Mine Corporate Partners Symposium is held annually in April. Our student teams work hard through the year on research projects in industry.  The symposium is an opportunity to have the student teams to showcase their work by creating a poster, and video on their respective projects.
 
-Poster and videos for academic year 2021-22 will be available link:https://datamine.purdue.edu/symposium/welcome.html[here].
+Posters and videos from academic year 2021-22 will be available link:https://datamine.purdue.edu/symposium/welcome.html[here].
 
 Posters and videos from academic year 2020 - 2021 are available link:https://datamine.purdue.edu/symposium/welcome2021.html[here]. 
 
@@ -13,13 +13,12 @@ Posters and videos from academic year 2019 - 2020 are available link:https://dat
 == Symposium: Wednesday, April 20, 2022
 
 === Poster and Video Viewing
-The posters and videos will be available link:https://datamine.purdue.edu/symposium/welcome.html[on this website] starting at 8:00 AM (EST) on Wednesday April 20th, 2022 (the 2022 website link has not yet been posted).  The event is open to the public, all of The Data Mine’s Corporate Partners, students and their family and friends are welcome to attend.  
+The posters and videos will be available link:https://datamine.purdue.edu/symposium/welcome.html[on this website] starting at 8:00 AM (EST) on Wednesday April 20th, 2022.  The event is open to the public: all of The Data Mine’s Corporate Partners, students and their family and friends are welcome to attend.  
 
  
 === Q&A and Discussion
 
-From 2:30 - 4:30 PM Eastern time on Wednesday, April 20, 2022, each poster group will have a 
-Zoom link so that other students and corporate partner guests can join and ask questions/discuss. For example, there will be a Ford Zoom link, a Viasat Zoom link, etc. 
+From 2:30 - 4:30 PM Eastern time on Wednesday, April 20, 2022, each poster group will have a Zoom link so that other students and corporate partner guests can join and ask questions/discuss. For example, there will be a Ford Zoom link, a Viasat Zoom link, etc. 
 
 === Dress Code
 Students should dress in business casual attire and have a professional background (or virtual filter) for the online Q&A/discussion portion. Review the xref:student_code_of_conduct.adoc[student code of conduct for online meeting "net-etiquette" and dress code information.] 
@@ -33,8 +32,7 @@ Students should dress in business casual attire and have a professional backgrou
 * _[Per Team]_ One 5-8 minute long *video*   
 ** The video doesn’t have to include everything you did all year long, but it should discuss the motivation for the project, any necessary background (keep it brief), and your results. _Think of this as a “movie trailer” or “elevator pitch” for your Q&A and discussion._
 ** You are encouraged to include demonstrations of your developments (like an interactive app).   
-* _[Individual - all students]_ *Participation* 
-Wednesday April 20, 2022 from 2:30 - 4:30 PM (ET) there is a zoom link for each of the projects for a live discussion/Q&A session. Each student is required to be present for at least 1 hour (out of the 2 hour period). The virtual room must be staffed with team members for the entirety of the 2 hours. How your team divides that time is up to you. The Data Mine encourages attending both hours if possible. The Symposium was many student’s favorite part of last year.  
+* _[Individual - all students]_ *Participation* on Wednesday April 20, 2022 from 2:30 - 4:30 PM (ET). Each student is required to be present for at least 1 hour (out of the 2 hour period) in their team's zoom link for  live discussion/Q&A session. The virtual room must be staffed with team members for the entirety of the 2 hours. How your team divides that time is up to you. The Data Mine encourages attending both hours if possible. The Symposium was many student’s favorite part of last year.  
 
 === Expectations
 
