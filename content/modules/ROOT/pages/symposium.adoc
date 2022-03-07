@@ -121,6 +121,12 @@ Check out these helpful resources.
 * _Think of this as a “movie trailer” or “elevator pitch” for your Q&A and discussion._
 * You are encouraged to include demonstrations of your developments (like an interactive app). 
 
+[TIP]
+====
+We encourage *creativity* when creating your video! Please don't feel obligated to make a standard PowerPoint video. The link:https://datamine.purdue.edu/symposium/merck/2021.html[Merck videos from 2021] (specifically the biometrics team) did a great job of making a unique video. 
+====
+
+
 ===  Transfer your poster content to slides
 
 * *Take the same content (words and visuals) from your finished poster and transfer them to PowerPoint slides.*
