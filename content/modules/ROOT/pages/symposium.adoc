@@ -32,7 +32,7 @@ Students should dress in business casual attire and have a professional backgrou
 ** _It is imperative that you work closely with your Corporate Partner Mentor to identify what parts of the project can be publicly shared._
 * _[Per Team]_ One 5-8 minute long *video*   
 ** The video doesn’t have to include everything you did all year long, but it should discuss the motivation for the project, any necessary background (keep it brief), and your results. _Think of this as a “movie trailer” or “elevator pitch” for your Q&A and discussion._
-** If you developed something interactive (Shiny app), you should either demonstrate it to the end of your PowerPoint video or create a separate (short) demo video for the app.  
+** You are encouraged to include demonstrations of your developments (like an interactive app).   
 * _[Individual - all students]_ *Participation* 
 Wednesday April 20, 2022 from 2:30 - 4:30 PM (ET) there is a zoom link for each of the projects for a live discussion/Q&A session. Each student is required to be present for at least 1 hour (out of the 2 hour period). The virtual room must be staffed with team members for the entirety of the 2 hours. How your team divides that time is up to you. The Data Mine encourages attending both hours if possible. The Symposium was many student’s favorite part of last year.  
 
@@ -83,7 +83,7 @@ The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer
 |===
 
 
-=== Step 1: Create your poster
+== Create your poster
 
 * A SharePoint link will be sent to your team with a Purdue template. Use this link to create your poster so we can easily access it. Your team is welcome to update the template to match a template from your company. In fact, we encourage you to use the poster theme from your Corporate Partner. 
 * *Your poster should not be text heavy* -- it is not a paper, so complete sentences should be limited. Make sure to include multiple visuals and keep sentences to a minimum. Bullet points are encouraged.  
@@ -116,25 +116,33 @@ Check out these helpful resources.
 * Good vs Bad posters: http://sites.psu.edu/pubhub/wp-content/uploads/sites/36309/2016/04/Posters-The-Good-and-the-Bad.pdf 
 
 
-=== Step 2: Transfer your poster content to slides
+== Create your video 
+
+* The video should be 5-8 minutes long. 
+* The video doesn’t have to include everything you did all year long, but it should discuss the motivation for the project, any necessary background (keep it brief), and your results. 
+* _Think of this as a “movie trailer” or “elevator pitch” for your Q&A and discussion._
+* You are encouraged to include demonstrations of your developments (like an interactive app). 
+
+===  Transfer your poster content to slides
 
 * *Take the same content (words and visuals) from your finished poster and transfer them to PowerPoint slides.*
+* xref:attachment$Purdue-branded-powerpoint-template-reduced.pptx[Click here to download] a Purdue Data Mine branded PowerPoint slide deck (1.6 MB). You do not have to use these slides. 
 * The slides don’t have to match up word for word as the poster, but do not feel that you need to create new content. If anything, your slides will be briefer than your poster. *Make sure your slides tell a story.*
 * Make sure each slide isn’t too text heavy. *Add a relevant visual on every slide if possible.*
 * Allow time at the end of your slides for any interactive visualizations you plan to show. You can also make a separate video for your app demonstrations. 
 
-=== Step 3: Make a transcript for your recording
-* It is strongly recommended that you make a transcript for your video.
-* Practice reading your transcript as you write it so it falls within the required time frame. For example, you could write your script in the “Notes” box under each slide. 
+=== Make a transcript for your recording
+* It is strongly recommended that you make notes for your video. *DO NOT STRICTLY READ OFF YOUR NOTES.* This makes for a boring video. 
+* Practice delivering the information for each slide so it falls within the required time frame. You could write your script in the “Notes” box under each slide. 
 
 
 image::symposium_powerpoint_transcript.jpg[Our image, width=792, height=500, loading=lazy, title="Screenshot of adding notes for the transcript in PowerPoint."] 
 
 * This will make future recordings as consistent as possible. After, the legal review and draft, you may need
 to record your video again.
-* It is easier to add closed captioning with a transcript. 
+* It is easier to add closed captioning with notes. 
 
-=== Step 4: Record your video
+=== Record your video
 
 There are a variety of ways to create your video recording. Here are some options:
 
@@ -149,14 +157,14 @@ demo) or stitch them together in an editor.
 * Record your screen on your link:https://support.apple.com/en-us/HT207935[iPad].
 * [_Only recommended if multiple people will be talking in the video and option 1 above does not seem to work_] Share your screen and record in Zoom.  https://purdue-edu.zoom.us/
 
-=== Step 5: Edit your video 
+=== Edit your video 
 
 * This step is optional. Edit your video on an as-needed basis.
 * This could mean putting two audio recordings into one video or cropping out a mistake.
 * link:https://www.apple.com/imovie/[iMovie] for Macs
 * link:https://www.shotcut.org/[Shotcut] is free for Mac/Windows/Linux
 
-=== Step 6: Upload your video 
+=== Upload your video 
 
 
 1.  Go to youtube.com and click on the *Camera > Upload Video*. You have to be signed into your account.
@@ -174,7 +182,7 @@ image::symposium_YT_unlisted.jpg[Our image, width=792, height=500, loading=lazy,
 
   
 
-=== Step 7: Add ADA Closed Captions
+===  Add ADA Closed Captions
 
 * You are required to add closed captioning to your video on YouTube. 
 * CC’s should be added to the draft and final video
