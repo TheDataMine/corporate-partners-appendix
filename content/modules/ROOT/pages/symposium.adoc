@@ -26,6 +26,12 @@ Students should dress in business casual attire and have a professional backgrou
 
 == Deliverables 
 
+[IMPORTANT]
+====
+These posters and videos will be shared *publicly* during the Symposium. It is essential that students Work closely with their Corporate Partner Mentor to identify what parts of the project can be publicly shared without violating any NDAs. The Data Mine will send all posters to review the company's legal team before posting for the Symposium. 
+
+====
+
 * _[Per Team]_ One 3 x 4 feet *poster* submitted as a PDF. 
 ** Subteams should work together to make one poster. 
 ** _It is imperative that you work closely with your Corporate Partner Mentor to identify what parts of the project can be publicly shared._
