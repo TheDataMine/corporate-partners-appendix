@@ -3,13 +3,17 @@
 Please follow the following steps to complete the set up for your team's Symposium Zoom Meeting:app-name: 
 
 1. Go to https://purdue-edu.zoom.us/ and login with your BoilerKey
-
++
+--
 image::zoom_boilerkey.png[Zoom Boiler Key Login, width=792, height=500, loading=lazy, title="Zoom Boiler Key Login"]
-
+--
++
 2. Go to “Meetings” on the left-hand menu. Click on “Schedule a meeting”. 
-
++
+--
 image::zoom_schedule_meeting.png[Schedule A Meeting, width=792, height=500, loading=lazy, title="Schedule A Meeting"]
-
+--
++
 3. Fill out the meeting information as below (see screenshot below): 
 - *Topic*: Use your team name followed by DM CRP Symposium (ex. 84.51 – DM CRP Symposium)
 - *When*: Monday, April 12, 2021. Select start time to be 2:30 PM ET so it is ready to start the Zoom room early. The Symposium will officially start at 3 PM ET. 
@@ -17,13 +21,17 @@ image::zoom_schedule_meeting.png[Schedule A Meeting, width=792, height=500, load
 - *Meeting ID*: Select “Generate Automatically” to add additional layer of security. Do *not* select personal meeting room. 
 - *Security*: Enable the passcode. 
 - *Meeting Options*: Allow participants to join *15 minutes* before start time. Also select “mute participants upon entry” since people will be joining at any time between 3-5 PM so we don’t want them to interrupt the conversation. 
-
++
+--
 image::zoom_settings.png[Meeting Settings, width=792, height=500, loading=lazy, title="Meeting Settings"]
-
+--
++
 4. Once you click “Save”, it will show you the meeting invite. Click “Copy invitation”. 
-
++
+--
 image::zoom_invite.png[Meeting Invitation, width=792, height=500, loading=lazy, title="Meeting Invitation"]
-
+--
++
 5. Copy the “Join Zoom Meeting” link into this spreadsheet: https://purdue0-my.sharepoint.com/:x:/g/personal/betz_purdue_edu/EXBAYZJx67dFobboOPf6N3ABpL3xq9ptDtKMQ7E0ZpqVZg?e=yJDIyt *only copy the URL*
 
 image::zoom_link.png[Meeting Link, width=792, height=500, loading=lazy, title="Meeting Link"]
@@ -53,9 +61,14 @@ Click here for instructions on how to set your virtual background  https://suppo
 1. Go to https://purdue-edu.zoom.us/ and login with your BoilerKey
 
 2. Go to “Meetings” on the left-hand menu. Hover over the meeting and click “start”.  
-
++
+--
 image::zoom_start.png[Start Meeting, width=792, height=500, loading=lazy, title="Start Meeting"]
-
+--
++
 3. On the day of the Symposium, when you start the meeting, we recommend you make sure that “Enable Waiting Room” is checked and “Share Screen” is unchecked. See below. You can easily re-enable it if a teammate needs to share their screen. 
-
++
+--
 image::zoom_allow_participants.png[Meeting Settings, width=792, height=500, loading=lazy, title="Meeting Settings"]
+--
++

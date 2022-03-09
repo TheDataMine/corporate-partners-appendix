@@ -3,7 +3,8 @@
 ** xref:apply.adoc[Apply to be a TA]
 
 ** xref:introduction_rhythms.adoc[Weekly Rhythms]
-*** xref:rhythms_mentor_feedback.adoc[Mentor Feedback]
+// Watch for Mentor Feedback 
+*** xref:rhythms_mentor_feedback.adoc[Mentor Feedback] 
 *** xref:rhythms_team_meetings.adoc[Team Meetings]
 *** xref:rhythms_team_labs.adoc[Team Labs]
 *** xref:rhythms_meeting_notes.adoc[Meeting Notes]
@@ -12,7 +13,7 @@
 *** xref:rhythms_timesheet.adoc[Time Sheets]
 *** xref:rhythms_grading.adoc[Grading]
 
-** Semesterly Rhythms
+** Semester Rhythms
 *** xref:sem_rhythms_check_in.adoc[Semester Check Ins] 
 *** xref:sem_rhythms_eval.adoc[Mid Semester Evaluations] 
 
