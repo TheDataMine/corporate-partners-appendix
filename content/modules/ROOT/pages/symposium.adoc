@@ -63,69 +63,6 @@ These posters and videos will be shared *publicly* during the Symposium. It is e
 
 A submitted *poster draft* should be at least 75% complete. Any sections without content/visuals should contain notes of what will be added. A submitted *video draft* includes slides and a completed initial recording. Captioning is not required for the draft. TAs will submit the drafts (one per team).
 
-=== Rubric
-==== Poster
-[cols="^.^2h,^.^2,^.^2,^.^2,^.^2"]
-|===
-
-|*Category* |*Needs Significant Improvement* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
-
-|*Introduction/ background/ motivation* 
-|The team did not provide details about the project, the overall goal, and the vision.	
-|The team provides minimal detail on their goals or visions for the project.	
-|The team provides details about why they are doing the work but lacks details about the overall vision.|The team provides an easy-to-understand and thorough overview of their project goals and overall vision. 
-
-|*Research Methodology*
-|The team did not provide details about the research process, tools used, or results.	
-|The methodology and results are unclear. The team didn’t explain how the tools were used.	
-|The team briefly mentions the tools and resources used in the project. Details may be unclear.	
-|The team provides precise details on the methodology, tools, and resources used in the project.
-
-|*Conclusions* 
-|The team did not provide any details on the overall outcome or findings of the project.	
-|The team’s overview was difficult to understand and didn’t show a path forward for the coming semester. 	
-|The team provides an overview of the semester’s work and goals but may leave some details. Some of the reviews may be too technical for most audiences. 	
-|The team provides an easy-to-understand and concise overview of the semester’s work and the student’s learnings. Topics are easy to understand with any level of technical expertise.
-
-|*Future goals* 
-|The team did not provide any insight on potential advancements to the project.	
-|The team does not have a well-defined future vision or steps to complete the work. 	
-|The team provides an outline of future work but may not have as much detail as how they plan to accomplish the milestones. 	
-|The team provides a clear outline of future goals and how they relate to the overall vision and the current semester’s work. 
-
-|*Reference and acknowledgments* 
-|The acknowledgment section is missing.	
-|The team did not list any additional contributions or support for the project. (And it’s known that other parties supported them.)	
-|The team listed contributors in an “Acknowledgement” section. 	
-|The team was sure to call out anyone who helped support the team or contribute to the project. 
-
-|*Figures* 
-|Little visualizations to convey content shared.	
-|Many visualizations don’t seem to be related to the subject at all. 	
-|Visualizations are good but may not always be related directly to the topic. Some are a bit confusing to interpret. 	
-|Visualizations are compelling and help to drive the story and user understanding. 
-
-|*Layout and design* 
-|The presentation lacks a layout and design that attracts the audience. 	
-|The presentation is poorly designed, confusing, and distracting. Topics are hard to follow, and the work doesn’t appear professional. 	
-|The presentation is professionally done and easy to understand. Flow and color selections need improvements. 	
-|The presentation is concise and compelling. It’s easy to read and understand quickly. 
-
-|*Speakers (For Video Grade)*
-|The information presented was hard to follow. The students didn’t provide concrete details. 	
-|The students provided brief details to the presentation slides, but the details were unclear.	
-|The students knew their topics well and spoke clearly on the details. It may be a little light on technical detail when applicable. 	
-|The students provided technical detail and background where appropriate. 
-
-|*Overall Feedback & Comments* 
-4+|
-
-
-|===
-
-==== Video
-Video slides should be mostly bullet points and figures. Students should be speaking about the details of the project, not just read from the slides.
-
 === Examples
 The Data Mine had a virtual symposium in 2020 and 2021. Please note we had fewer Corporate Partner teams in 2020 & 2021.  It would be helpful to watch some of the videos and review the posters from link:https://datamine.purdue.edu/symposium/welcome2020.html[2019-2020] and link:https://datamine.purdue.edu/symposium/welcome2021.html[2020-2021].  
 
@@ -282,3 +219,66 @@ image::symposium_CC.jpg[Our image, width=792, height=500, loading=lazy, title="S
 * Add music or other descriptions inside brackets such as [music] or [laughter].
 * Indicate when no narration is present and describe any relevant sound effects.
 * Use of slang and accent is preserved and identified.
+
+== Rubric
+=== Poster
+[cols="^.^2h,^.^2,^.^2,^.^2,^.^2"]
+|===
+
+|*Category* |*Needs Significant Improvement* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
+
+|*Introduction/ background/ motivation* 
+|The team did not provide details about the project, the overall goal, and the vision.	
+|The team provides minimal detail on their goals or visions for the project.	
+|The team provides details about why they are doing the work but lacks details about the overall vision.|The team provides an easy-to-understand and thorough overview of their project goals and overall vision. 
+
+|*Research Methodology*
+|The team did not provide details about the research process, tools used, or results.	
+|The methodology and results are unclear. The team didn’t explain how the tools were used.	
+|The team briefly mentions the tools and resources used in the project. Details may be unclear.	
+|The team provides precise details on the methodology, tools, and resources used in the project.
+
+|*Conclusions* 
+|The team did not provide any details on the overall outcome or findings of the project.	
+|The team’s overview was difficult to understand and didn’t show a path forward for the coming semester. 	
+|The team provides an overview of the semester’s work and goals but may leave some details. Some of the reviews may be too technical for most audiences. 	
+|The team provides an easy-to-understand and concise overview of the semester’s work and the student’s learnings. Topics are easy to understand with any level of technical expertise.
+
+|*Future goals* 
+|The team did not provide any insight on potential advancements to the project.	
+|The team does not have a well-defined future vision or steps to complete the work. 	
+|The team provides an outline of future work but may not have as much detail as how they plan to accomplish the milestones. 	
+|The team provides a clear outline of future goals and how they relate to the overall vision and the current semester’s work. 
+
+|*Reference and acknowledgments* 
+|The acknowledgment section is missing.	
+|The team did not list any additional contributions or support for the project. (And it’s known that other parties supported them.)	
+|The team listed contributors in an “Acknowledgement” section. 	
+|The team was sure to call out anyone who helped support the team or contribute to the project. 
+
+|*Figures* 
+|Little visualizations to convey content shared.	
+|Many visualizations don’t seem to be related to the subject at all. 	
+|Visualizations are good but may not always be related directly to the topic. Some are a bit confusing to interpret. 	
+|Visualizations are compelling and help to drive the story and user understanding. 
+
+|*Layout and design* 
+|The presentation lacks a layout and design that attracts the audience. 	
+|The presentation is poorly designed, confusing, and distracting. Topics are hard to follow, and the work doesn’t appear professional. 	
+|The presentation is professionally done and easy to understand. Flow and color selections need improvements. 	
+|The presentation is concise and compelling. It’s easy to read and understand quickly. 
+
+|*Speakers (For Video Grade)*
+|The information presented was hard to follow. The students didn’t provide concrete details. 	
+|The students provided brief details to the presentation slides, but the details were unclear.	
+|The students knew their topics well and spoke clearly on the details. It may be a little light on technical detail when applicable. 	
+|The students provided technical detail and background where appropriate. 
+
+|*Overall Feedback & Comments* 
+4+|
+
+
+|===
+
+=== Video
+Video slides should be mostly bullet points and figures. Students should be speaking about the details of the project, not just read from the slides.
