@@ -1,0 +1,57 @@
+= How to Register for Fall 2022
+
+== Review Project Descriptions 
+Read through the team descriptions available under xref:projects.adoc[Projects].
+
+ 
+== Add a team to your schedule 
+1. Click on the appropriate link below depending on if you need to register for TDM 11100/21100/31100/41100. This level is dependent on how many years you have been in CRP, not how many years you have been in The Data Mine (seminar). If this is your first year in The Data Mine Corporate Partners, you need to register for TDM 11100 DMCP.   
+
++
+--
+
+* TDM 11100 Sections: Link to be added
+
+* TDM 21100 Sections: Link to be added
+
+* TDM 31100 Sections: Link to be added
+
+* TDM 41100 Sections: Link to be added
+
+* _[Grad students only]_ STAT 598 Sections 
+
+
++
+--
+
+ 
+
+2. Look at the far-right column labeled “Notes”. This is the team name. Find the team you will register for. 
+
+ 
+
+3. Verify that the meeting times work with your schedule. Course conflicts with the meeting times will not be approved. By the end of summer, there will be over 40 teams to register for. 
+
+4. Write down the two CRN’s (far left column) and the two section codes (second to left column). One CRN is for the “lec” and the other is for the “lab”. The lecture time is the meeting time with your CRP Mentor. The two-hour lab is the student meeting/work time. You must register for both. 
+
+5. Go to https://wl.mypurdue.purdue.edu/ 
+
+6. Click on Registration and then click Use Scheduling Assistant 
+
+ 
+7. Click on New Course  
+
+ 
+
+8. Search for STAT 190 (or 290 or 390 if you have been in Corporate Partners multiple years). Click on STAT 19000 DMCP and then click Select in the top right corner.  
+
+9. Scroll through the list to find the section you want to add. Click on it when you find it.  
+
+ 
+
+10. Confirm that the correct CRN and section were added to your schedule. Click Submit Schedule.  
+
+ 
+
+Please note *course conflicts with the meeting times will not be approved*. By the end of summer, there will be over 75 teams to register for. 
+
