@@ -2,5 +2,5 @@
 ** xref:projects.adoc[Project Descriptions]
 ** Registration
 *** xref:howtoregister.adoc[Registration Tutorial]
-*** xref:FAQ.adoc[FAQs]
+*** xref:faq.adoc[FAQs]
 
