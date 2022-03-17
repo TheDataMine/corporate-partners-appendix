@@ -1,0 +1,8 @@
+= Test schedule 
+
+Testing the display of our rainbow course schedule using iFrame and Sharepoint Excel Online 
+
+++++
+<iframe width="500" height="200" frameborder="0" scrolling="no" src="https://host/personal/user/_layouts/15/guestaccess.aspx?guestaccesstoken=2UdAHGlFpWVaJjkI32xuisKCQsULG6M6b%2fIjG1LYpRM%3d&docid=166d02b42f5a1443781a1de428d9518ee&action=embedview&wdbipreview=true&wdHideSheetTabs=true&wdAllowInteractivity=True&" Item=PivotTable1& ActiveCell=B4&wdHideGridlines=True &wdHideHeaders=True& wdDownloadButton=True”></iframe>
+
+++++
