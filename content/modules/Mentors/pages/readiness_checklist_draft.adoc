@@ -1,0 +1,34 @@
+= Readiness Checklist
+
+== Project Description
+* Have we received the project description?
+
+== Legal and Funding
+* Are you working with your legal team to finalize this? Work with Nicole.
+
+== Data
+* How to access
+* Does it need to be de-identified?
+* Is it robust
+** More than 5 predictors (features, independent variable)
+** More than one thousand records (observations, dependent variable)
+
+== Hardware/Software
+* Define required software and hardware
+
+* Software
+** Open source
+** Need licensed software
+
+* Hardware
+** Cloud? company machine? Remote access? Purdue's HPC?
+
+== Syllabus
+* Roadmap to help prepare the students
+
+== Mentor
+* Identify a committed personnel within CPR to serve as the product owner and oversee the project.
+* Will this mentor serve as the domain expert, technical expert, or both?
+
+== Goals/Milestones
+* Roadmap on timeline for expected outcomes
