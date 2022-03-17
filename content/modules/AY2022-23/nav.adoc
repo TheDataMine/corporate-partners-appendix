@@ -1,0 +1,15 @@
+* AY 2022 - 23
+** Project Descriptions
+** xref:mf930.adoc[Monday & Friday 9:30 - 11:20]
+** xref:mf1130.adoc[Monday & Friday 11:30 - 1:20]
+** xref:mf130.adoc[Monday & Friday 1:30 - 3:20]
+** xref:mf330.adoc[Monday & Friday 3:30 - 5:20]
+** xref:tr930.adoc[Tuesday & Thursday 9:30 - 11:20]
+** xref:tr1130.adoc[Tuesday & Thursday 11:30 - 1:20]
+** xref:tr130.adoc[Tuesday & Thursday 1:30 - 3:20]
+** xref:tr330.adoc[Tuesday & Thursday 3:30 - 5:20]
+** xref:projects.adoc[Project Descriptions]
+** Registration
+*** xref:howtoregister.adoc[Registration Tutorial]
+*** xref:faq.adoc[FAQs]
+
