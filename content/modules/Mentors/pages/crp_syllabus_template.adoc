@@ -1,0 +1,50 @@
+= Syllabus Template
+
+== About CRP
+=== About The Company
+* What does your company do?
+* History
+
+=== About The Specific Department/Team
+* What is your team’s role in relation to the company
+
+=== About The Mentor
+* Title
+* Summary of job responsibilities
+* Contact
+* Availability
+
+== Project Description
+=== Summary
+
+=== Objectives
+
+=== About The Data
+
+== Tentative Schedule
+=== Fall
+* Sprints
+
+=== Spring
+* Sprints
+
+== Expectations
+=== Team/Roles
+* Mentor (Product Owner)
+* TA (Scrum Master)
+* Students (Developers)
+* Graduate Students
+* Undergraduate Students
+
+== Preparations
+
+=== Required Readings
+
+=== Other Readings
+
+=== Software
+==== Required
+
+==== Optional
+
+=== Hardware
