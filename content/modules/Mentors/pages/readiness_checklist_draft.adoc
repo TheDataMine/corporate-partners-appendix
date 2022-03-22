@@ -2,9 +2,11 @@
 
 == Project Description
 * Have we received the project description?
+* xref:project_descriptions.adoc[Project Description]
 
 == Legal and Funding
 * Are you working with your legal team to finalize this? Work with Nicole.
+* xref:legal.adoc[Legal and Funding]
 
 == Data
 * How to access
@@ -25,10 +27,12 @@
 
 == Syllabus
 * Roadmap to help prepare the students
+* xref:crp_syllabus_template.adoc[Syllabus Template]
 
 == Mentor
 * Identify a committed personnel within CPR to serve as the product owner and oversee the project.
 * Will this mentor serve as the domain expert, technical expert, or both?
+* xref:best_practice_template.adoc[Mentor Best Practices]
 
 == Goals/Milestones
 * Roadmap on timeline for expected outcomes
