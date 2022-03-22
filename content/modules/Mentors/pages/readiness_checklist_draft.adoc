@@ -32,7 +32,7 @@
 == Mentor
 * Identify a committed personnel within CPR to serve as the product owner and oversee the project.
 * Will this mentor serve as the domain expert, technical expert, or both?
-* xref:best_practice_template.adoc[Mentor Best Practices]
+* xref:best_practice_draft.adoc[Mentor Best Practices]
 
 == Goals/Milestones
 * Roadmap on timeline for expected outcomes
