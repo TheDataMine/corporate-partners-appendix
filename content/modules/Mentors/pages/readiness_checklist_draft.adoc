@@ -30,7 +30,7 @@
 * xref:crp_syllabus_template.adoc[Syllabus Template]
 
 == Mentor
-* Identify a committed personnel within CPR to serve as the product owner and oversee the project.
+* Identify a committed personnel within CRP to serve as the product owner and oversee the project.
 * Will this mentor serve as the domain expert, technical expert, or both?
 * xref:best_practice_draft.adoc[Mentor Best Practices]
 
