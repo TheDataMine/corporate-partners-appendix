@@ -5,34 +5,35 @@
 * xref:project_descriptions.adoc[Project Description]
 
 == Legal and Funding
-* Are you working with your legal team to finalize this? Work with Nicole.
+* Are you working with your legal team to finalize the Sponsorship Acknowledgment?
 * xref:legal.adoc[Legal and Funding]
 
 == Data
-* How to access
+* How does the students acquired the data?
 * Does it need to be de-identified?
-* Is it robust
+* Is the data complex enough for the project?
 ** More than 5 predictors (features, independent variable)
 ** More than one thousand records (observations, dependent variable)
 
 == Hardware/Software
-* Define required software and hardware
-
-* Software
-** Open source
-** Need licensed software
-
-* Hardware
-** Cloud? company machine? Remote access? Purdue's HPC?
+* What are some required software and hardware?
 
 == Syllabus
 * Roadmap to help prepare the students
 * xref:crp_syllabus_template.adoc[Syllabus Template]
 
 == Mentor
-* Identify a committed personnel within CRP to serve as the product owner and oversee the project.
+* Have you identify a committed personnel within your company to serve as the product owner and oversee the project?
 * Will this mentor serve as the domain expert, technical expert, or both?
 * xref:best_practice_draft.adoc[Mentor Best Practices]
 
 == Goals/Milestones
 * Roadmap on timeline for expected outcomes
+* What will be the projected product?
+
+== Other questions
+* What support do you need from The Data Mine?
+* Potential Preferences
+** Code management (E.g. GitHub)
+** Documentation format (E.g. Wiki)
+
