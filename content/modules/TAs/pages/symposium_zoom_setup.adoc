@@ -20,7 +20,7 @@ image::zoom_schedule_meeting.png[Schedule A Meeting, width=792, height=500, load
 - *Duration*: Select 3 hours (2:00 PM – 5:00 PM ET to allow flexibility even though it should last from 2:30-4:30 PM). 
 - *Meeting ID*: Select “Generate Automatically” to add additional layer of security. Do *not* select personal meeting room. 
 - *Security*: Enable the passcode. 
-- *Meeting Options*: Allow participants to join before start time. Also select “mute participants upon entry” since people will be joining at any time between 3-5 PM so we don’t want them to interrupt the conversation. 
+- *Meeting Options*: Allow participants to join before start time. Also select “mute participants upon entry” since people will be joining at any time between 2:30-4:30 PM so we don’t want them to interrupt the conversation. 
 - *Alternative Hosts*: Add a student on your team as a secondary host option in case of technical difficulties on the day of the symposium. Enter their email to add them as a secondary host.
 +
 --
