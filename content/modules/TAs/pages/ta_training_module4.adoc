@@ -111,9 +111,7 @@
 
 - “Remember that data is just a representation of something that happened. A lot of times it tells a portion of the story but not the full story…Any time you bring in someone who brings a different perspective and different experience, you will only add to being able to solve problems…
 
-- “There should be a conscious awareness to make sure you go after building a diverse team…It’s so easy to hire people in our own circle, and those people usually are most like us.  That’s where awareness needs to be.”
-
-		--- Sadie St. Lawrence, Founder and Executive Director of the non-profit Women in Data
+- “There should be a conscious awareness to make sure you go after building a diverse team…It’s so easy to hire people in our own circle, and those people usually are most like us.  That’s where awareness needs to be.” - Sadie St. Lawrence, Founder and Executive Director of the non-profit Women in Data
 
 - https://www.dataversity.net/building-future-women-data/
 
