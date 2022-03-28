@@ -282,14 +282,14 @@ The video rubric follows the same criteria as the poster rubric. In addition, Th
 |*Category* |*Needs Significant Improvement* |*Needs Improvement* |*Meets Expectations* |*Exceeds Expectations*
 |*Speakers*
 |The students spoke too softly or quickly; it was difficult to understand the content.	
-|The students had limited tone changes, and spoke unclearly in some areas.
+|The students had limited tone changes and spoke unclearly in some areas.
 |The students spoke well. Minimal tone change to engage the audience.
 |The students spoke clearly and at a good pace. The overall tone engaged the audience.
 |*Video Flow*
 |The presentation was difficult to follow with no sense of direction.	
 |The students provided brief details to the presentation slides, but the details were unclear.	
-|The majority of the presentation was understandable with some sections of confusions.
-|The presentation was easy to follow and understand.
+|The majority of the presentation was understandable, with some sections challenging to understand.
+|The presentation was easy to follow and clearly understood.
 |*Closed Captions*
 |The closed caption did not follow the link:#cc_guidelines[ADA Closed Caption Guidelines]
 |The closed caption follows some of the ADA Closed Caption Guidelines 
