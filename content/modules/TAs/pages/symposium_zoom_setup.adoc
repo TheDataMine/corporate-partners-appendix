@@ -15,26 +15,27 @@ image::zoom_schedule_meeting.png[Schedule A Meeting, width=792, height=500, load
 --
 +
 3. Fill out the meeting information as below (see screenshot below): 
-- *Topic*: Use your team name followed by DM CRP Symposium (ex. 84.51 – DM CRP Symposium)
-- *When*: Monday, April 12, 2021. Select start time to be 2:30 PM ET so it is ready to start the Zoom room early. The Symposium will officially start at 3 PM ET. 
-- *Duration*: Select 3 hours (2:30 PM – 5:30 PM ET to allow flexibility even though it should last from 3-5 PM). 
+- *Topic*: Use your team name followed by DM CRP Symposium (ex. Merck – DM CRP Symposium)
+- *When*: Wednesday, April 20, 2022. Select start time to be 2:00 PM ET so it is ready to start the Zoom room early. The Symposium will officially start at 2:30 PM ET. 
+- *Duration*: Select 3 hours (2:00 PM – 5:00 PM ET to allow flexibility even though it should last from 2:30-4:30 PM). 
 - *Meeting ID*: Select “Generate Automatically” to add additional layer of security. Do *not* select personal meeting room. 
 - *Security*: Enable the passcode. 
-- *Meeting Options*: Allow participants to join *15 minutes* before start time. Also select “mute participants upon entry” since people will be joining at any time between 3-5 PM so we don’t want them to interrupt the conversation. 
+- *Meeting Options*: Allow participants to join before start time. Also select “mute participants upon entry” since people will be joining at any time between 3-5 PM so we don’t want them to interrupt the conversation. 
+- *Alternative Hosts*: Add a student on your team as a secondary host option in case of technical difficulties on the day of the symposium. Enter their email to add them as a secondary host.
 +
 --
-image::zoom_settings.png[Meeting Settings, width=792, height=500, loading=lazy, title="Meeting Settings"]
+image::zoom_setting.png[Meeting Settings, width=792, height=500, loading=lazy, title="Meeting Settings"]
 --
 +
 4. Once you click “Save”, it will show you the meeting invite. Click “Copy invitation”. 
 +
 --
-image::zoom_invite.png[Meeting Invitation, width=792, height=500, loading=lazy, title="Meeting Invitation"]
+image::invite.png[Meeting Invitation, width=792, height=500, loading=lazy, title="Meeting Invitation"]
 --
 +
-5. Copy the “Join Zoom Meeting” link into this spreadsheet: https://purdue0-my.sharepoint.com/:x:/g/personal/betz_purdue_edu/EXBAYZJx67dFobboOPf6N3ABpL3xq9ptDtKMQ7E0ZpqVZg?e=yJDIyt *only copy the URL*
+5. Copy the “Join Zoom Meeting” link into the spreadsheet provided in the email from Maggie. *Only copy the URL*
 
-image::zoom_link.png[Meeting Link, width=792, height=500, loading=lazy, title="Meeting Link"]
+image::link.png[Meeting Link, width=792, height=500, loading=lazy, title="Meeting Link"]
 
 == Setting changes to protect your meeting
 Under Settings > In Meeting (Basic), turn *off* Annotation, Whiteboard, and Remote Control. This prevents Zoom “bombers” or others with malicious intent from taking over the meeting. 
@@ -45,19 +46,21 @@ Under Settings > In Meeting (Advanced), turn off Far End camera control. Keep Vi
 
 image::zoom_camera_settings.png[Camera Settings , width=792, height=500, loading=lazy, title="Camera Settings"]
 
-== Zoom Security Features for the day of the symposium
-How to expel (remove) someone that is causing disruption or being malicious (they cannot rejoin from the same device)
-https://www.unr.edu/tlt/instructional-design/instructional-technology-resources/web-conferencing/zoom/securing-sessions/remove-participant  
+Also Under Settings > In Meeting (Advanced), turn on Closed Captioning. Select "Allow use of caption API Token to integrate with 3rd-party Closed Captioning services", "Allow live transcription service to transcribe meeting automatically", and "Allow viewing of full transcript in the in-meeting side panel". 
 
-Please review this resource and read the four sections on Control Screen Sharing (pg 8), Turn off Annotation (pg 8), Mute Participants (pg 9), and Remove Participants (pg 9). 
-https://zoom.us/docs/doc/Securing%20Your%20Zoom%20Meetings.pdf 
+image::closed-captions.png[Closed Captioning, width=792, height=500, loading=lazy, title="Closed Captioning"]
+
+== Zoom Security Features for the day of the symposium
+How to expel (remove) someone that is causing disruption or being malicious (they cannot rejoin from the same device): link:https://www.unr.edu/tlt/instructional-design/instructional-technology-resources/web-conferencing/zoom/securing-sessions/remove-participant[How to remove a participant from your Zoom meeting]
+
+Please review this resource and read the four sections on Control Screen Sharing (pg 8), Turn off Annotation (pg 8), Mute Participants (pg 9), and Remove Participants (pg 9): link:https://zoom.us/docs/doc/Securing%20Your%20Zoom%20Meetings.pdf[Securing Your Zoom Meeting] 
 
 == Virtual Background for Purdue 
-Generate a virtual background so your name is easily visible. You can use your first name only or first and last name. https://webapps.krannert.purdue.edu/zoombackground/ 
+Generate a virtual background so your name is easily visible. You can use your first name only or first and last name: link:https://webapps.krannert.purdue.edu/zoombackground/[Virtual Background Generator] 
 
-Click here for instructions on how to set your virtual background  https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background 
+Click here for instructions on how to set your virtual background: link:https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background[Changing your Virtual Background image] 
 
-== On the day of the Symposium, to start the meeting at 2:30 PM ET: 
+== On the day of the Symposium, to start the meeting at 2:00 PM ET: 
 1. Go to https://purdue-edu.zoom.us/ and login with your BoilerKey
 
 2. Go to “Meetings” on the left-hand menu. Hover over the meeting and click “start”.  
@@ -70,5 +73,10 @@ image::zoom_start.png[Start Meeting, width=792, height=500, loading=lazy, title=
 +
 --
 image::zoom_allow_participants.png[Meeting Settings, width=792, height=500, loading=lazy, title="Meeting Settings"]
+--
++
+4. After starting the meeting, enable live transcription for closed captioning. Click on "Live Transcript" and then select "Enable"
+--
+image::zoom-CC-setting.png[Closed Captioning Setting, width=792, height=500, loading=lazy, title="Closed Captioning Setting"]
 --
 +
