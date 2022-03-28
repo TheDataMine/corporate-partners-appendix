@@ -15,7 +15,7 @@
 
 ** Semester Rhythms
 *** xref:sem_rhythms_check_in.adoc[Semester Check Ins] 
-*** xref:sem_rhythms_eval.adoc[Mid Semester Evaluations] 
+//*** xref:sem_rhythms_eval.adoc[Mid Semester Evaluations] 
 
 ** xref:introduction_trainings.adoc[Trainings]
 *** xref:ta_training_module1.adoc[Module 1: Exploring The Data Mine]
@@ -23,7 +23,7 @@
 *** xref:ta_training_module3.adoc[Module 4: Classroom Policies]
 *** xref:ta_training_module4.adoc[Module 4: Diversity In Data Science]
 *** xref:ta_training_module5.adoc[Module 5: Agile Training]
-*** xref:ta_training_module6.adoc[Module 6: Logistics]
+//*** xref:ta_training_module6.adoc[Module 6: Logistics]
 
 ** Symposium
 *** xref:symposium_zoom_setup.adoc[Zoom Set Up]
