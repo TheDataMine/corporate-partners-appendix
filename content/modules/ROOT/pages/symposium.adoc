@@ -21,7 +21,25 @@ The posters and videos will be available link:https://datamine.purdue.edu/sympos
 From 2:30 - 4:30 PM Eastern time on Wednesday, April 20, 2022, each poster group will have a Zoom link so that other students and corporate partner guests can join and ask questions/discuss. For example, there will be a Ford Zoom link, a Viasat Zoom link, etc. 
 
 === Dress Code
-Students should dress in business casual attire and have a professional background (or virtual filter) for the online Q&A/discussion portion. Review the xref:student_code_of_conduct.adoc[student code of conduct for online meeting "net-etiquette" and dress code information.] 
+Students should dress in business casual attire and have a professional background (or link:https://webapps.krannert.purdue.edu/zoombackground/[virtual filter]) for the online Q&A/discussion portion. Review the xref:student_code_of_conduct.adoc[student code of conduct for online meeting "net-etiquette" and dress code information.] 
+
+=== Roles
+We encourage you to establish roles within your team for the Q&A/discussion. If your team is large, you may switch roles every half hour.  If your team is small, you may want to switch roles only once.  Please discuss with your team members to establish roles. Everyone should be actively participating in the Q&A. Here are some potential roles:
+ 
+*Host* – The TA will host the calls.  Can mute participants if there is background noise and share content on the screen. Since TAs own the Zoom meeting, they can mute participants if there is background noise and share content on the screen. 
+
+*Welcomer* – Welcomes new people as they arrive (if not interrupting a discussion).  If nobody is asking questions, this person can also be ready to give a short 1-2 minute “elevator pitch” about the project, with the poster on screen, to try to get conversation going.  You don’t have to re-present the whole poster and video, but not everybody will have watched your video ahead of time (even though they are supposed to).  
+
+*Question re-director/chat monitor:*  Fields questions from the chat and from voice, and directs them to a team member to answer (or answers it themselves). For example, “That’s a great question for [name] to answer.”  Make sure that the questions aren’t all being answered by the same person and that you direct the question to an appropriate team member who will know the answer.  
+
+*Subcategory answerers/subject matter experts:*  Your team can decide ahead of time lists of teammates who should answer which types of questions to make calling on somebody easier. Decide on these categories and who should be in each one ahead of time.  Consider these to be “subject matter experts” for specialties.  Somebody from each of these categories should be available for the entire 2 hours, although you should rotate through the list so it isn’t always one person answering.
+
+*Note taker* – summarize the discussions and questions asked.
+
+*Interview each other!* In every group, there will be some dead time, where nobody is asking questions.  Think ahead about questions you could ask each other about the project.  This could range from something technical to questions about what their favorite part of the experience was, what the biggest challenge was, what they learned, what they are excited about doing in the future, how this experience changed their career goals, etc.  This may feel a little awkward, but it’s better than dead silence, and it is great to add feedback to your documentation guide due at the end of the semester. It will also encourage your guests to ask more questions.  Create a list of these “filler” questions ahead of time.  Think about your answers ahead of time, too.  Last year, the guests asked a lot of these “filler” questions, too, not just questions about the actual project.
+
+*Think of questions for your guests!*  Hopefully you will get a lot of guests.  Some will be Purdue faculty/staff/students.  Some will be your Corporate Partners mentors or people from their companies.  Some will be guests from other companies.  If you have answered all of their questions, it’s ok to ask them questions about themselves, too.  Who are they?  Where do they work?  What do they do?  Why are they excited about data science?  What do they recommend for you to do to get ready have a career in data science?  (Think of those extra questions for the speakers we have you write about in the Outside Event reflections.)  This could be a great opportunity for you to meet some really interesting people!
+
 
 
 == Deliverables 
