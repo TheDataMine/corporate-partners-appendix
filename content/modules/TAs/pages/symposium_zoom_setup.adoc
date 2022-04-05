@@ -1,6 +1,6 @@
 = Symposium Zoom Set Up
 
-Please follow the following steps to complete the set up for your team's Symposium Zoom Meeting:app-name: 
+Please follow the following steps to complete the set up for your team's Symposium Zoom Meeting
 
 1. Go to https://purdue-edu.zoom.us/ and login with your BoilerKey
 +
