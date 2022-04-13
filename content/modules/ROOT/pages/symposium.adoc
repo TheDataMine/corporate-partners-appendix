@@ -10,7 +10,17 @@ The Data Mine Corporate Partners Symposium is held annually in April. Our studen
 
 
 
-== Symposium: Wednesday, April 20, 2022
+== Information to know for the day of the symposium: Wednesday, April 20, 2022
+
+*What*: Annual The Data Mine Corporate Partners Symposium
+
+*When*: Wednesday, April 20, 2022 
+
+*Where*: Online link:https://datamine.purdue.edu/symposium/welcome.html[via this link]
+
+*Who*: All students are required to join for at least an hour. The event is open to the public. All are welcome to join
+
+*Format*: Posters and videos will be visible starting 8:00 AM ET on Wednesday morning. Guests are encouraged to review a few posters and videos before the live Zoom sessions from 2:30 - 4:30 PM ET. All 60 teams will have a Zoom room. Guests are welcome to jump between rooms and interact with the students. 
 
 === Poster and Video Viewing
 The posters and videos will be available link:https://datamine.purdue.edu/symposium/welcome.html[on this website] starting at 8:00 AM (EST) on Wednesday April 20th, 2022.  The event is open to the public: all of The Data Mine’s Corporate Partners, students and their family and friends are welcome to attend.  
@@ -24,6 +34,12 @@ From 2:30 - 4:30 PM Eastern time on Wednesday, April 20, 2022, each poster group
 Students should dress in business casual attire and have a professional background (or link:https://webapps.krannert.purdue.edu/zoombackground/[virtual filter]) for the online Q&A/discussion portion. Review the xref:student_code_of_conduct.adoc[student code of conduct for online meeting "net-etiquette" and dress code information.] 
 
 === Roles
+
+[IMPORTANT]
+====
+*Each student is required to be present for at least 1 hour (out of the 2 hour period) in their team's Zoom link for  live discussion/Q&A session.* The Data Mine encourages attending both hours if possible. The Symposium was many student’s favorite part of last year. If you have a class conflict with the full two hour period, please complete the <<Alternative Assignment for Symposium Attendance>> at the end of the page. 
+====
+
 We encourage you to establish roles within your team for the Q&A/discussion. If your team is large, you may switch roles every half hour.  If your team is small, you may want to switch roles only once.  Please discuss with your team members to establish roles. Everyone should be actively participating in the Q&A. Here are some potential roles:
  
 *Host* – The TA will host the calls.  Can mute participants if there is background noise and share content on the screen. Since TAs own the Zoom meeting, they can mute participants if there is background noise and share content on the screen. 
@@ -56,7 +72,7 @@ These posters and videos will be shared *publicly* during the Symposium. It is e
 * _[Per Team]_ One 5-8 minute long *video*   
 ** The video doesn’t have to include everything you did all year long, but it should discuss the motivation for the project, any necessary background (keep it brief), and your results. _Think of this as a “movie trailer” or “elevator pitch” for your Q&A and discussion._
 ** You are encouraged to include demonstrations of your developments (like an interactive app).   
-* _[Individual - all students]_ *Participation* on Wednesday April 20, 2022 from 2:30 - 4:30 PM (ET). Each student is required to be present for at least 1 hour (out of the 2 hour period) in their team's zoom link for  live discussion/Q&A session. The virtual room must be staffed with team members for the entirety of the 2 hours. How your team divides that time is up to you. The Data Mine encourages attending both hours if possible. The Symposium was many student’s favorite part of last year.  
+* _[Individual - all students]_ *Participation* on Wednesday April 20, 2022 from 2:30 - 4:30 PM (ET). _Each student is required to be present for at least 1 hour (out of the 2 hour period) in their team's zoom link for  live discussion/Q&A session._ The virtual room must be staffed with team members for the entirety of the 2 hours. How your team divides that time is up to you. The Data Mine encourages attending both hours if possible. The Symposium was many student’s favorite part of last year.  
 
 === Expectations
 
@@ -316,3 +332,18 @@ The video rubric follows the same criteria as the poster rubric. In addition, Th
 
 |*Overall Feedback & Comments* 
 4+|
+
+|===
+
+
+== Alternative Assignment for Symposium Attendance 
+
+This alternative assignment is *only* for students that have a University scheduled conflict (like a class or TA duties) during the full two hour window from 2:30 - 4:30 PM ET on Wednesday, April 20, 2022. Students will need to submit a screenshot as verification of their conflict. 
+
+*When:* Due Sunday, April 24 at 11:59 PM ET. Late work will not be accepted.  
+
+*What:* Download xref:attachment$spring2022-crp-alternative_symposium_assignment.docx[this file] and answer the questions in complete sentences. 
+
+*Where:* submit to link:https://www.gradescope.com/[Gradescope] as a *PDF* file. It is important to upload your document as a PDF. You will be deducted points if you submit any other file than a PDF.
+
+
