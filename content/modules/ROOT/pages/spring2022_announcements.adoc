@@ -3,6 +3,16 @@
 
 *Check this page frequently for announcements about the course. Announcements will also be emailed out to students*
 
+
+== (April 13) Symposium Preparation
+
+ 
+To prepare for the symposium that is ONE WEEK FROM TODAY, please review the section xref:symposium.adoc#information-to-know-for-the-day-of-the-symposium-wednesday-april-20-2022[“Information to know for the day of the symposium”].
+ 
+All students are expected to actively participate in their team’s Zoom room for at least 1 hour from 2:30 – 4:30 PM on Wednesday, April 20, 2022. Ideally, we'd love for you to participate for the full two hours if your schedule allows.
+ 
+If you have a University conflict (class or TA duties) during the full two hour session, please view this xref:symposium.adoc#alternative-assignment-for-symposium-attendance[alternative assignment].
+
 == (March 7) Symposium reminders
  
 We are halfway through the spring 2022 semester, only 13 days away from the first day of spring, and less than a week away from spring break! Here are a few updates. 
