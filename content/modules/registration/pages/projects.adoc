@@ -16,7 +16,7 @@ Project descriptions for AY 2022-23 will be added on a *rolling basis* to this p
 === Homepage
 The homepage includes links to the _Companies, Projects, and Search_ page. 
 
-image::HomePage.png[Homepage, height=250, loading=lazy, title="Homepage"]
+image::HomePage.png[Homepage, width = 390, height=250, loading=lazy, title="Homepage"]
 
 === Companies Page
 In the _Companies_ page, you can select a company and view the projects they have for AY 2022-23.
