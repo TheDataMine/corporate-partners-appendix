@@ -3,7 +3,7 @@
 
 Watch this video from Dr. Ward about registration. 
 ++++
-<iframe  class="video" width="560" height="315" src="https://youtu.be/tdFmIglcztA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  class="video" width="560" height="315" src="https://www.youtube.com/embed/tdFmIglcztA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ++++
 
 == Add seminar to your schedule 
