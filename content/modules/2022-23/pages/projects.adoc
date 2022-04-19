@@ -1,10 +1,19 @@
 = Corporate Partner Project Descriptions for Academic Year 2022 - 2023 
 
-== View available projects 
+
+Watch this video from Dr. Ward about registration. 
+++++
+<iframe  class="video" width="560" height="315" src="https://youtu.be/tdFmIglcztA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+++++
+
+
+== Available projects 
 
 Project descriptions for AY 2022-23 will be added on a rolling basis to this page: https://projects.the-examples-book.com/projects/
 
 == Tips for navigating the project website 
+
+
 
 
 
