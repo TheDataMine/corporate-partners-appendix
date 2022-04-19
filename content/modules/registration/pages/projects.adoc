@@ -9,13 +9,27 @@ Watch this video from Dr. Ward about registration.
 
 == Available projects 
 
-Project descriptions for AY 2022-23 will be added on a rolling basis to this page: https://projects.the-examples-book.com/projects/
+Project descriptions for AY 2022-23 will be added on a *rolling basis* to this page: https://projects.the-examples-book.com/projects/
 
 == Tips for navigating the project website 
 
+=== Homepage
+The homepage includes links to the _Companies, Projects, and Search_ page. 
 
+image::HomePage.png[Homepage, width=792, height=500, loading=lazy]
 
+=== Companies Page
+In the _Companies_ page, you can select a company and view the projects they have for AY 2022-23.
 
+=== Projects Page
+The _Projects_ page will have the list of project currently finalized project descriptions. Again, projects will be added on a *rolling basis.* Newly added projects will be on top of the list.
+
+=== Search Page
+The _Search_ page allows students to be more specific about their selection. Students can filter by Domain, Keywords, Tools, Citizenship status, and Class times.  
+
+When selecting multiple filters, the search will return any projects matching all the specified filters. 
+
+Students can also select multiple options the Keywords, Tools, and Class times filter. The search will return any projects containing one of the options selected.
 
 
 
