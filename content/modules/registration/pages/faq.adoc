@@ -19,7 +19,7 @@ _Incoming students_
 * Incoming students may register during open registration starting July 26, 2022
 
 
-*I’ve read through the project descriptions, and I’ve picked which one I want to be on. How do I register?*  
+*I’ve read through the project descriptions, and I have picked which one I want to be on. How do I register?*  
 
 See the xref:howtoregister.adoc[How to Register] page to see the registration tutorial.  
 
