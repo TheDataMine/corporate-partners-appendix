@@ -1,5 +1,0 @@
-* Academic Year 2022 - 2023
-** xref:projects.adoc[Project Descriptions]
-** xref:howtoregister.adoc[Registration Tutorial]
-** xref:faq.adoc[FAQs]
-

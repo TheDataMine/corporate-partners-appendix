@@ -41,10 +41,10 @@ _If you are admitted to Corporate Partners, follow these instructions_
 
 We will continue to update our list of project descriptions on a rolling basis throughout the summer as we confirm projects with our Corporate Partners. *Please do not register for a project just for the sake of registering, as that will take up a spot from a student that may actually want to be on that particular project.* We will have a placeholder project set up for you to use if you are unsure and want to see what projects continue to roll in. We are expecting approximately 75 projects total this next academic year, so you will have plenty to choose from.
 
-== Review Project Descriptions 
-1. Read through the team descriptions available under xref:projects.adoc[Projects].
 
-2. Click on the appropriate link below depending on if you need to register for TDM 11100/21100/31100/41100. This level is dependent on how many years you have been in CRP, not how many years you have been in The Data Mine (seminar). If this is your first year in The Data Mine Corporate Partners, you need to register for TDM 11100 DMCP.   
+1. Read through the team descriptions available under xref:projects.adoc[Corporate Partner Projects].
+
+2. Click on the appropriate link below depending on if you need to register for TDM 11100/21100/31100/41100. This level is dependent on how many years you have been in Corporate Partners, not how many years you have been in The Data Mine (seminar). If this is your first year in The Data Mine Corporate Partners, you need to register for TDM 11100 DMCP.   
 
 +
 --
@@ -81,7 +81,6 @@ We will continue to update our list of project descriptions on a rolling basis t
 8. Click on New Course  
 
  
-
 9. Search for TDM 11100 (or 21100 or 31100 if you have been in Corporate Partners multiple years). Click on TDM 11100 Corporate Partners and then click Select in the top right corner.  
 
 10. Scroll through the list to find the section you want to add. Click on it when you find it.  
