@@ -49,15 +49,15 @@ We will continue to update our list of project descriptions on a rolling basis t
 +
 --
 
-* TDM 11100 Sections: Link to be added
+* link:https://selfservice.mypurdue.purdue.edu/prod/BZWSLCSR.P_Prep_Search?term_in=202310&crn_in=12318[TDM 11100 Sections]
 
-* TDM 21100 Sections: Link to be added
+* link:https://selfservice.mypurdue.purdue.edu/prod/BZWSLCSR.P_Prep_Search?term_in=202310&crn_in=14755[TDM 21100 Sections]
 
-* TDM 31100 Sections: Link to be added
+* link:https://selfservice.mypurdue.purdue.edu/prod/BZWSLCSR.P_Prep_Search?term_in=202310&crn_in=14771[TDM 31100 Sections]
 
-* TDM 41100 Sections: Link to be added
+* link:https://selfservice.mypurdue.purdue.edu/prod/BZWSLCSR.P_Prep_Search?term_in=202310&crn_in=14770[TDM 41100 Sections]
 
-* _[Grad students only]_ TDM 51100 Sections 
+* _[Grad students only]_ link:https://selfservice.mypurdue.purdue.edu/prod/BZWSLCSR.P_Prep_Search?term_in=202310&crn_in=15789[TDM 51100 Sections]
 
 
 +
