@@ -16,7 +16,7 @@ SHAREPOINT
 
 Box
 ++++
-<iframe width="800" height="200" frameborder="0" scrolling="no" src= 'https://app.box.com/s/xjy8cqut1ea6rdqz8eid4v0zd8l29cs5'></iframe>
+<iframe width="800" height="200" frameborder="0" scrolling="no" src="https://app.box.com/s/xjy8cqut1ea6rdqz8eid4v0zd8l29cs5" Item=PivotTable1& ActiveCell=B4&wdHideGridlines=True &wdHideHeaders=True& wdDownloadButton=True”></iframe>
 ++++
 
 == Testing 
