@@ -14,7 +14,7 @@ jobs:
       env: 
         CLOUDFLARE_HOOK_SECRET: ${{ secrets.CLOUDFLARE_HOOK_SECRET }}
       run: |
-        curl -X POST "https://api.cloudflare.com/client/v4/pages/webooks/deploy_hooks/$CLOUDFLARE_HOOK_SECRET"
+        curl -X POST https://api.cloudflare.com/client/v4/pages/webooks/deploy_hooks/"$CLOUDFLARE_HOOK_SECRET"
         
   wait:
     needs: build
