@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: Use Cloudflare Pages hook to deploy website
       run: |
-        curl -X POST https://api.cloudflare.com/client/v4/pages/webooks/deploy_hooks/"$CLOUDFLARE_HOOK_SECRET"
+        curl -X POST https://api.cloudflare.com/client/v4/pages/webooks/deploy_hooks/"${{ secrets.CLOUDFLARE_HOOK_SECRET }}"
         
   wait:
     needs: build
