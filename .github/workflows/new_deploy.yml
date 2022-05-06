@@ -13,7 +13,9 @@ jobs:
       shell: bash
       env: 
         CLOUDFLARE_HOOK_SECRET: ${{ secrets.CLOUDFLARE_HOOK_SECRET }}
+        TEST: ${{ secrets.TEST }}
       run: |
+        echo "$TEST"
         curl -X POST https://api.cloudflare.com/client/v4/pages/webooks/deploy_hooks/"$CLOUDFLARE_HOOK_SECRET"
         
   wait:
