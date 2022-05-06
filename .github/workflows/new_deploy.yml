@@ -9,6 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-20.04
     steps:
+    - uses: actions/checkout@v2
+      with:
+        repository: TheDataMine/corporate-partners-appendix
+        ref: main
     - name: Use Cloudflare Pages hook to deploy website
       env: 
         CLOUDFLARE_HOOK_SECRET: ${{ secrets.CLOUDFLARE_HOOK_SECRET }}
