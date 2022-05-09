@@ -3,7 +3,71 @@
 
 *Announcements will be emailed out to mentors and also logged here.*
 
-== (January 25) Week 3 Updates
+
+== (May 9, 2022) Semester Wrap Up
+
+The academic year is officially over, and we want to say *thank you* to each and every one of you that made this year successful and impactful for our students. One of our graduating seniors shared on LinkedIn that _“This [Corporate Partners] research project within The Data Mine has no doubt been the highlight of my undergraduate career here at Purdue.”_
+ 
+*External Advisory Council Report*
+
+Our External Advisory Council representatives meet annually to provide feedback to The Data Mine. The chair of the session, Meghan Tooman, summarized the information in the attached report. If you have additional feedback, we’d love to hear your input. Feel welcome to send us an email or schedule a meeting to discuss.  
+ 
+*Summer Mentor Meetings*
+
+During the summer months, we focus on planning for fall. We have two types of biweekly meetings.
+
+* 25-minute biweekly meetings with each corporate partner to discuss the unique needs and strategies for individual projects. We will reach out to you to schedule these.
+
+* 45-minute mentor trainings and networking sessions for all mentors.
+ 
+[%header,format=csv]
+|===
+Date, Time, Location, Topic
+"Monday, May 23", 12:00 – 1:30 PM ET, Online, Summer Planning Kickoff
+"Monday, June 6", 12:00 – 12:45 PM ET, Online, Technical resources & data sharing
+"Monday, June 20", 12:00 – 12:45 PM ET, Online and in-person option for those local or able to travel, Shared best practices: networking with other CRP mentors
+"Tuesday, July 5"
+12:00 – 12:45 PM ET
+Online
+Engaging with your TA
+"Monday, July 18"
+12:00 – 12:45 PM ET
+Online
+Agile & project charter
+"Monday, August 1"
+12:00 – 12:45 PM ET
+Online and in-person option for those local or able to travel
+Open discussion and networking for the final weeks of summer planning
+"Monday, August 15",12:00 – 12:45 PM ET,Online, Transition from planning to action: semester starts in 1 week
+
+|===
+ 
+*Project Descriptions*
+
+Registration is open now for students to select their project for fall. Project descriptions need to be submitted ASAP if you have not sent them already.
+ 
+*Mentor Resources*
+
+Per the EAC report, we are working on providing more resources for our mentors. If you have feedback or suggestions on resources that would be most valuable to you, please let us know.
+ 
+*TA Hiring*
+
+We have interviewed 140+ TA candidates via group interviews so far. We are excited to begin matching TAs to projects/mentors in early summer. If there is a specific student/TA from your team last year that you would like to request, please let us know. We will make introductions to your TA before finalizing the candidate.
+ 
+*Slack link*
+
+One of the action items from the EAC meeting was to create a Slack group for mentors to communicate with each other. Mentors are always welcome to write to dmcrp-mentors@lists.purdue.edu to communicate with other mentors, or now we have a Slack group you can join. Important information and updates will always be emailed out, but you’re invited to join the Slack group for additional chatter and resource sharing.
+ 
+*Symposium*
+
+The link:https://datamine.purdue.edu/symposium/welcome.html[posters and videos] will remain available for sharing and reviewing if you didn’t get a chance to check out the student work.
+ 
+*News*
+
+Check out this new link:https://stories.purdue.edu/data-science-for-all-thriving-in-a-human-centered-data-driven-workforce/[story that follows the student experience of The Data Mine]. Follow along on our link:https://www.linkedin.com/company/datamine-purdue[Data Mine LinkedIn] page.
+ 
+
+== (January 25, 2022) Week 3 Updates
 
 We hope you’ve had a great start to the spring 2022 semester in The Data Mine. My goal is to provide regular updates this semester, so here are 5 things to know for at the end of week #3 (middle of sprint #2).
  
@@ -54,7 +118,7 @@ This study, “Writing in Data-Driven Workplaces,” has been approved by the In
 +
 
 
-== (January 7) Updates for Spring 2022
+== (January 7, 2022) Updates for Spring 2022
 
 We hope you enjoyed the holiday break and are off to a great year! Spring 2022 semester at Purdue starts on *Monday, January 10* so we have some updates to share. 
 
